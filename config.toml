@@ -2,3 +2,7 @@ baseURL = "http://urbanar-project-report.arjonagelhout.nl"
 languageCode = "en-us"
 title = "UrbanAR Project Report"
 theme = "ProjectReportTheme"
+
+[Params.documentSettings]
+    logoURL = "/images/urbanar_logo-01.png"
+    documentTitle = "Project Report"
