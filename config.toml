@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://urbanar-project-report.arjonagelhout.nl"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "UrbanAR Project Report"
+theme = "ProjectReportTheme"
