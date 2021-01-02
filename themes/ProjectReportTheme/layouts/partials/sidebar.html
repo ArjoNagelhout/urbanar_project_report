@@ -1,5 +1,5 @@
 <div class="sidebar">
-    <img src="{{ .Site.Params.documentSettings.logoURL }}" class="document-logo">
+    <a href="/"><img src="{{ .Site.Params.documentSettings.logoURL }}" class="document-logo"></a>
     <p class="document-title">{{ .Site.Params.documentSettings.documentTitle }}</p>
     <nav class="sidebar-nav">
         {{ $currentPage := . }}
@@ -7,7 +7,7 @@
         <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
         {{ end }}
     </nav>
-    <ul>
+    <!--<ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
             {{ if .HasChildren }}
@@ -33,5 +33,5 @@
                 </li>
             {{ end }}
         {{ end }}
-    </ul>
+    </ul>>-->
 </div>
