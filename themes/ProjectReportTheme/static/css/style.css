@@ -30,7 +30,9 @@ body {
     padding-top:7rem;
     color:white;
     box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.05);
+    z-index:5;
 }
+
 
 .document-title {
     font-size: 2.5rem;
@@ -67,6 +69,12 @@ body {
     margin-left:2.8rem;
 }
 
+.subsubitem {
+    font-size:1.4rem;
+    margin-left:5.8rem;
+    border-left: 0.3rem solid white;
+}
+
 .sidebar-nav {
     background-color:#008fd1;
 }
@@ -87,13 +95,50 @@ body {
     position:fixed;
     top:0;
     left:0;
-    padding:1rem;
+    padding:1.5rem;
     display:none;
+    z-index:10;
+    box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.05);
+}
+
+.topbar-logo-wrapper {
+    flex-shrink:0;
+    flex-grow:1;
+    width:20rem;
 }
 
 .topbar-logo {
+    max-width:100%;
     max-height:100%;
-    width:auto;
+}
+
+button {
+    width:4.6rem;
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+    outline: inherit;
+    transition: transform .2s;
+}
+
+button:hover {
+    transform:scale(0.9);
+}
+
+button svg {
+    width:2.4rem;
+    color:white;
+}
+
+.close-button {
+    position:absolute;
+    right:1.5rem;
+    top:2.5rem;
+    z-index:100;
+    display:none;
 }
 
 
@@ -185,7 +230,11 @@ ul {
     line-height:1.7;
 }
 
-@media (max-width: 1000px) {
+.hamburger-button {
+    display: block;
+}
+
+@media (max-width: 950px) {
 
     #content img, #content video {
         max-height:40rem;
@@ -193,16 +242,58 @@ ul {
 
     .sidebar {
         width:100%;
+    }
+
+    .sidebar {
         display:none;
+    }
+
+    .shown {
+        display:block;
+    }
+
+    .sidebarShown {
+        box-shadow: none;
+    }
+
+    .sidebarShown .close-button {
+        display:block;
+    }
+
+    .sidebarShown .hamburger-button {
+        display: none;
     }
 
     .topbar {
         display:flex;
     }
 
+    .document-logo {
+        display:none;
+    }
+
     #content {
         margin-left:0;
         margin-top:8rem;
+        padding: 2rem 2rem;
+    }
+
+    .fig-container {
+        margin-left:-2rem;
+        margin-right:-2rem;
+    }
+
+    .sitetitle {
+        font-size:5rem;
+    }
+
+    .subtitle {
+        font-size:2.5rem;
+    }
+
+    h1 {
+        font-size:3.5rem;
+        margin-top:0;
     }
 }
 
