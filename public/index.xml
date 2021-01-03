@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UrbanAR Project Report</title>
+    <link>http://urbanar-project-report.arjonagelhout.nl/</link>
+    <description>Recent content on UrbanAR Project Report</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 21:48:17 +0100</lastBuildDate><atom:link href="http://urbanar-project-report.arjonagelhout.nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/introduction/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/introduction/</guid>
+      <description>Introduction </description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/process/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/process/</guid>
+      <description>Process </description>
+    </item>
+    
+    <item>
+      <title>Reflection</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/reflection/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/reflection/</guid>
+      <description>Reflection </description>
+    </item>
+    
+    <item>
+      <title>AR Build System</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/ar_build_system/ar_build_system/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/ar_build_system/ar_build_system/</guid>
+      <description>AR Build System </description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/evaluation/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/evaluation/</guid>
+      <description>Evaluation </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/</guid>
+      <description>UrbanAR  An Augmented Reality Design Tool for Urban Design and Planning 
+   About UrbanAR We want to make the urban design and planning process of our cities more fun and engaging: to make our cities more of a collaborative effort and better for everyone. Currently, municipalities are using old methods to get input from citizens, but we can change that!
+That’s why we set out to create UrbanAR.</description>
+    </item>
+    
+    <item>
+      <title>Iteration 1</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/iteration_1/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/iteration_1/</guid>
+      <description>Iteration 1 </description>
+    </item>
+    
+    <item>
+      <title>Iteration 2</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/iteration_2/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/iteration_2/</guid>
+      <description>Iteration 2 </description>
+    </item>
+    
+    <item>
+      <title>Iteration 3</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/iteration_3/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/iteration_3/</guid>
+      <description>Iteration 3 </description>
+    </item>
+    
+    <item>
+      <title>Platform</title>
+      <link>http://urbanar-project-report.arjonagelhout.nl/platform/</link>
+      <pubDate>Sat, 02 Jan 2021 21:48:17 +0100</pubDate>
+      
+      <guid>http://urbanar-project-report.arjonagelhout.nl/platform/</guid>
+      <description>Platform </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,321 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 62.5%;
+    
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin:0;
+}
+
+#content {
+    
+    margin-left:35rem;
+    padding:4rem 5rem;
+}
+
+.sidebar {
+    background-color:#00ADED;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    width:35rem;
+    overflow-x:hidden;
+    padding: 2rem 0;
+    padding-top:7rem;
+    color:white;
+    box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.05);
+    z-index:5;
+}
+
+
+.document-title {
+    font-size: 2.5rem;
+    font-weight:bold;
+    margin-left:2.6rem;
+    
+    margin-top:4rem;
+    margin-bottom:1rem;
+}
+
+.document-logo {
+    max-width:100%;
+    padding: 0 5rem;
+}
+
+.sidebar-nav-item {
+    color:white;
+    text-decoration: none;
+    display:block;
+    font-size:1.8rem;
+    font-weight:500;
+    padding: 1.6rem 2.6rem;
+    transition: padding .2s, alpha .2s;
+}
+
+.sidebar-nav-item:hover {
+    color: rgba(255, 255, 255, 0.712);
+    padding-left:3.2rem;
+}
+
+.subitem {
+    font-size:1.6rem;
+    border-left: 0.3rem solid white;
+    margin-left:2.8rem;
+}
+
+.subsubitem {
+    font-size:1.4rem;
+    margin-left:5.8rem;
+    border-left: 0.3rem solid white;
+}
+
+.sidebar-nav {
+    background-color:#008fd1;
+}
+
+.active {
+    color:#008fd1;
+    background-color:white;
+}
+
+.active:hover {
+    color:#008fd1b6;
+}
+
+.topbar {
+    height:8rem;
+    background-color:#00ADED;
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    padding:1.5rem;
+    display:none;
+    z-index:10;
+    box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.05);
+}
+
+.topbar-logo-wrapper {
+    flex-shrink:0;
+    flex-grow:1;
+    width:20rem;
+}
+
+.topbar-logo {
+    max-width:100%;
+    max-height:100%;
+}
+
+button {
+    width:4.6rem;
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+    outline: inherit;
+    transition: transform .2s;
+}
+
+button:hover {
+    transform:scale(0.9);
+}
+
+button svg {
+    width:2.4rem;
+    color:white;
+}
+
+.close-button {
+    position:absolute;
+    right:1.5rem;
+    top:2.5rem;
+    z-index:100;
+    display:none;
+}
+
+
+h1 {
+    margin-top:4rem;
+    font-size:5rem;
+
+    max-width:80rem;
+}
+
+h2 {
+    font-size:3rem;
+    margin-top:3rem;
+    margin-bottom:2rem;
+
+    max-width:80rem;
+}
+
+.sitetitle {
+    font-size:10rem;
+    margin-top:2rem;
+    margin-bottom:0;
+}
+
+.subtitle {
+    margin-top:0;
+    margin-bottom:5rem;
+    font-size:3rem;
+    font-weight:normal;
+}
+
+h3 {
+    font-size:2.2rem;
+    margin-bottom:1rem;
+    margin-top:4rem;
+}
+
+p {
+    /*font-family: 'Lora', serif;*/
+    font-size:1.6rem;
+    line-height:1.7;
+    max-width:80rem;
+}
+
+figure {
+    margin:4rem 0;
+    margin-top:4rem;
+    /*padding-top:2rem;*/
+    text-align:center;
+    max-width:80rem;
+}
+
+#content img, #content video {
+    max-width:100%;
+    max-height:60rem;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.2);
+}
+
+figcaption p {
+    font-size:1.4rem;
+    font-weight:500;
+    margin-top:1rem;
+    max-width:100%;
+}
+
+a {
+    color:black;
+}
+
+.fig-container {
+
+    background-color:#f0f0f0;
+    margin: 3rem -5rem;
+    padding: 2rem 5rem;
+}
+
+.youtube-video-container {
+    max-width:80rem;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    font-size:1.6rem;
+    line-height:1.7;
+}
+
+.hamburger-button {
+    display: block;
+}
+
+@media (max-width: 950px) {
+
+    #content img, #content video {
+        max-height:40rem;
+    }
+
+    .sidebar {
+        width:100%;
+    }
+
+    .sidebar {
+        display:none;
+    }
+
+    .shown {
+        display:block;
+    }
+
+    .sidebarShown {
+        box-shadow: none;
+    }
+
+    .sidebarShown .close-button {
+        display:block;
+    }
+
+    .sidebarShown .hamburger-button {
+        display: none;
+    }
+
+    .topbar {
+        display:flex;
+    }
+
+    .document-logo {
+        display:none;
+    }
+
+    #content {
+        margin-left:0;
+        margin-top:8rem;
+        padding: 2rem 2rem;
+    }
+
+    .fig-container {
+        margin-left:-2rem;
+        margin-right:-2rem;
+    }
+
+    .sitetitle {
+        font-size:5rem;
+    }
+
+    .subtitle {
+        font-size:2.5rem;
+    }
+
+    h1 {
+        font-size:3.5rem;
+        margin-top:0;
+    }
+}
+
+@media (min-width: 600px) {
+
+    .fig-container {
+        padding: 2rem;
+        display:flex;
+        flex-direction: row;
+        flex-wrap:wrap;
+    }
+    
+    .fig-container figure {
+        margin:0;
+        padding:0;
+        margin-top:3rem;
+        margin-left:2rem;
+        margin-right:2rem;
+    }
+
+    #content .fig-container img, 
+    #content .fig-container video {
+        max-height:35rem;
+    }
+}
