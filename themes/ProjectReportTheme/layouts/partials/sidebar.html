@@ -4,34 +4,24 @@
     <nav class="sidebar-nav">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-        {{ end }}
-    </nav>
-    <!--<ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-                <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                    <a href="{{ .URL }}">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
-                <ul class="sub-menu">
-                    {{ range .Children }}
-                        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                </ul>
-            {{ else }}
-                <li>
-                    <a href="{{ .URL }}">
-                        {{ .Pre }}
-                        <span>{{ .Name }}</span>
-                    </a>
-                </li>
+        <a class='sidebar-nav-item{{if ($currentPage.IsMenuCurrent "main" .)}} active{{end}}' 
+            href="{{ .URL }}" 
+            title="{{ .Title }}">
+            {{ .Name }}
+        </a>
+        {{ if .HasChildren }}
+            {{ range .Children }}
+            <a class='sidebar-nav-item subitem{{if ($currentPage.IsMenuCurrent "main" .)}} active{{end}}'
+                href="{{ .URL }}" 
+                title="{{ .Title }}">
+                {{ .Name }}
+            </a>
             {{ end }}
         {{ end }}
-    </ul>>-->
+        {{ end }}
+    </nav>
+</div>
+<div class="topbar">
+    <a href="/"><img src="{{ .Site.Params.documentSettings.logoURL }}" class="topbar-logo"></a>
+    <p class="document-title">{{ .Site.Params.documentSettings.documentTitle }}</p>
 </div>

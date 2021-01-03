@@ -6,3 +6,4 @@ theme = "ProjectReportTheme"
 [Params.documentSettings]
     logoURL = "/images/urbanar_logo-01.png"
     documentTitle = "Project Report"
+    addressbarTitle = "UrbanAR Project Report"
