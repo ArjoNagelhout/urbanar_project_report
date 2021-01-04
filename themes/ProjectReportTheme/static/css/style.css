@@ -235,6 +235,28 @@ ul {
     line-height:1.7;
 }
 
+ol {
+    font-size:1.6rem;
+    
+}
+
+ol li {
+    margin-bottom:1rem;
+    line-height:1.7;
+}
+
+table {
+    font-size:1.6rem;
+    border-collapse:collapse;
+    border:1px solid black;
+    border-radius:1rem;
+}
+
+th, td {
+    padding:1rem;
+    border:1px solid black;
+}
+
 .hamburger-button {
     display: block;
 }
