@@ -1,7 +1,11 @@
-
+{{ $image := $.Page.Resources.GetMatch (.Get "src")}}
 <a name='{{ .Get "name" }}'></a>
 <figure>
+    {{ with $image }}
+    <img src="{{ $image.RelPermalink }}"/>
+    {{ else }}
     <img src='{{ .Get "src" }}'>
+    {{ end }}
     <figcaption>
         <p>{{ .Get "caption" }}</p>
     </figcaption>
