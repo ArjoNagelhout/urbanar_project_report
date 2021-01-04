@@ -6,7 +6,7 @@ draft: false
 menu:
     main:
         parent: "Iteration 3"
-        weight: 2
+        weight: 1
 ---
 
 # Platform
