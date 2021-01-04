@@ -11,4 +11,4 @@ menu:
 
 # Designing the AR Build System
 
-It's simply unbelievable
+Designing for augmented reality is hard, since it is 

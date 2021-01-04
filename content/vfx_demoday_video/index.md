@@ -1,0 +1,27 @@
+---
+title: "Behind the VFX shots"
+date: 2021-01-02T21:48:17+01:00
+draft: false
+
+menu:
+    main:
+        parent: "Iteration 3"
+        weight: 5
+---
+
+# Behind the VFX shots
+
+To further drive the scope of our ideas home in the promotional video, we wanted to go all out with visual effects. Three VFX shots were created over the span of five days. 
+
+We bought the DJI Mavic Mini, which is an inexpensive drone with good image quality, to make a zoom out shot and a city overview shot. 
+
+## VFX Shot 1 - City skyline
+{{< video src="videos/shot_1.mp4" caption="VFX Final Shot 1 - City skyline" >}}
+
+
+
+## Shot 2
+{{< video src="videos/shot_2.mp4" caption="VFX Final Shot 2 - Showing off what he has built" >}}
+
+## Shot 3
+{{< video src="videos/shot_3.mp4" caption="VFX Final Shot 3 - Zoom out from building in augmented reality to the map overview" >}}
