@@ -11,9 +11,9 @@ menu:
 
 # Behind the VFX shots
 
-To further drive the scope of our ideas home in the promotional video, we wanted to go all out with visual effects. Three VFX shots were created over the span of five days. 
+To further drive the scope of our ideas home in the promotional video, we wanted to go all out with visual effects. Three VFX shots were created over the span of five days. The programs we have used are [Blender](https://www.blender.org) for tracking and 3d modelling, [Compressor](https://www.apple.com/final-cut-pro/compressor/) for video conversion and [Final Cut Pro](https://www.apple.com/final-cut-pro/) for combining the footage into the end result. 
 
-We bought the DJI Mavic Mini, which is an inexpensive drone with good image quality, to make a zoom out shot and a city overview shot. 
+We bought the [DJI Mavic Mini](https://www.dji.com/mavic-mini), which is an inexpensive drone with good image quality, to make a zoom out shot and a city overview shot. 
 
 ## VFX Shot 1 - City skyline
 {{< video src="videos/shot_1.mp4" caption="VFX Final Shot 1 - City skyline" >}}
