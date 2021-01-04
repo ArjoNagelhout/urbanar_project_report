@@ -218,8 +218,8 @@ a {
     padding: 2rem 5rem;
 }
 
-.youtube-video-container {
-    max-width:80rem;
+.youtube-video-wrapper {
+    border-radius:1rem;
 }
 
 ul {
