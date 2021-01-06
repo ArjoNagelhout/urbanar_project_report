@@ -276,6 +276,8 @@ blockquote p {
     font-size:2.3rem;
 }
 
+
+
 @media (max-width: 950px) {
 
     #content img, #content video {
@@ -362,12 +364,22 @@ blockquote p {
     }
 
     #content .fig-container.small img,
-    #content .fig-container.small img {
+    #content .fig-container.small video {
         max-height:25rem;
+    }
+
+    #content .fig-container.large img,
+    #content .fig-container.large video {
+        max-height:45rem;
     }
 
     #content .fig-container figure,
     #content .fig-container figure {
         max-width:50rem;
+    }
+
+    #content .fig-container.large figure,
+    #content .fig-container.large figure {
+        max-width:100%;
     }
 }

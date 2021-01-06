@@ -72,9 +72,11 @@ Next to that we defined our target group ([Presentation slide 3](#slide_3)).
 
 To illustrate our idea we created multiple visualisations using Adobe XD and Blender, which can be seen both in the presentation ([Slide 5](#slide_5) and [Slide 6](#slide_6)) and in the following videos:
 
+{{< figcontainer class="large" >}}
 {{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" gif="true" >}}
 
 {{< video src="images/presentation_app_interaction.mp4" caption="Application prototype in action" gif="true" >}}
+{{< /figcontainer >}}
 
 {{< figcontainer >}}
 {{< fig src="images/presentation_slide_1.jpg" caption="Presentation slide 1 - A playful tool for increasing citizen participation in urban planning " >}}
