@@ -5,7 +5,7 @@ draft: false
 
 menu:
     main:
-        parent: "Iteration 4"
+        parent: "Iteration 4 - UrbanAR"
         weight: 1
 ---
 
@@ -62,5 +62,6 @@ Eventually during iteration eight till ten many astonishing improvements were ma
 {{< fig src="images/version10_2.png" caption="The improved championship page" >}}
 {{< fig src="images/version10_3.png" caption="A championship submission" >}}
 {{< fig src="images/version10_4.png" caption="An AR build submission within a cluster" >}}
-{{< fig src="images/platformeverything.png" caption="An overview of many many experiments" >}}
 {{< /figcontainer >}}
+
+{{< fig src="images/platformeverything.png" caption="An overview of many many experiments" >}}

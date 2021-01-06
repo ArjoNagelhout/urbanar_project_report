@@ -58,5 +58,6 @@ Championships are pre-defined, time-bounded tournaments set up by the municipali
 {{< fig src="images/mt3.png" caption="The page of the championship submissions" name="championship_submission" >}}
 {{< fig src="images/mt4.png" caption="The page of an individual submission" name="cluster" >}}
 {{< fig src="images/mt5.png" caption="Your profile page" name="individual_submission" >}}
-{{< fig src="images/platformmidtermeverything.png" caption="An overview of the whole platform" name="individual_submission" >}}
 {{< /figcontainer >}}
+
+{{< fig src="images/platformmidtermeverything.png" caption="An overview of the whole platform" name="individual_submission" >}}
