@@ -355,4 +355,9 @@ th, td {
     #content .fig-container.small img {
         max-height:25rem;
     }
+
+    #content .fig-container figure,
+    #content .fig-container figure {
+        max-width:50rem;
+    }
 }
