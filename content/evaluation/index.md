@@ -38,7 +38,10 @@ From here we can indeed validate that creating an engaging tool that serves as a
 
 
 
-## Evaluating our final prototype
+## user-testing our final prototype
+
+ARJO SCHRIJF OVER BACKEND
+
 The user-test of the final AR building systemprototype was focused mainly on validating the usability of the building system and; the way people interact with the system and whether it was nice and fun to use. Afterwards a semi-structured interview would be conducted to get more knowledge about people's actual experience with the app: whether they find it intuitive, whether they like the visual style and whether they would take time to apply this app in the real world.
 
 To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build as can be seen on image .... This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. 

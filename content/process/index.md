@@ -9,5 +9,3 @@ menu:
         title: "Process"
 weight: 2
 ---
-
-# Process
