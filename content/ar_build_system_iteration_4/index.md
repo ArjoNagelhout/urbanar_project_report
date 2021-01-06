@@ -9,6 +9,13 @@ menu:
         weight: 3
 ---
 
+At the center of our concept lies the AR Build System. It has taken great effort to transform the concept we had at the midterm demoday towards the fully working prototype we had at the end of the project. 
+
+## High quality mockups
+The moment the midterm demoday was finished, we started creating proper concept videos. This was initially the plan for the midterm video, but we underestimated how much time it would take to do properly. 
+
+This was from 23 October to 28 October 2020
+
 ## Overcoming long build times
 One of the main issues with developing for augmented reality in Unity is the long build times. This is because every change made in the code needs to be checked on the target device, since the Unity Editor, which can run the code without building, does not have augmented reality support. 
 

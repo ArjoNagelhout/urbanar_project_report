@@ -17,6 +17,8 @@ It was decided to use the concept of using volunteers to map out biological life
 The design question for the pressure cooker was: How can we design a rewarding and engaging citizen science game for biodiversity data collection that also appeals to an audience without scientific interests?
 
 {{< fig src="images/miro_board.jpg" caption="Miro board, exploration of the link between scientific research and games" >}}
+{{< fig src="images/miro_board_2.jpg" caption="Miro board, part 2" >}}
+
 
 ## Conceptualization
 Our concept was to make a game in which the player collects plants and animals in real life by taking pictures of them. The app turns these into in-game characters which allows users to use those plants and animals in battles against other players to earn badges or other rewards. A big inspiration for these game decisions came from the game Pokemon GO. (https://www.pokemongo.com/en-us/) There was also an idea to have an in-game garden/animal pen to see what kind of plants and animals you already collected. Further research had to be done on what makes games fun, compatible, entertaining to play, and how to keep players playing. Further implementations we thought of were, water bottles you had to pick up to water your plants, to keep stimulating the players to use the app. 
