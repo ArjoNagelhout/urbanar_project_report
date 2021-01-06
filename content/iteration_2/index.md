@@ -1,5 +1,5 @@
 ---
-title: "Iteration 2 - Citizen participation"
+title: "Iteration 2 - From Scientific Discovery Games to Citizen Participation in Urban Planning"
 date: 2021-01-02T21:48:17+01:00
 draft: false
 
@@ -9,7 +9,7 @@ menu:
         weight: 2
 ---
 
-# Iteration 2
+# Iteration 2 - From Scientific Discovery Games to Citizen Participation in Urban Planning
 
 Iteration 2 spans a timeframe of two weeks, between 12 september 2020 to 25 september 2020. 
 

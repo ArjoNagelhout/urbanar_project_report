@@ -145,13 +145,11 @@ button svg {
 h1 {
     margin-top:4rem;
     font-size:5rem;
-
-    max-width:80rem;
 }
 
 h2 {
     font-size:3rem;
-    margin-top:3rem;
+    margin-top:5rem;
     margin-bottom:2rem;
 
     max-width:80rem;
