@@ -7,10 +7,6 @@ menu:
     main:
         parent: "Process"
         weight: 4
-<<<<<<< Updated upstream
 ---
 
-Iteration 4 spans over the timeframe from the midterm demo day all the way to the final demo day, between 23 October 2020 to 18 December 2020. 
-=======
----
->>>>>>> Stashed changes
+# Iteration 4
