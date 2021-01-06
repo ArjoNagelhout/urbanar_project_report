@@ -49,6 +49,7 @@ We continued looking into the many possibilities, from behavioural science and c
 {{< fig src="images/2020-09-22_notebook_2.jpg" caption="Notebook page 9" >}}
 {{< fig src="images/2020-09-22_notebook_3.jpg" caption="Notebook page 10" >}}
 {{< fig src="images/2020-09-22_notebook_4.jpg" caption="Notebook page 11" name="notebook_page_11" >}}
+{{< fig src="images/IMG_6403.JPG" caption="Notebook page 12" name="notebook_page_12" >}}
 {{< /figcontainer >}}
 
 The novelty in our idea of collecting citizen input was to utilise world-scale Augmented Reality. This allows citizens to indicate what they want in their neighbourhood to change directly in the context of the real world. Municipalities could then see where something needed to be changed. Next to municipalities, people could see what other people wanted changed and this could spark discussions. 

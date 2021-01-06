@@ -1,5 +1,5 @@
 ---
-title: "Platform final"
+title: "Platform"
 date: 2021-01-02T21:48:17+01:00
 draft: false
 
@@ -11,10 +11,10 @@ menu:
 
 Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. The SDK of Mapbox was implemented in Unity and the first version of our prototype worked. You could actually see yourself walking around in your neighbourhood. A first implementation of buttons (build button and profile page) was added later on.
 
-{{< figcontainer class="left" >}}
-{{< fig src="images/IMG_5649.JPG" caption="Screens of the Unity prototype" name="main_screen" >}}
-{{< fig src="images/IMG_5650.JPG" caption="" >}}
-{{< /figcontainer >}}
+
+{{< fig src="images/IMG_5649.JPG" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="main_screen" >}}
+
+
 
 A meeting with Regina steered us in a different direction. Our focus shifted from realizing to actually validating our system. We discussed the main points we wanted to communicate about our project for both the platform and the building system.
 For the platform, this was mainly to show its core functionality and aesthetics. Therefore focusing on a more simple realization method in AdobeXD would be a more appropriate choice to realize these goals, as visualizing the user in their own neighborhood was not a core feature.
