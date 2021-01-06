@@ -187,6 +187,8 @@ figure {
     /*padding-top:2rem;*/
     text-align:center;
     max-width:80rem;
+
+    display:table;
 }
 
 #content img, #content video {
@@ -196,6 +198,11 @@ figure {
     margin-right:auto;
     border-radius: 1rem;
     box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.2);
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
 }
 
 figcaption p {
