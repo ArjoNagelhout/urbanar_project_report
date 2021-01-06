@@ -61,9 +61,31 @@ The novelty in our idea of collecting citizen input was to utilise world-scale A
 {{< fig src="images/2020-09-24_drawing_brainstorming.jpg" caption="Brainstorming session (24 September 2020)" >}}
 {{< /figcontainer >}}
 
-Because of the large difference between the previous presentation for the pressure cooker and this new concept, we put a lot of work in the presentation. 
+## Presentation
+Because of the large difference between the previous presentation for the pressure cooker and this new concept, we put a lot of work in the presentation. We defined our new research question, as well as linking it to current research. 
 
+Our research question was now:
 
+> "How can we improve engagement of citizens in urban planning and public space design efforts of municipalities using gamification and emerging technologies as location based augmented reality?"
+
+Next to that we defined our target group ([Presentation slide 3](#slide_3)). 
+
+To illustrate our idea we created multiple visualisations using Adobe XD and Blender, which can be seen both in the presentation ([Slide 5](#slide_5) and [Slide 6](#slide_6)) and in the following videos:
+
+{{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" gif="true" >}}
+
+{{< video src="images/presentation_app_interaction.mp4" caption="Application prototype in action" gif="true" >}}
+
+{{< figcontainer >}}
+{{< fig src="images/presentation_slide_1.jpg" caption="Presentation slide 1 - A playful tool for increasing citizen participation in urban planning " >}}
+{{< fig src="images/presentation_slide_2.jpg" caption="Presentation slide 2 - Overview" >}}
+{{< fig src="images/presentation_slide_3.jpg" caption="Presentation slide 3 - Research question and target group" name="slide_3">}}
+{{< fig src="images/presentation_slide_4.jpg" caption="Presentation slide 4 - Societal relevance" >}}
+{{< fig src="images/presentation_slide_5.jpg" caption="Presentation slide 5 - Exploratory design - Platform" name="slide_5">}}
+{{< fig src="images/presentation_slide_6.jpg" caption="Presentation slide 6 - Exploratory design - AR Building system" name="slide_6">}}
+{{< fig src="images/presentation_slide_7.jpg" caption="Presentation slide 7 - Process" >}}
+{{< fig src="images/presentation_slide_8.jpg" caption="Presentation slide 8 - Moving forward" >}}
+{{< /figcontainer >}}
 
 ## References
 1. {{< link designing_sdgs_paper >}}Cooper, S. The challenge of designing scientific discovery games. *Proceedings of the Fifth International Conference on the Foundations of Digital Games. Jun 2010. Pages 40-47.* http://doi.org/10.1145/1822348.1822354 
