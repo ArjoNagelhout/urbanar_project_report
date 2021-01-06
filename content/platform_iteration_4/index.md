@@ -9,10 +9,9 @@ menu:
         weight: 1
 ---
 
-# Platform
 Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. The SDK of Mapbox was implemented in Unity and the first version of our prototype worked. You could actually see yourself walking around in your neighbourhood. A first implementation of buttons (build button and profile page) was added later on.
 
-{{< figcontainer >}}
+{{< figcontainer class="left" >}}
 {{< fig src="images/IMG_5649.JPG" caption="Screens of the Unity prototype" name="main_screen" >}}
 {{< fig src="images/IMG_5650.JPG" caption="" >}}
 {{< /figcontainer >}}

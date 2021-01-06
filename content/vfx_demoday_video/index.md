@@ -1,5 +1,5 @@
 ---
-title: "Behind the VFX shots"
+title: "Demoday 18 December 2020"
 date: 2021-01-02T21:48:17+01:00
 draft: false
 
@@ -8,8 +8,6 @@ menu:
         parent: "Iteration 4 - UrbanAR"
         weight: 5
 ---
-
-# Behind the VFX shots
 
 To further drive the scope of our ideas home in the promotional video, we wanted to go all out with visual effects. Three VFX shots were created over the span of five days. The programs we have used are [Blender](https://www.blender.org) for tracking and 3d modelling, [Compressor](https://www.apple.com/final-cut-pro/compressor/) for video conversion and [Final Cut Pro](https://www.apple.com/final-cut-pro/) for combining the footage into the end result. 
 

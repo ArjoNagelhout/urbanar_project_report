@@ -200,6 +200,8 @@ figure {
     box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.2);
 }
 
+
+
 figcaption {
     display: table-caption;
     caption-side: bottom;
@@ -364,6 +366,10 @@ blockquote p {
         margin-right:2rem;
     }
 
+    .fig-container.left {
+        justify-content:flex-start;
+    }
+
     #content .fig-container img, 
     #content .fig-container video {
         max-height:35rem;
@@ -384,8 +390,19 @@ blockquote p {
         max-width:50rem;
     }
 
+
+
     #content .fig-container.large figure,
     #content .fig-container.large figure {
         max-width:100%;
     }
+}
+
+.no-table {
+    display:block;
+}
+
+.no-table figcaption {
+    display: block;
+    caption-side: unset;
 }

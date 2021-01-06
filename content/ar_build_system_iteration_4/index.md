@@ -1,5 +1,5 @@
 ---
-title: "Programming the AR Build System"
+title: "AR Build System"
 date: 2021-01-02T21:48:17+01:00
 draft: false
 
@@ -8,10 +8,6 @@ menu:
         parent: "Iteration 4 - UrbanAR"
         weight: 3
 ---
-
-# Programming the AR Build System
-
-
 
 ## Overcoming long build times
 One of the main issues with developing for augmented reality in Unity is the long build times. This is because every change made in the code needs to be checked on the target device, since the Unity Editor, which can run the code without building, does not have augmented reality support. 
