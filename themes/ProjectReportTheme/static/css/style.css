@@ -209,6 +209,7 @@ figcaption p {
 
 a {
     color:black;
+    color:#00ADED;
     transition: color .2s;
 }
 
@@ -259,6 +260,10 @@ th, td {
 
 .hamburger-button {
     display: block;
+}
+
+.fig-container.small img {
+    max-height:25rem;
 }
 
 @media (max-width: 950px) {
@@ -344,5 +349,10 @@ th, td {
     #content .fig-container img, 
     #content .fig-container video {
         max-height:35rem;
+    }
+
+    #content .fig-container.small img,
+    #content .fig-container.small img {
+        max-height:25rem;
     }
 }
