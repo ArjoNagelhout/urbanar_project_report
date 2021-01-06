@@ -9,8 +9,6 @@ menu:
         weight: 1
 ---
 
-# Iteration 1 - Pressure Cooker, Biodiversity Game
-
 ## Orientation ourselves in the field of data collection
 The project started off with a pressure cooker. The first brainstorm was about what data gathering would entail in our project. It was decided that the game would be a citizen science game, “Citizen science is where volunteers, in collaboration with scientists, get involved in science. This can be collecting and analyzing data, interpreting results, classifying and transcribing information, conducting experiments or by playing citizen science games.” (https://citizensciencegames.com/about/) Benchmarking was done to see what other games were already out there. Big interest was found in a game called QuestaGame, this game would make use of volunteers to discover, map and ultimately help protect life on our planet. (https://questagame.com/) 
 

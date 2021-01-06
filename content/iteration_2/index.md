@@ -9,8 +9,6 @@ menu:
         weight: 2
 ---
 
-# Iteration 2 - From Scientific Discovery Games to Citizen Participation in Urban Planning
-
 Iteration 2 spans a timeframe of two weeks, between 12 september 2020 to 25 september 2020. 
 
 ## Adding structure to our process
