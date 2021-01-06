@@ -12,7 +12,7 @@ menu:
 # Platform
 Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. The SDK of Mapbox was implemented in Unity and the first version of our prototype worked. You could actually see yourself walking around in your neighbourhood. A first implementation of buttons (build button and profile page) was added later on.
 
-{{< figcontainer class="small" >}}
+{{< figcontainer >}}
 {{< fig src="images/IMG_5649.JPG" caption="Screens of the Unity prototype" name="main_screen" >}}
 {{< fig src="images/IMG_5650.JPG" caption="" >}}
 {{< /figcontainer >}}
@@ -26,7 +26,7 @@ The very first version was built upon the prototype made for the midterm demo da
 
 The aesthetics were greatly improved in the third version. Every build page was fully colored and the saturation of colors was increased to make the app feel more alive. The voting button in the championship’s build previews were indicated with a heart as interface metaphor and the preview itself would get green once a build has been voted for.
 
-{{< figcontainer class="small" >}}
+{{< figcontainer >}}
 {{< fig src="images/version2_1.png" caption="A preview of a submission (V2)" name="main_screen" >}}
 {{< fig src="images/version2_2.png" caption="The submission of an AR build (V2)"
 name="arsubmission" >}}
@@ -38,7 +38,7 @@ name="championshipo" >}}
 
 The fourth version received the first implementation of a cluster and got rid of the option to submit a comment as it would deviate too much from the main focus of our project: the AR building system. The pages of individual pages were transformed back to mainly white, mainly because the top part was now an image, instead of an indication of the type of submission.
 
-{{< figcontainer class="small" >}}
+{{< figcontainer >}}
 {{< fig src="images/version4_1.png" caption="A preview of a cluster (V4)" name="main_screen" >}}
 {{< fig src="images/version4_2.png" caption="The grid page of a cluster (V4)" >}}
 {{< fig src="images/version4_3.png" caption="The submission page of an AR build (V4)" >}}
@@ -48,7 +48,7 @@ name="championshipo" >}}
 
 Personal profiles, as well as an achievement system was added in the fifth iteration. The seventh iteration improved the boring aesthetic of the previous achievement visualization. This iteration also added medals to the at the time three best ideas in the championship.
 
-{{< figcontainer class="small" >}}
+{{< figcontainer >}}
 {{< fig src="images/version5_1.png" caption="Your profile picture (V5)" >}}
 {{< fig src="images/version5_2.png" caption="The achievement page of another profile (V5)" >}}
 {{< fig src="images/version7_1.png" caption="The improved achievement page (V7)" >}}
@@ -57,11 +57,12 @@ Personal profiles, as well as an achievement system was added in the fifth itera
 
 Eventually during iteration eight till ten many astonishing improvements were made to make the app convey the actual feeling of being an app. The homescreen now had a real image of the user’s surroundings, as well as a profile page button. The build submissions contained actual building footage made with our own app. The championship had its own button for submissions for this specific tournament. For better hierarchy, the buttons on submission pages were decreased in size. To make the buttons pop, as well as the title of the build, the white background was replaced with an even more highly saturated colors.
 
-{{< figcontainer class="small" >}}
+{{< figcontainer >}}
 {{< fig src="images/version10_1.png" caption="The main screen (V10)" >}}
-{{< fig src="images/version10_2.png" caption="The improved championship page (V10)" >}}
+{{< fig src="images/version10_2.png" caption="The championship page (V10)" >}}
 {{< fig src="images/version10_3.png" caption="A championship submission (V10)" >}}
-{{< fig src="images/version10_4.png" caption="An AR build submission within a cluster (V10)" >}}
+{{< fig src="images/version10_4.png" caption="A cluster AR build submission (V10)" >}}
+{{< fig src="images/version10_5.png" caption="An AR build submission (V10)" >}}
 {{< /figcontainer >}}
 
 {{< fig src="images/platformgrey.jpg" caption="An overview of many many experiments (V1 - V10)" >}}

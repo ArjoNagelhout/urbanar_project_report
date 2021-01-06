@@ -13,15 +13,15 @@ menu:
 
 Start: 24/10/2020
 
-# Platform
+## Ideation on both the platform and build system
 After having chosen the initial concept we had to focus on what aspects the platform would have: how we could motivate people to use the app and make it engaging for over a longer time period.
 We performed an ideation session (figures hieronder) in which we looked at similar games and wrote down what could make our game engaging, such as avatars, leveling up by gaining XP, achievements and titles. These could make the user more interested in the app for over a longer period of time. 
 
 {{< figcontainer class="small" >}}
-{{< fig src="images/board1.jpg" caption="First whiteboard" name="whiteboard2" >}}
-{{< fig src="images/board2.jpg" caption="Second whiteboard" name="whiteboard1" >}}
-{{< fig src="images/board3.jpg" caption="Third whiteboard" name="whiteboard1" >}}
-{{< fig src="images/board4.jpg" caption="Fourth whiteboard" name="whiteboard1" >}}
+{{< fig src="images/board1.jpg" caption="Famification" name="whiteboard2" >}}
+{{< fig src="images/board2.jpg" caption="Reward and accomplishment" name="whiteboard1" >}}
+{{< fig src="images/board3.jpg" caption="Build system functioning" name="whiteboard1" >}}
+{{< fig src="images/board4.jpg" caption="Usability goals build system" name="whiteboard1" >}}
 {{< fig src="images/avatars.jpg" caption="Ideation on types of avatars" name="avatars" >}}
 {{< /figcontainer >}}
 
