@@ -61,7 +61,7 @@ The novelty in our idea of collecting citizen input was to utilise world-scale A
 {{< fig src="images/2020-09-24_drawing_brainstorming.jpg" caption="Brainstorming session (24 September 2020)" >}}
 {{< /figcontainer >}}
 
-## Presentation
+## Concept definition
 Because of the large difference between the previous presentation for the pressure cooker and this new concept, we put a lot of work in the presentation. We defined our new research question, as well as linking it to current research. 
 
 Our research question was now:
@@ -78,6 +78,9 @@ To illustrate our idea we created multiple visualisations using Adobe XD and Ble
 {{< video src="images/presentation_app_interaction.mp4" caption="Application prototype in action" gif="true" >}}
 {{< /figcontainer >}}
 
+We also started looking into whether there were research papers published in the field of citizen participation in urban planning, and we came across the paper ["Citizen Design Science: A strategy for crowd-creative urban design cities."](#citizen_design_science). The researchers of this paper created an entire web application for getting people to give input on certain problems in urban design in a given city. This application also introduces a social aspect, where people can vote on the ideas and participate in meaningful discussions. The fact that this paper existed confirmed that we were going in the right direction. The application itself however was not fun or engaging to use and we saw the opportunity to improve this experience greatly by using an augmented reality interface. 
+
+## Presentation
 {{< figcontainer >}}
 {{< fig src="images/presentation_slide_1.jpg" caption="Presentation slide 1 - A playful tool for increasing citizen participation in urban planning " >}}
 {{< fig src="images/presentation_slide_2.jpg" caption="Presentation slide 2 - Overview" >}}
@@ -90,4 +93,5 @@ To illustrate our idea we created multiple visualisations using Adobe XD and Ble
 {{< /figcontainer >}}
 
 ## References
-1. {{< link designing_sdgs_paper >}}Cooper, S. The challenge of designing scientific discovery games. *Proceedings of the Fifth International Conference on the Foundations of Digital Games. Jun 2010. Pages 40-47.* http://doi.org/10.1145/1822348.1822354 
+1. {{< link designing_sdgs_paper >}}Cooper, S. The challenge of designing scientific discovery games. *Proceedings of the Fifth International Conference on the Foundations of Digital Games. June 2010. Pages 40-47.* http://doi.org/10.1145/1822348.1822354 
+2. {{< link citizen_design_science >}}Mueller, J. Citizen Design Science: A strategy for crowd-creative urban design. *Cities, Volume 72, Part A. February 2018. Pages 181-188.* https://doi.org/10.1016/j.cities.2017.08.018
