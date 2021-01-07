@@ -33,8 +33,8 @@ Conceptualization*
 Extensive research was conducted to map out the scientific context surrounding Games for Data Collection. This eventually made us able to develop an innovative concept.
 
 {{< figcontainer class="small">}}
-{{< fig src="images/tekeningarjo.jpg" caption="Starting to prototype in Unity by watching tutorials" name="laptopscreen" >}}
-{{< video src="images/presentation_building.mp4" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="redunity" gif="true">}}
+{{< fig src="images/tekeningarjo.jpg" caption="Drawing of how people's ideas would be placed and retrieved in the world (23 September 2020)" name="laptopscreen" >}}
+{{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
 ### 3. Concept Development
@@ -45,8 +45,8 @@ Prototyping*
 After the initial concept was chosen, a lot of time went into the ideation and a more specified conceptualization of our idea. More research was performed to better understand citizen participation.
 
 {{< figcontainer class="small">}}
-{{< fig src="images/mt1.png" caption="Starting to prototype in Unity by watching tutorials" name="laptopscreen" >}}
-{{< video src="images/shot3_v2.mp4" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="redunity" gif="true">}}
+{{< fig src="images/mt1.png" caption="The main platform screen" name="laptopscreen" >}}
+{{< video src="images/shot3_v2.mp4" caption="Mockup prototype of the AR build system" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
 ### 4. UrbanAR
@@ -59,6 +59,6 @@ Analyzation*
 All focus was on the realization of our idea. Validation for our initial assumed problem was performed and user-tests were conducted. Results from validation and user-tests were analyzed.
 
 {{< figcontainer class="small">}}
-{{< fig src="images/bluething.png" caption="Starting to prototype in Unity by watching tutorials" name="laptopscreen" >}}
-{{< fig src="images/screenshot.PNG" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="redunity">}}
+{{< fig src="images/bluething.png" caption="An AR build submission (V10)" name="laptopscreen" >}}
+{{< fig src="images/screenshot.PNG" caption="A screenshot of the scene while using the AR build system">}}
 {{< /figcontainer >}}
