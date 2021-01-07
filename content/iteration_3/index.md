@@ -93,7 +93,7 @@ For the midterm we used two mediums to communicate our concept: a project descri
 *You can also create new objects: Every object in our app is made up of primitive shapes, such as a plane, cylinder or sphere These shapes can be positioned in space and painted using the paint tool.*\
 *Ideas can be created as part of a challenge, created by a municipality or design firm, but you can also choose to create ideas at any location. To allow people to have meaningful discussions about the designs, the ability for upvoting and commenting is included. You can explore designs from all over the world by looking around on the world map."*
 
-The goal of our video was to be engaging and get make people interested in the potential this project has to offer.\
+The goal of our video was to be engaging and get make people interested in the potential this project has to offer: (https://youtu.be/ecaJ_IsBFKo).\
 We would set the scene by showing shots of boring parts of Eindhoven and a person that was clearly not content with the current appearance of many parts in the city.
 
 {{< figcontainer class="large" >}}

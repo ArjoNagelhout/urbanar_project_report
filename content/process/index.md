@@ -9,9 +9,10 @@ menu:
         title: "Process"
 weight: 2
 ---
-## Four iterations
 
-### 1. Pressure Cooker, Biodiversity game
+During the process our final concept has been through four iterations. These will be shortly explained below, together with the related design phases.
+
+## 1. Pressure Cooker, Biodiversity game
 *Orientation \
 Research \
 Ideation \
@@ -24,7 +25,7 @@ We focused on orienting ourselves in the field of data collection. We decided to
 {{< fig src="images/biodiversity.jpg" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="redunity" >}}
 {{< /figcontainer >}}
 
-### 2. From Scientific Discovery Games to Citizen Participation in Urban Planning
+## 2. From Scientific Discovery Games to Citizen Participation in Urban Planning
 *Orientation\
 Research\
 Ideation\
@@ -33,11 +34,11 @@ Conceptualization*
 Extensive research was conducted to map out the scientific context surrounding Games for Data Collection. This eventually made us able to develop an innovative concept.
 
 {{< figcontainer class="small">}}
-{{< fig src="images/tekeningarjo.jpg" caption="Drawing of how people's ideas would be placed and retrieved in the world (23 September 2020)" name="laptopscreen" >}}
+{{< fig src="images/presentation_slide_5.jpg" caption="Drawing of how people's ideas would be placed and retrieved in the world (23 September 2020)" name="laptopscreen" >}}
 {{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
-### 3. Concept Development
+## 3. Concept Development
 *Ideation\
 Research\
 Prototyping*
@@ -49,7 +50,7 @@ After the initial concept was chosen, a lot of time went into the ideation and a
 {{< video src="images/shot3_v2.mp4" caption="Mockup prototype of the AR build system" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
-### 4. UrbanAR
+## 4. UrbanAR
 *Ideation\
 Validation\
 Prototyping\
