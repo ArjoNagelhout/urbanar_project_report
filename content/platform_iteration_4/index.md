@@ -9,7 +9,7 @@ menu:
         weight: 1
 ---
 
-Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. [The SDK of Mapbox was implemented in Unity](#laptopscreen) and the [first version](#blueunity) of our prototype worked. In a [newer version](#redunity) you could actually see yourself walking around in your neighbourhood. A first implementation of buttons [(build button and profile page](#buttons) was added later on, but not further developed.
+Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. [The SDK of Mapbox was implemented in Unity](#laptopscreen) and the [first version](#blueunity) of our prototype worked. You could now see a man actively walking around. In a [newer version](#redunity) you could actually see yourself walking around in your own neighborhood. A first implementation of buttons [(build button and profile page)](#buttons) was added later on, but not further developed.
 
 {{< figcontainer >}}
 {{< fig src="images/laptopscreen.jpg" caption="Starting to prototype in Unity by watching tutorials" name="laptopscreen" >}}
@@ -19,8 +19,8 @@ Whereas a mockup prototype of our platform was created in Adobe XD for the midte
 {{< /figcontainer >}}
 
 
-Our focus shifted from realizing to actually validating our system, based on insights gathered in a meeting with Regina Bernhaupt. We discussed the main points we wanted to communicate about our project for both the platform and the building system.
-For the platform, this was mainly to show its core functionality and aesthetics. Therefore focusing on a more simple realization method in AdobeXD would be a more appropriate choice to realize these goals, as visualizing the user in their own neighborhood was not a core feature.
+Our focus namely shifted from realizing to actually validating our system, based on insights obtained in a meeting with Regina Bernhaupt. We discussed the main parts of both our platform and AR build system that we thought were important to realize and communicate to the public at demo day.
+For the platform, this was mainly to show its core functionality and aesthetics. Therefore focusing on a more simple realization method in AdobeXD would be a more appropriate choice to realize these goals, as visualizing the user in their own neighborhood was not a core feature and made it harder to realize.
 
 The very first version was built upon the prototype made for the midterm demo day. A clearer distinction needed to be made between the different types of submissions and an overall calmer aesthetic and clearer hierarchy of on-screen items needed to be implemented. The customizable options were left out as these were not part of the platform’s core functionalities. A preview screen of builds were added for accessibility’s sake. 
 
