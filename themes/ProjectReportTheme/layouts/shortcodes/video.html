@@ -1,5 +1,5 @@
 <a name='{{ .Get "name" }}'></a>
-<figure>
+<figure class="video_figure">
     <video {{ with .Get "gif" }}autoplay muted loop{{ else }}controls="true" allowfullscreen="true"{{ end }}>
         <source src='{{ .Get "src"}}' type="video/mp4">
       </video>
