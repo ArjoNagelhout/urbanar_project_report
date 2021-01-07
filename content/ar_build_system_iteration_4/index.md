@@ -66,24 +66,26 @@ Duplication of objects now implemented
 Horizontal and vertical rotation of objects, revamped UI that actually resembles the UI Mockups. 
 {{< containedyoutubevideo id="hzojpm_40H4" name="" caption="Video 3" >}}
 {{< containedyoutubevideo id="clQtqjE5F7Q" name="" caption="Video 4" >}}
+{{< figcontainer >}}
 {{< fig src="images/2020-12-04_mockup_xd_1.jpg" caption="" >}}
 {{< fig src="images/2020-12-04_mockup_xd_2.jpg" caption="" >}}
 {{< fig src="images/2020-12-04_mockup_xd_3.jpg" caption="" >}}
 {{< fig src="images/2020-12-04_ui_drawing.jpg" caption="" >}}
 {{< fig src="images/2020-12-05_rotation_selection.jpg" caption="" >}}
 {{< fig src="images/2020-12-05_ui.jpg" caption="" >}}
+{{< /figcontainer >}}
 
 
 ## 6 / 7 / 8 December 2020
 Progress on the library system, automatic population from ScriptableObjects and responsive to screen rotation / sizes. 
-{{< figcontainer class="left" >}}
+{{< figcontainer >}}
 {{< video src="images/2020-12-06_inventory_update.mp4" caption="Generated and populated inventory slots on runtime (6/12/2020)" gif="true" >}}
 {{< video src="images/2020-12-08_library_panel.mp4" caption="Libraries overview panel implemented (28/12/2020)" gif="true" >}}
 {{< video src="images/2020-12-08_library_view.mp4" caption="Proper UI transitions implemented between libraries overview and library (08/12/2020)" gif="true" >}}
-{{< /figcontainer >}}
-
 {{< fig src="images/2020-12-09_library_overview.jpg" caption="" >}}
 {{< fig src="images/2020-12-09_sitting_with_models.jpg" caption="" >}}
+{{< /figcontainer >}}
+
 
 ## 10 December 2020
 Implemented object scaling
@@ -93,15 +95,17 @@ Implemented object scaling
 {{< containedyoutubevideo id="Ss2qSglUMXk" name="" caption="Video 6" >}}
 
 ## 11 December 2020
+{{< figcontainer >}}
 {{< fig src="images/2020-12-11_editing_tree.jpg" caption="" >}}
 {{< fig src="images/2020-12-11_unity_scene.jpg" caption="" >}}
 {{< fig src="images/2020-12-11_unity_scene_2.jpg" caption="" >}}
+{{< fig src="images/2020-12-12_tree_drawing.jpg" caption="" >}}
+{{< fig src="images/2020-12-12_improved_models.jpg" caption="" >}}
+{{< /figcontainer >}}
 Added all objects in the library
 
 ## 12 December 2020
 Revamped models, added the tree and street lantern. 
-{{< fig src="images/2020-12-12_improved_models.jpg" caption="" >}}
-{{< fig src="images/2020-12-12_tree_drawing.jpg" caption="" >}}
 
 16 December video af
 
