@@ -16,10 +16,10 @@ After having chosen the initial concept we had to focus on what aspects the plat
 We performed an ideation session (figures hieronder) in which we looked at similar games and wrote down what could make our game engaging, such as avatars, leveling up by gaining XP, achievements and titles. These could make the user more interested in the app for over a longer period of time. 
 
 {{< figcontainer class="small" >}}
-{{< fig src="images/board1.jpg" caption="Famification" name="whiteboard2" >}}
-{{< fig src="images/board2.jpg" caption="Reward and accomplishment" name="whiteboard1" >}}
-{{< fig src="images/board3.jpg" caption="Build system functioning" name="whiteboard1" >}}
-{{< fig src="images/board4.jpg" caption="Usability goals build system" name="whiteboard1" >}}
+{{< fig src="images/board1.jpg" caption="Gamification" name="whiteboard1" >}}
+{{< fig src="images/board2.jpg" caption="Reward and accomplishment" name="whiteboard2" >}}
+{{< fig src="images/board3.jpg" caption="Build system functioning" name="whiteboard3" >}}
+{{< fig src="images/board4.jpg" caption="Usability goals build system" name="whiteboard4" >}}
 {{< fig src="images/avatars.jpg" caption="Ideation on types of avatars" name="avatars" >}}
 {{< /figcontainer >}}
 
@@ -40,6 +40,13 @@ A clearer overview of submissions was done by placing all submissions within a c
 However, not everyone will be interested in the more serious, communicative character of this app. Our gameful components as leveling up to collect assets seemed like a fun way of keeping people engaged to use the app for a longer time period were more appropriate for the achiever player type (Stewart, 2011), who are probably less interested in participating in urban design and planning. The goal for our target user is to express his/her creativity and interact with the ideas of others. Therefore, the game is mostly made for the player types explorers and socializers. As their temperaments can best be categorized as the idealist and rational (David Keirsey, 1984), the players will more likely benefit more from full access to all assets to express their creativity. For the same reason, the option of submitting a comment was added.
 
 The current voting system was sensitive for people willing to troll their neighborhood and municipality. We got rid of the dislike button, as ideas could be disliked by groups on purpose. A personal profile needed to be made in which a user can find his/her achievements, as well as options to customize their interface. Solely screenshots of the AR build submission could cause confusion and a button to view the build in a real-world context was added. Furthermore, a description section was added so ideas could be sustained with some background knowledge.
+
+An ideation session about the name of our concept was conducted. Eventually the name TinkerTown was chosen and a logo was made, only to be discarded a day later. We thought it sounded too childish and did not convey the message of serving as a way of participating in urban design and planning. Up until a few days before the final day the product would stay nameless.
+
+{{< figcontainer class="large" >}}
+{{< fig src="images/namegenerationmidterm.png" caption="Ideation about the name of our product" name="ideation" >}}
+{{< fig src="images/logov1.jpg" caption="The TinkerTown logo" name="tinkertown" >}}
+{{< /figcontainer >}}
 
 ## Expert interview with Gwen Klerks
 To gain more knowledge in the field of citizen participation, a discussion was held with Gwen Klerks: https://www.linkedin.com/in/gwenklerks/?originalSubdomain=nl
@@ -67,14 +74,14 @@ If users did not feel like a build was appropriate in order to voice their opini
 Championships are pre-defined, time-bounded tournaments set up by the municipality. Users can submit ideas for this tournament by clicking the build button within this championship pointer. Once an idea has been submitted, it will can be viewed in a grid of all builds submitted to this specific championship.
 
 {{< figcontainer >}}
-{{< fig src="images/mt1.png" caption="The main platform screen" name="main_screen" >}}
-{{< fig src="images/mt2.png" caption="The championship page" name="championship" >}}
-{{< fig src="images/mt3.png" caption="The page of the championship submissions" name="championship_submission" >}}
-{{< fig src="images/mt4.png" caption="The page of an individual submission" name="cluster" >}}
-{{< fig src="images/mt5.png" caption="Your profile page" name="individual_submission" >}}
+{{< fig src="images/mt1.png" caption="The main platform screen" name="main_screen_fp" >}}
+{{< fig src="images/mt2.png" caption="The championship page" name="championship_fp" >}}
+{{< fig src="images/mt3.png" caption="The page of the championship submissions" name="championship_submission_fp" >}}
+{{< fig src="images/mt4.png" caption="The page of an individual submission" name="cluster_fp" >}}
+{{< fig src="images/mt5.png" caption="Your profile page" name="individual_submission_fp" >}}
 {{< /figcontainer >}}
 
-{{< fig src="images/platformmidtermeverything.png" caption="An overview of the whole platform" name="individual_submission" >}}
+{{< fig src="images/platformmidtermeverything.png" caption="An overview of the whole platform" name="overview_fp" >}}
 
 ## Midterm presentation
 
@@ -90,25 +97,26 @@ The goal of our video was to be engaging and get make people interested in the p
 We would set the scene by showing shots of boring parts of Eindhoven and a person that was clearly not content with the current appearance of many parts in the city.
 
 {{< figcontainer class="large" >}}
-{{< fig src="images/video brainstorming.jpg" caption="Initial brainstorming about video content" name="individual_submission" >}}
-{{< fig src="images/storyboard v1.jpg" caption="First version of the storyboard" name="individual_submission" >}}
-{{< fig src="images/storyboard v2.jpg" caption="Second version of the storyboard" name="individual_submission" >}}
+{{< fig src="images/video brainstorming.jpg" caption="Initial brainstorming about video content" name="br_or_content" >}}
+{{< fig src="images/storyboard v1.jpg" caption="First version of the storyboard" name="storyboardv1" >}}
+{{< fig src="images/storyboard v2.jpg" caption="Second version of the storyboard" name="storyboardv2" >}}
 {{< /figcontainer >}}
 
 After this fun and engaging introduction, the problem statement and solution would be described. VFX visualizations were made in order to convey the concept of our AR build system. The images would further show the potential of this app. Later on, we would explain the core functionalities of this app. 
 
 {{< figcontainer class="small" >}}
-{{< video src="images/shot1.mp4" caption="A VFX shot of someone placing assets in the world via the AR building system" gif="true" >}}
+{{< video src="images/shot1.mp4" caption="A VFX shot of someone placing assets in the world via the AR building system" name="vfx1" gif="true" >}}
 
-{{< video src="images/shot2.mp4" caption="Another video of the same assets" gif="true" >}}
+{{< video src="images/shot2.mp4" caption="Another video of the same assets" name="vfx2" gif="true" >}}
 
-{{< video src="images/shot3_v2.mp4" caption="Mockup prototype of the AR build system" gif="true" >}}
+{{< video src="images/shot3_v2.mp4" caption="Mockup prototype of the AR build system" name="blenderpt" gif="true" >}}
 
-{{< video src="images/videodelmar.mp4" caption="Shot of someone using the AR build system" gif="true" >}}
-{{< fig src="images/arjotekening.jpeg" caption="Potential of app visualisation 1" name="individual_submission" >}}
-{{< fig src="images/arjotekening2.jpeg" caption="Potential of app visualisation 2" name="individual_submission" >}}
-{{< fig src="images/arjotekening3.jpeg" caption="Potential of app visualisation 3" name="individual_submission" >}}
-{{< fig src="images/arjotekening4.jpeg" caption="Potential of app visualisation 4" name="individual_submission" >}}
+{{< video src="images/videodelmar.mp4" caption="Shot of someone using the AR build system" name="delmar" gif="true" >}}
+
+{{< fig src="images/arjotekening.jpeg" caption="Potential of app visualisation 1" name="arjotekening1" >}}
+{{< fig src="images/arjotekening2.jpeg" caption="Potential of app visualisation 2" name="arjotekening2" >}}
+{{< fig src="images/arjotekening3.jpeg" caption="Potential of app visualisation 3" name="arjotekening3" >}}
+{{< fig src="images/arjotekening4.jpeg" caption="Potential of app visualisation 4" name="arjotekening4" >}}
 {{< /figcontainer >}}
 
 

@@ -19,17 +19,19 @@ A questionnaire was created to find out the following aspects:
 
 The questionnaire can be found here: https://forms.gle/6A4h2F8bhfxVveUd6
 
-We eventually got 59 responses from which answers could be analyzed used pandas, a python library for analyzing data.
+We eventually got [59 responses](#plotage) from a wide range of ages. Their answers were analyzed used pandas, a python library for analyzing data.
 
-{{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="whiteboard1" >}}
-
-{{< figcontainer class="small" >}}
-
-{{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
-{{< fig src="images/participationincodesignsession.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< figcontainer class="medium" >}}
+{{< fig src="images/age.png" caption="People having participated in co-design sessions" name="plotage" >}}
+{{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="plotknow" >}}
+{{< fig src="images/participationincodesignsession.png" caption="People having participated in co-design sessions" name="plotcodesign" >}}
 {{< /figcontainer >}}
 
-We can conclude that in general people are relatively satisfied with their environment, no matter the frequency they go outside. On the other hand, the middle row of figure x suggests the majority of users are interested in participating more in the process of urban planning and design. No matter the frequency of going outside, it is generally perceived that the municipality does not offer the appropriate tools for citizens to actually do so. In many cases, people don’t even know of methods to contact the municipality about this matter. The ones who did find the opportunity to participate in a co-design session were often left unsatisfied as they felt they weren’t listened to appropriately: 
+{{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="manyplots" >}}
+
+
+
+From the [3x3 grid plot](#manyplots) we can conclude that in general people are relatively satisfied with their environment, no matter the frequency they go outside. The middle row shows the majority of users are interested in participating more in the process of urban planning and design. No matter the frequency of going outside, it is generally perceived that the municipality does not offer the appropriate tools for citizens to actually do so. In many cases, people [don’t even know of methods to contact the municipality](#plotknow) about this matter. The ones who did find the opportunity to [participate in a co-design](#plotcodesign) session were often left unsatisfied as they felt they weren’t listened to appropriately: 
 
 >“I was invited by email to give input on redesigning the nearby park. I gave lots of new ideas ... nothing was done with any of my or other's input since they decided to throw in tiles only. No, I wasn't heard, even angry, and will never participate again.”
 
@@ -47,4 +49,31 @@ The user-test of the final AR building systemprototype was focused mainly on val
 To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build as can be seen on image .... This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. 
 
 All actions performed by the user were logged and send to a server controlled by us. Subsequently, we could analyze this data and easily compare it to other log files, as all assets were placed in a similar setting. 
+
+{{< figcontainer class="small" >}}
+{{< fig src="images/IMG_6007.JPG" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
+{{< fig src="images/IMG_6010.JPG" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/IMG_6013.PNG" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/IMG_6015.JPG" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/utkatrien.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/utkoen.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/utrandi.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< /figcontainer >}}
+
+{{< figcontainer class="large" >}}
+{{< fig src="images/csvvoor.png" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
+{{< fig src="images/csvna.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/pythoncsvvoor.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/pythoncsvna.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< /figcontainer >}}
+
+{{< figcontainer class="large" >}}
+{{< fig src="images/timesassetadded.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/timesassetplaced.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/locationtableplots.jpg" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/plots.jpg" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
+
+
+{{< /figcontainer >}}
+
 

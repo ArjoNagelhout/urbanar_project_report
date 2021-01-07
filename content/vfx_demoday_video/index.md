@@ -13,13 +13,15 @@ To further drive the scope of our ideas home in the promotional video, we wanted
 
 We bought the [DJI Mavic Mini](https://www.dji.com/mavic-mini), which is an inexpensive drone with good image quality, to make a zoom out shot and a city overview shot. 
 
-## VFX Shot 1 - City skyline
-{{< video src="videos/shot_1.mp4" caption="VFX Final Shot 1 - City skyline" >}}
+{{< figcontainer class="small" >}}
+{{< video src="videos/shot_1.mp4" caption="VFX Final Shot 1 - City skyline" gif="true">}}
+{{< video src="videos/shot_2.mp4" caption="VFX Final Shot 2 - Showing off what he has built" gif="true">}}
+{{< video src="videos/shot_3.mp4" caption="VFX Final Shot 3 - Zoom out from building in augmented reality to the map overview" gif="true">}}
 
+{{< /figcontainer >}}
 
+{{< figcontainer class="small" >}}
+{{< fig src="videos/graphictry.jpg" caption="VFX Final Shot 1 - City skyline">}}
+{{< fig src="videos/IMG_6264.PNG" caption="VFX Final Shot 3 - Zoom out from building in augmented reality to the map overview" gif="true">}}
 
-## Shot 2
-{{< video src="videos/shot_2.mp4" caption="VFX Final Shot 2 - Showing off what he has built" >}}
-
-## Shot 3
-{{< video src="videos/shot_3.mp4" caption="VFX Final Shot 3 - Zoom out from building in augmented reality to the map overview" >}}
+{{< /figcontainer >}}

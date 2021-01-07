@@ -12,7 +12,7 @@ menu:
 ## Orientation ourselves in the field of data collection
 The project started off with a pressure cooker. The first brainstorm was about what data gathering would entail in our project. This was done via Miro (https://miro.com/app/board/o9J_kmVl2LE=/) It was decided that the game would be a citizen science game, “Citizen science is where volunteers, in collaboration with scientists, get involved in science. This can be collecting and analyzing data, interpreting results, classifying and transcribing information, conducting experiments or by playing citizen science games.” (https://citizensciencegames.com/about/) Benchmarking was done to see what other games were already out there. Big interest was found in a game called QuestaGame, this game would make use of volunteers to discover, map and ultimately help protect life on our planet. (https://questagame.com/) 
 
-{{< fig src="images/miro_board.jpg" caption="Miro board, exploration of the link between scientific research and games" >}}
+{{< fig src="images/miro_board_grtimoo.jpg" caption="Miro board, exploration of the link between scientific research and games" >}}
 {{< fig src="images/miro_board_2.jpg" caption="Miro board, part 2" >}}
 
 ## Ideation on a game for mapping out biological life
