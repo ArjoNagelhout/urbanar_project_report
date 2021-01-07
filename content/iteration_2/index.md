@@ -24,7 +24,7 @@ We started setting up the project in a professional manner, creating a well stru
 {{< /figcontainer >}}
 
 ## Diving deep into the world of Citizen Science Games
-After our first concept pitch in the pressure cooker, we first wanted to gain further understanding of the scientific world and look into all possible directions we could go in. This, because we immediately jumped into biodiversity, but without looking at other opportunities first. As design students with rather limited experience with the scientific world, we dove deep into the workings of journals, conferences, papers and research in general. Next to that we mapped all scientific disciplines to get an understanding of the breadth of scientific research (See).
+After our first concept pitch in the pressure cooker, we first wanted to gain further understanding of the scientific world and look into all possible directions we could go in. This, because we immediately jumped into biodiversity, but without looking at other opportunities first. As design students with rather limited experience with the scientific world, we dove deep into the workings of journals, conferences, papers and research in general. Next to that we mapped all scientific disciplines to get an understanding of the breadth of scientific research (See the following video).
 
 {{< video src="images/science_orientation.mp4" caption="Our rather long document on citizen science games and the scientific world" gif="true" >}}
 

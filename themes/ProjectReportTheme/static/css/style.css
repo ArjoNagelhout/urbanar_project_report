@@ -380,6 +380,11 @@ blockquote p {
         max-height:25rem;
     }
 
+    #content .fig-container.very_small img,
+    #content .fig-container.very_small video {
+        max-height:18rem;
+    }
+
     #content .fig-container.large img,
     #content .fig-container.large video {
         max-height:45rem;
