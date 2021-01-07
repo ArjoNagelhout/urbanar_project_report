@@ -7,7 +7,7 @@ draft: false
 menu:
     main:
         title: "Process"
-weight: 2
+weight: 3
 ---
 
 During the process our final concept has been through four iterations. These will be shortly explained below, together with the related design phases.

@@ -6,7 +6,7 @@ draft: false
 menu:
     main:
         parent: "Process"
-        weight: 1
+        weight: 2
 ---
 
 ## Orientation ourselves in the field of data collection

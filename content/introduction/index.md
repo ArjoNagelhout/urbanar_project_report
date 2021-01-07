@@ -4,7 +4,7 @@ date: 2021-01-02T21:48:17+01:00
 draft: false
 
 menu: "main"
-weight: 1
+weight: 2
 ---
 
 What would you change about your own environment? Most people have a strong opinion or feeling about their near environment and many are eager to make some changes. Even if it is just that one extra trash can or some extra trees down the road. 

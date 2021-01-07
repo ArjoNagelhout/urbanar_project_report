@@ -4,7 +4,7 @@ date: 2021-01-02T21:48:17+01:00
 draft: false
 
 menu: "main"
-weight: 3
+weight: 4
 ---
 We started off with the pressure cooker, the focus was on orienting ourselves in the field of data collection and researching about the possibilities with gamification. Our first concept was a game to map out nature, where players would photograph life to earn points for each new lifeform. We learned that more extensive literary research at the start of a process is desirable, as we later found out by broadly orienting ourselves in this area, we were able to innovate on an opportunity that was way more interesting.
 
