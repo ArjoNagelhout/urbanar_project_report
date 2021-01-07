@@ -9,7 +9,7 @@ menu:
         weight: 3
 ---
 
-Start: 24/10/2020
+Iteration 2 spans a timeframe of two weeks, between 25 september 2020 to 23 october 2020.
 
 ## Ideation on both the platform and build system
 After having chosen the initial concept we had to focus on what aspects the platform would have: how we could motivate people to use the app and make it engaging for over a longer time period.
@@ -83,7 +83,12 @@ Championships are pre-defined, time-bounded tournaments set up by the municipali
 
 {{< fig src="images/platformmidtermeverything.png" caption="An overview of the whole platform" name="overview_fp" >}}
 
+
+
+
 ## Midterm presentation
+
+{{< containedyoutubevideo v48o3fjZuBA >}}
 
 For the midterm we used two mediums to communicate our concept: a project description, a video and some images if desired:
 

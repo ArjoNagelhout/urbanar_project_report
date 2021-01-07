@@ -79,7 +79,7 @@ Horizontal and vertical rotation of objects is now implemented, we revamped the 
 {{< containedyoutubevideo id="hzojpm_40H4" name="" caption="Video 3" >}}
 {{< containedyoutubevideo id="clQtqjE5F7Q" name="" caption="Video 4" >}}
 
-Because not all interactions were defined in the mockups, we continued designing the interface. We also implemented 
+Because not all interactions were defined in the mockups, we continued designing the interface. We also started thinking about an improved design for the assets library:
 {{< figcontainer >}}
 {{< fig src="images/2020-12-04_mockup_xd_1.jpg" caption="" >}}
 {{< fig src="images/2020-12-04_mockup_xd_2.jpg" caption="" >}}
@@ -90,7 +90,7 @@ Because not all interactions were defined in the mockups, we continued designing
 {{< /figcontainer >}}
 
 
-## 6 / 7 / 8 December 2020
+## Progress 6 / 7 / 8 December 2020
 Progress on the library system, automatic population from ScriptableObjects and responsive to screen rotation / sizes. 
 {{< figcontainer >}}
 {{< video src="images/2020-12-06_inventory_update.mp4" caption="Generated and populated inventory slots on runtime (6/12/2020)" gif="true" >}}
@@ -101,14 +101,13 @@ Progress on the library system, automatic population from ScriptableObjects and 
 {{< /figcontainer >}}
 
 
-## 10 December 2020
+## Progress 10 December 2020
 Implemented object scaling
-
-
 {{< containedyoutubevideo id="327xsNQ4dC8" name="" caption="Video 5" >}}
 {{< containedyoutubevideo id="Ss2qSglUMXk" name="" caption="Video 6" >}}
 
-## 11 December 2020
+## Progress 11 December 2020
+Revamped models, added the tree and street lantern. 
 {{< figcontainer >}}
 {{< fig src="images/2020-12-11_editing_tree.jpg" caption="" >}}
 {{< fig src="images/2020-12-11_unity_scene.jpg" caption="" >}}
@@ -116,12 +115,7 @@ Implemented object scaling
 {{< fig src="images/2020-12-12_tree_drawing.jpg" caption="" >}}
 {{< fig src="images/2020-12-12_improved_models.jpg" caption="" >}}
 {{< /figcontainer >}}
+
 Added all objects in the library
 
-## 12 December 2020
-Revamped models, added the tree and street lantern. 
-
-16 December video af
-
-18 December final Demoday
-
+{{< button href="/evaluation" caption="Read further at Evaluation" >}}
