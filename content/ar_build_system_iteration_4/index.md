@@ -16,7 +16,12 @@ The moment the midterm demoday was finished, we started creating proper concept 
 
 This was from 23 October to 28 October 2020
 
+## Baby steps
+28 October 2020 was the very first version of the AR Build System in action. Made using Unity + ARFoundation and tested on the iPad Pro. 
+
 ## Overcoming long build times
+11 November 2020
+
 One of the main issues with developing for augmented reality in Unity is the long build times. This is because every change made in the code needs to be checked on the target device, since the Unity Editor, which can run the code without building, does not have augmented reality support. 
 
 The recently introduced Unity MARS overcomes this problem and allows you to directly test augmented reality experiences inside the Unity Editor. However, due to the high price - €1000 per seat, per year - we were unable to use this. That's why we created a primitive testing environment that allows us to test the code directly inside the Unity Editor.
@@ -29,3 +34,8 @@ The recently introduced Unity MARS overcomes this problem and allows you to dire
 {{< containedyoutubevideo id="clQtqjE5F7Q" name="" caption="Video 4" >}}
 {{< containedyoutubevideo id="327xsNQ4dC8" name="" caption="Video 5" >}}
 {{< containedyoutubevideo id="Ss2qSglUMXk" name="" caption="Video 6" >}}
+
+16 December video af
+
+18 December final Demoday
+

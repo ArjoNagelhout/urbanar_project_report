@@ -9,4 +9,4 @@ menu:
         weight: 4
 ---
 
-# Iteration 4
+Iteration 4 spans over the timeframe from the midterm demo day all the way to the final demo day, between 23 October 2020 to 18 December 2020. 
