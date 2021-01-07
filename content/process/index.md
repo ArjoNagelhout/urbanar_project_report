@@ -52,12 +52,12 @@ After the initial concept was chosen, a lot of time went into the ideation and a
 
 ## 4. UrbanAR
 *Ideation\
-Validation\
+Research\
 Prototyping\
 User-testing\
 Analyzation*
 
-All focus was on the realization of our idea. Validation for our initial assumed problem was performed and user-tests were conducted. Results from validation and user-tests were analyzed.
+All focus was on the realization of our idea. Reserach on our initial assumed problem was performed and user-tests were conducted. Results from validation and user-tests were analyzed.
 
 {{< figcontainer class="small">}}
 {{< fig src="images/bluething.png" caption="An AR build submission (V10)" name="laptopscreen" >}}

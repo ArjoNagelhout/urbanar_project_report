@@ -9,13 +9,21 @@ menu:
         weight: 4
 ---
 
-## user-testing our final prototype
+## Study set-up and execution
 
 ARJO SCHRIJF OVER BACKEND
 
 The user-test of the final AR building systemprototype was focused mainly on validating the usability of the building system and; the way people interact with the system and whether it was nice and fun to use. Afterwards a semi-structured interview would be conducted to get more knowledge about people's actual experience with the app: whether they find it intuitive, whether they like the visual style and whether they would take time to apply this app in the real world.
 
-To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build as can be seen on image .... This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. 
+Because it seemed like one of our group members had the corona virus, the user-test could not be performed in real life and needed to be done online. A mockup prototype of how this online app would look like was created in Adobe XD.
+
+{{< figcontainer class="large" >}}
+{{< fig src="images/arapp1.png" caption="The first screens of the online user-test prototype" name="whiteboard1" >}}
+{{< fig src="images/arapp2.png" caption="More screens of the online user-test prototype" name="whiteboard1" >}}
+{{< fig src="images/arapp3.png" caption="The last screens of the online user-test prototype" name="whiteboard1" >}}
+{{< /figcontainer >}}
+
+Luckily, the test returned negative and the user-test could be performed in real life after all. To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build as can be seen on image .... This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. 
 
 All actions performed by the user were logged and send to a server controlled by us. Subsequently, we could analyze this data and easily compare it to other log files, as all assets were placed in a similar setting. 
 
