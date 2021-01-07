@@ -411,4 +411,67 @@ blockquote p {
     #content {
         margin:0;
     }
+
+    .sidebar {
+        display:none !important;
+    }
+
+    p {
+        line-height:1.5;
+        font-size:1.3rem;
+    }
+
+    h1 {
+        font-size:2.5rem;
+        margin-top:0;
+    }
+
+    h2 {
+        font-size:2rem;
+        margin-bottom:1rem;
+        margin-top:1rem;
+        /*page-break-before: always;*/
+        page-break-before: auto;
+    }
+
+    h3 {
+        font-size:1.5rem;
+    }
+
+    img, video {
+        max-height:15rem !important;
+    }
+
+    .fig-container {
+        justify-content:left !important;
+    }
+
+    figcaption p {
+        font-size:1rem !important;
+    }
+
+    figure {
+        margin:1rem !important;
+    }
+
+    blockquote {
+        margin-top:1rem;
+        margin-bottom:1rem;
+    }
+
+
+    blockquote p {
+        font-size:1.6rem !important;
+    }
+
+    ol {
+        font-size:1.3rem !important;
+    }
+
+    ul {
+        font-size:1.3rem !important;
+    }
+
+
+
 }
