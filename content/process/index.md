@@ -25,6 +25,8 @@ We focused on orienting ourselves in the field of data collection. We decided to
 {{< fig src="images/biodiversity.jpg" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="redunity" >}}
 {{< /figcontainer >}}
 
+{{< button href="/iteration_1" caption="Read further at Iteration 1" >}}
+
 ## 2. From Scientific Discovery Games to Citizen Participation in Urban Planning
 *Orientation\
 Research\
@@ -38,6 +40,8 @@ Extensive research was conducted to map out the scientific context surrounding G
 {{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
+{{< button href="/iteration_2" caption="Read further at Iteration 2" >}}
+
 ## 3. Concept Development
 *Ideation\
 Research\
@@ -49,6 +53,8 @@ After the initial concept was chosen, a lot of time went into the ideation and a
 {{< fig src="images/mt1.png" caption="The main platform screen" name="laptopscreen" >}}
 {{< video src="images/shot3_v2.mp4" caption="Mockup prototype of the AR build system" name="redunity" gif="true">}}
 {{< /figcontainer >}}
+
+{{< button href="/iteration_3" caption="Read further at Iteration 3" >}}
 
 ## 4. UrbanAR
 *Ideation\
@@ -65,4 +71,5 @@ All focus was on the realization of our idea. Reserach on our initial assumed pr
 {{< fig src="images/plots.jpg" caption="Analyzing quantitative data of the user test" >}}
 {{< /figcontainer >}}
 
-{{< button href="/iteration_1" caption="Read further at Iteration 1" >}}
+{{< button href="/iteration_4" caption="Read further at Iteration 4" >}}
+

@@ -11,8 +11,6 @@ menu:
 
 ## Study set-up and execution
 
-ARJO SCHRIJF OVER BACKEND
-
 The user-test of the final AR building systemprototype was focused mainly on validating the usability of the building system and; the way people interact with the system and whether it was nice and fun to use. Afterwards a semi-structured interview would be conducted to get more knowledge about people's actual experience with the app: whether they find it intuitive, whether they like the visual style and whether they would take time to apply this app in the real world.
 
 Because it seemed like one of our group members had the corona virus, the user-test could not be performed in real life and needed to be done online. A mockup prototype of how this online app would look like was created in Adobe XD.
@@ -25,7 +23,7 @@ Because it seemed like one of our group members had the corona virus, the user-t
 
 Luckily, the test returned negative and the user-test could be performed in real life after all. To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build as can be seen on image .... This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. 
 
-All actions performed by the user were logged and send to a server controlled by us. Subsequently, we could analyze this data and easily compare it to other log files, as all assets were placed in a similar setting. 
+For this user test a backend has been written. This meant every action the user would perform was logged and send to a server controlled by us. Subsequently, we could analyze this data and easily compare it to other log files, as all assets were placed in a similar setting. There were types types of logs: the specific location defined in pixels where the user tapped the screen in order to perform an action such as clicking or rotating assets. The other type was location data defined in meters where the user manipulated certain assets on the scale model of the tabel. This did cause some confusion at first, as the one analyzing the data did not know there were two differents types of datastreams present in the same dataset. Next time, we will make sure there are two different logs files for two data streams. How this was solved will be explained in the quantitative analysis part.
 
 {{< figcontainer class="small" >}}
 {{< fig src="images/IMG_6007.JPG" caption="Building the scale model of the town" name="whiteboard1" >}}
@@ -67,7 +65,7 @@ Also here, the most reactions revolve around the app’s efficiency. People have
 ## Quantitative analysis of the results
 Because all actions performed by the user were loggged, analyzation of these results could be performed with pandas, a python library for analyzing data. The locations where people clicked on the screen, as well as the locations in the scale-model of the city where assets were maniupated were logged.
 
-The initial logs consisted of two rows: the timestamp and a logstring. The logstring contained data about what action was performed and at what location. However, because of this format it became near impossible to analyze the different types of data as everything was defined as a string. For that reason the database needed to be adjsuted in excel beforehand and all data was split using commas. 
+The initial logs consisted of two rows: the timestamp and a logstring. The logstring contained data about what action was performed and at what location. However, because of this format it became near impossible to analyze the different types of data as everything was defined as a full string. For that reason the database needed to be adjsuted in excel beforehand and all data was split using commas. 
 
 {{< figcontainer class="large" >}}
 {{< fig src="images/csvvoor.png" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
@@ -95,5 +93,5 @@ The street lantern was the most popular asset to be placed in the scene, whereas
 {{< fig src="images/timesassetplaced.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
-
+{{< button href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
 

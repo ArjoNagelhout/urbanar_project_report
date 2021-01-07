@@ -107,7 +107,7 @@ Implemented object scaling
 {{< containedyoutubevideo id="Ss2qSglUMXk" name="" caption="Video 6" >}}
 
 ## Progress 11 December 2020
-Revamped models, added the tree and street lantern. 
+Revamped models, added the tree and street lantern. All objects have been added to the library.
 {{< figcontainer >}}
 {{< fig src="images/2020-12-11_editing_tree.jpg" caption="" >}}
 {{< fig src="images/2020-12-11_unity_scene.jpg" caption="" >}}
@@ -115,7 +115,5 @@ Revamped models, added the tree and street lantern.
 {{< fig src="images/2020-12-12_tree_drawing.jpg" caption="" >}}
 {{< fig src="images/2020-12-12_improved_models.jpg" caption="" >}}
 {{< /figcontainer >}}
-
-Added all objects in the library
 
 {{< button href="/evaluation" caption="Read further at Evaluation" >}}
