@@ -9,7 +9,7 @@ menu:
         weight: 3
 ---
 
-Iteration 2 spans a timeframe of two weeks, between 25 september 2020 to 23 october 2020.
+Iteration 2 spans a timeframe between 25 september 2020 to 23 october 2020.
 
 ## Ideation on both the platform and build system
 After having chosen the initial concept we had to focus on what aspects the platform would have: how we could motivate people to use the app and make it engaging for over a longer time period.
@@ -57,6 +57,37 @@ Furthermore, rewarding the builder of a realized idea could be done via a namepl
 Game-like wise. We need to focus on rewards for players in-game such as votes or achievements, as well making sure the app stays fun even for over a longer period of time.
 Subsequently, we contacted local municipalities to discuss the possibilities of actually realizing submitted builds if they are really popular or won a championship or the nameplate rewards. However, as we got no response, there was little we could do to find out more about these implementations.
 
+## Design and Ideation AR Build System
+A lot of design and ideation in the form of drawings has been done:
+{{< figcontainer >}}
+{{< fig src="images/2020-09-25_notes_VIO.jpeg" caption="Notes VIO">}}
+{{< fig src="images/2020-09-27_build_system.jpeg" caption="Build System">}}
+{{< fig src="images/2020-09-29_requirements.jpeg" caption="Requirements">}}
+{{< fig src="images/2020-10-03_build_system.jpeg" caption="Build System">}}
+{{< fig src="images/2020-10-04_build_system.jpeg" caption="Build System">}}
+{{< fig src="images/2020-10-04_overview.jpeg" caption="Overview">}}
+{{< fig src="images/2020-10-04_patterns.jpeg" caption="Patterns">}}
+{{< fig src="images/2020-10-05_further_explorations.jpeg" caption="Further explorations">}}
+{{< fig src="images/2020-10-06_manipulation_and_avatars.jpeg" caption="Manipulation and Avatars">}}
+{{< fig src="images/2020-10-07_buildsystem.jpeg" caption="Build System">}}
+{{< fig src="images/2020-10-07_cad.jpeg" caption="CAD">}}
+{{< fig src="images/2020-10-07_paper_models.jpeg" caption="Paper models">}}
+{{< fig src="images/2020-10-07_paper_tools.jpeg" caption="Paper tools">}}
+{{< fig src="images/2020-10-18_build_hierarchy.jpeg" caption="Build hierarchy">}}
+{{< fig src="images/2020-10-19_build_system.jpeg" caption="Build system">}}
+{{< fig src="images/2020-10-19_editing_of_objects.jpeg" caption="Editing of objects">}}
+{{< fig src="images/2020-10-19_picking_up_objects.jpeg" caption="Picking up objects">}}
+{{< fig src="images/2020-10-20_selecting_objects.jpeg" caption="Selecting objects">}}
+{{< /figcontainer >}}
+
+## Concepting + beginnings of realisation AR Build System
+{{< figcontainer >}}
+{{< fig src="images/Screenshot 2021-01-07 at 16.31.03.png">}}
+{{< fig src="images/Screenshot 2021-01-07 at 16.31.17.png">}}
+{{< fig src="images/Screenshot 2021-01-07 at 16.31.24.png">}}
+{{< fig src="images/Screenshot 2021-01-07 at 16.31.30.png">}}
+{{< fig src="images/Screenshot 2021-01-07 at 16.31.35.png">}}
+{{< /figcontainer >}}
 
 ## The final midterm concept
 The way that people explore other people’s ideas - or rather, builds - will be through the use of a platform. This platform is centered around the idea of a map showing all contributions. 
@@ -88,8 +119,6 @@ Championships are pre-defined, time-bounded tournaments set up by the municipali
 
 ## Midterm presentation
 
-{{< containedyoutubevideo v48o3fjZuBA >}}
-
 For the midterm we used two mediums to communicate our concept: a project description, a video and some images if desired:
 
 *"We aim to empower citizens to change the urban environment for the better, to increase their quality of living and connection to their environment.*\
@@ -98,7 +127,9 @@ For the midterm we used two mediums to communicate our concept: a project descri
 *You can also create new objects: Every object in our app is made up of primitive shapes, such as a plane, cylinder or sphere These shapes can be positioned in space and painted using the paint tool.*\
 *Ideas can be created as part of a challenge, created by a municipality or design firm, but you can also choose to create ideas at any location. To allow people to have meaningful discussions about the designs, the ability for upvoting and commenting is included. You can explore designs from all over the world by looking around on the world map."*
 
-The goal of our video was to be engaging and get make people interested in the potential this project has to offer: (https://youtu.be/ecaJ_IsBFKo).\
+The goal of our video was to be engaging and get make people interested in the potential this project has to offer: 
+{{< containedyoutubevideo ecaJ_IsBFKo >}}
+
 We would set the scene by showing shots of boring parts of Eindhoven and a person that was clearly not content with the current appearance of many parts in the city.
 
 {{< figcontainer class="large" >}}
