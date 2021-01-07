@@ -62,4 +62,5 @@ All focus was on the realization of our idea. Reserach on our initial assumed pr
 {{< figcontainer class="small">}}
 {{< fig src="images/bluething.png" caption="An AR build submission (V10)" name="laptopscreen" >}}
 {{< fig src="images/screenshot.PNG" caption="A screenshot of the scene while using the AR build system">}}
+{{< fig src="images/plots.jpg" caption="Analyzing quantitative data of the user test" >}}
 {{< /figcontainer >}}
