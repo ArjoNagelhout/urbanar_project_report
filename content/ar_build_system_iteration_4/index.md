@@ -17,20 +17,27 @@ The moment the midterm demoday was finished, we started creating proper concept 
 This was from 23 October to 28 October 2020
 
 {{< figcontainer >}}
-{{< video src="images/2020-10-25_blender_1.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-25_blender_2.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-27_render_1.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-27_render_final.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-27_blender_3.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-27_render_2.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-28_build_system_1.mp4" caption="" gif="true" >}}
-{{< video src="images/2020-10-28_build_system_2.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-25_blender_1.mp4" caption="First UI animation test in Blender with a faux finger (25/10/2020)" gif="true" >}}
+{{< fig src="images/2020-10-27_assets.jpg" caption="Assets created in Photoshop" >}}
+{{< fig src="images/2020-10-25_screenshot_blender.jpg" caption="UI animation in Blender" >}}
+{{< fig src="images/2020-10-25_screenshot_blender_2.jpg" caption="3D Scene for UI mockup in Blender" >}}
+{{< fig src="images/2020-10-25_screenshot_blender_3.jpg" caption="Composition 3D Scene, video and 2D UI in Blender" >}}
+{{< video src="images/2020-10-27_render_1.mp4" caption="Final render app mockup" gif="true" >}}
+{{< video src="images/2020-10-27_greenscreen.mp4" caption="Greenscreen recording of app mockup render" gif="true" >}}
+{{< fig src="images/2020-10-27_screenshot_final_cut.jpg" caption="Final compositing done in Final Cut Pro" >}}
+{{< video src="images/2020-10-27_render_final.mp4" caption="Final composited render (27/10/2020)" gif="true" >}}
+{{< video src="images/2020-10-27_blender_3.mp4" caption="Library UI interaction mockup in Blender" gif="true" >}}
+{{< video src="images/2020-10-27_render_2.mp4" caption="Final Render Library UI interaction mockup" gif="true" >}}
 {{< /figcontainer>}}
-
+* Screenshot toevoegen van de UI mockups in Adobe XD. 
+* Mention creation of models etc. everything from masking to tracking and planning etc. rationale behind creating these high fidelity mockups. 
 ## Baby steps
 28 October 2020 was the very first version of the AR Build System in action. Made using Unity + ARFoundation and tested on the iPad Pro. 
 
-## 
+{{< figcontainer >}}
+{{< video src="images/2020-10-28_build_system_1.mp4" caption="The very first version of the AR build system (28/10/2020)" gif="true" >}}
+{{< video src="images/2020-10-28_build_system_2.mp4" caption="Further progress on the AR build system (28/10/2020)" gif="true" >}}
+{{< /figcontainer>}}
 
 ## Overcoming long build times
 11 November 2020
@@ -41,12 +48,36 @@ The recently introduced Unity MARS overcomes this problem and allows you to dire
 
 {{< fig src="images/2020-11-11_ARBuildSystemTestingEnvironment.png" caption="Primitive AR experience testing environment directly in the Unity Editor (11/11/2020)" >}}
 
+## Progress 12 November 2020
+Selection + moving objects now implemented + Tooltip. Multiple objects work, selecting and deselecting. 
+Repositioning thus works. 
+
 {{< containedyoutubevideo id="JfMccPT8gpo" name="" caption="Video" >}}
+
+The week between this (13 November 2020 - 20 November 2020) I spent on creating the backend for Laravel etc.
+
+## Progress 30 November 2020
+Duplication of objects now implemented
 {{< containedyoutubevideo id="LnJvVbO68QI" name="" caption="Video 2" >}}
+
+## Progress 3 December 2020
+Horizontal and vertical rotation of objects, revamped UI that actually resembles the UI Mockups. 
 {{< containedyoutubevideo id="hzojpm_40H4" name="" caption="Video 3" >}}
 {{< containedyoutubevideo id="clQtqjE5F7Q" name="" caption="Video 4" >}}
 {{< containedyoutubevideo id="327xsNQ4dC8" name="" caption="Video 5" >}}
 {{< containedyoutubevideo id="Ss2qSglUMXk" name="" caption="Video 6" >}}
+
+## 6 / 7 / 8 December 2020
+Progress on the library system, automatic population from ScriptableObjects and responsive to screen rotation / sizes. 
+
+## 10 December 2020
+Implemented object scaling
+
+## 11 December 2020
+Added all objects in the library
+
+## 12 December 2020
+Revamped models, added the tree and street lantern. 
 
 16 December video af
 
