@@ -6,7 +6,7 @@ draft: false
 menu:
     main:
         parent: "Iteration 4 - UrbanAR"
-        weight: 1
+        weight: 2
 ---
 
 Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. [The SDK of Mapbox was implemented in Unity](#laptopscreen) and the [first version](#blueunity) of our prototype worked. You could now see a man actively walking around. In a [newer version](#redunity) you could actually see yourself walking around in your own neighborhood. A first implementation of buttons [(build button and profile page)](#buttons) was added later on, but not further developed.
@@ -70,4 +70,4 @@ Eventually during iteration eight till ten many astonishing improvements were ma
 
 {{< fig src="images/platformgrey.jpg" caption="An overview of many many experiments (V1 - V10)" >}}
 
-{{< button href="/research_iteration_4" caption="Read further at Research" >}}
+{{< button href="/ar_build_system_iteration_4" caption="Read further at AR Build System" >}}

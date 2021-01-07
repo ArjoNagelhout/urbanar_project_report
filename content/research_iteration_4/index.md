@@ -36,4 +36,4 @@ From the [3x3 grid plot](#manyplots) we can conclude that in general people are 
 
 From here we can indeed conclude that creating an engaging tool that serves as a communication platform between the municipality and citizens certainly offers the potential to give citizens the power to have a saying in what happens in their own neighborhood. We believe the possibility for citizens to clearly visualize their ideas, as well as vote for these builds, will help the municipality to better understand the needs and wishes of their citizens.
 
-{{< button href="/ar_build_system_iteration_4" caption="Read further at AR Build System" >}}
+{{< button href="/platform_iteration_4" caption="Read further at Platform" >}}

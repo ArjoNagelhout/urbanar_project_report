@@ -11,6 +11,16 @@ menu:
 
 Iteration 4 spans over the timeframe from the midterm demo day all the way to the final demo day, between 23 October 2020 to 18 December 2020. There were 5 core elements to this iteration which were all developed seperately. Therefore, they will also be described seperately.
 
+## Research
+Whereas a lot of research was done on how citizens participation in urban design and planning worked, little research had been done on whether citizens would actually be interested in increasing their participation. This was validated via a questionnaire and analyzed in python.
+
+{{< figcontainer class="small">}}
+{{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="laptopscreen" >}}
+{{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="redunity" >}}
+{{< /figcontainer >}}
+
+{{< button href="/research_iteration_4" caption="Read further at Research" >}}
+
 ## Platform
 The platform is the main base which people can use to explore the builds of other people and compete in championships for example. You can also find your profile page here. 
 
@@ -21,16 +31,6 @@ The platform is the main base which people can use to explore the builds of othe
 {{< /figcontainer >}}
 
 {{< button href="/platform_iteration_4" caption="Read further at Platform" >}}
-
-## Research
-Whereas a lot of research was done on how citizens participation in urban design and planning worked, little research had been done on whether citizens would actually be interested in increasing their participation. This was validated via a questionnaire and analyzed in python.
-
-{{< figcontainer class="small">}}
-{{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="laptopscreen" >}}
-{{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="redunity" >}}
-{{< /figcontainer >}}
-
-{{< button href="/research_iteration_4" caption="Read further at Research" >}}
 
 ## AR Build System
 Most part of the project has been dedicated towards developing this system. For that reason, many, many prototypes have been made. A lot of development has been documented and every step along the way helped us to make a fully functional prototype of an AR build system. How cool is that!
