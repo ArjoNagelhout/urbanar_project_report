@@ -21,8 +21,9 @@ Conceptualization*
 We focused on orienting ourselves in the field of data collection. We decided to create a game in which people could map biological life and battle with the captured plants and animals.
 
 {{< figcontainer class="small">}}
-{{< fig src="images/miro_board_grtimoo.jpg" caption="Starting to prototype in Unity by watching tutorials" name="laptopscreen" >}}
-{{< fig src="images/biodiversity.jpg" caption="Screen of the Unity prototype in which you can see yourself in the actual world" name="redunity" >}}
+{{< fig src="images/miro_board_grtimoo.jpg" caption="A Miro board about the many possible directions for collecting data" name="laptopscreen" >}}
+{{< fig src="images/miro_board_2.jpg" caption="A Miro board about what types of data to collect" name="redunity" >}}
+{{< fig src="images/biodiversity.jpg" caption="A Miro baord about how to implement game-like features" name="redunity" >}}
 {{< /figcontainer >}}
 
 {{< button href="/iteration_1" caption="Read further at Iteration 1" >}}
@@ -36,6 +37,7 @@ Conceptualization*
 Extensive research was conducted to map out the scientific context surrounding Games for Data Collection. This eventually made us able to develop an innovative concept.
 
 {{< figcontainer class="small">}}
+{{< video src="images/science_orientation.mp4" caption="Our rather long document on citizen science games and the scientific world" gif="true" >}}
 {{< fig src="images/presentation_slide_5.jpg" caption="Drawing of how people's ideas would be placed and retrieved in the world (23 September 2020)" name="laptopscreen" >}}
 {{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" name="redunity" gif="true">}}
 {{< /figcontainer >}}

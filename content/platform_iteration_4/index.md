@@ -9,6 +9,10 @@ menu:
         weight: 2
 ---
 
+The platform will be the main way for people to explore the ideas and builds of others. Every single AR build submission will be shown right on the map. Also championships will be indicated for people to join and participate in an amazing tournament. Its main function is to show the contributions of users and simultaneously allow the same users to vote for their favorite ideas.
+
+## Unity prototyping
+
 Whereas a mockup prototype of our platform was created in Adobe XD for the midterm demo day, for communicational purposes. It was chosen to make a more functional interactive app with the help of Unity. [The SDK of Mapbox was implemented in Unity](#laptopscreen) and the [first version](#blueunity) of our prototype worked. You could now see a man actively walking around. In a [newer version](#redunity) you could actually see yourself walking around in your own neighborhood. A first implementation of buttons [(build button and profile page)](#buttons) was added later on, but not further developed.
 
 {{< figcontainer >}}
@@ -18,6 +22,7 @@ Whereas a mockup prototype of our platform was created in Adobe XD for the midte
 {{< fig src="images/unitybuttons.JPG" caption="The addition of the build button and profile page" name="buttons" >}}
 {{< /figcontainer >}}
 
+## Switching form Unity to Adobe XD
 
 Our focus namely shifted from realizing to actually validating our system, based on insights obtained in a meeting with Regina Bernhaupt. We discussed the main parts of both our platform and AR build system that we thought were important to realize and communicate to the public at demo day.
 For the platform, this was mainly to show its core functionality and aesthetics. Therefore focusing on a more simple realization method in AdobeXD would be a more appropriate choice to realize these goals, as visualizing the user in their own neighborhood was not a core feature and made it harder to realize.
@@ -57,6 +62,8 @@ Personal profiles, as well as an achievement system was added in the fifth itera
 {{< fig src="images/version7_1.png" caption="The improved achievement page (V7)" >}}
 {{< fig src="images/version7_2.png" caption="An overview of championship submissions with medals (V7)" >}}
 {{< /figcontainer >}}
+
+## The final version of the platform
 
 Eventually during iteration eight till ten many astonishing improvements were made to make the app convey the actual feeling of being an app. The homescreen now had a real image of the user’s surroundings, as well as a profile page button. The build submissions contained actual building footage made with our own app. The championship had its own button for submissions for this specific tournament. For better hierarchy, the buttons on submission pages were decreased in size. To make the buttons pop, as well as the title of the build, the white background was replaced with an even more highly saturated colors.
 

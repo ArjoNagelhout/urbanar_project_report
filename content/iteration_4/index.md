@@ -15,6 +15,7 @@ Iteration 4 spans over the timeframe from the midterm demo day all the way to th
 Whereas a lot of research was done on how citizens participation in urban design and planning worked, little research had been done on whether citizens would actually be interested in increasing their participation. This was validated via a questionnaire and analyzed in python.
 
 {{< figcontainer class="small">}}
+{{< fig src="images/age.png" caption="The ages of all 59 participants" name="plotage" >}}
 {{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="laptopscreen" >}}
 {{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="redunity" >}}
 {{< /figcontainer >}}
@@ -58,9 +59,9 @@ The AR build system was tested with users to test both its usability and its soc
 To set things straight, our goal was to have the coolest demo day page of all. We made an amazing video, even containing some VFX shots. Our poster and graphics matched and beautifully explained our concept. we got a lot of great responses and were even featured on Dutch Design Daily.
 
 {{< figcontainer class="small">}}
-{{< video src="images/shot_3.mp4" caption="An AR build submission (V10)" name="laptopscreen" gif="true">}}
-{{< video src="images/shot_3.mp4" caption="A screenshot of the scene while using the AR build system" gif="true">}}
-{{< fig src="images/dutchdesigndaily.png" caption="A screenshot of the scene while using the AR build system" gif="true">}}
+{{< fig src="images/2020-12-16_logo_drawings.jpg" caption="Logo design explorations drawing in ProCreate on iPad" >}}
+{{< fig src="/images/UrbanAR_03_Get_Inspired_By_Others.png" caption="Graphic 3: Get inspired by others" >}}
+{{< video src="images/shot_3.mp4" caption="VFX Final Shot 3 - Zoom out from building in augmented reality to the map overview" gif="true">}}
 {{< /figcontainer >}}
 
 {{< button href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
