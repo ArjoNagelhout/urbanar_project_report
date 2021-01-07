@@ -1,6 +1,6 @@
 {{ $image := $.Page.Resources.GetMatch (.Get "src")}}
 <a name='{{ .Get "name" }}'></a>
-<figure>
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
     {{ with $image }}
     <img src="{{ $image.RelPermalink }}"/>
     {{ else }}

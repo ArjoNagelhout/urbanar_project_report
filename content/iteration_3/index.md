@@ -9,11 +9,23 @@ menu:
         weight: 3
 ---
 
-Iteration 2 spans a timeframe between 25 september 2020 to 23 october 2020.
+Iteration 3 took place from 25 september 2020 until 23 october 2020.
 
-## Ideation on both the platform and build system
+{{< fig src="images/2020-09-29_requirements.jpeg" class="full-width" caption="Requirements" >}}
+
+## Build system explorations
+{{< figcontainer class="small" >}}
+{{< fig src="images/2020-09-27_build_system.jpeg" caption="Build System exploratory drawing (27 September 2020)">}}
+{{< fig src="images/2020-10-03_build_system.jpeg" caption="Build System exploratory drawing (3 October 2020)">}}
+{{< fig src="images/2020-10-04_build_system.jpeg" caption="Build System exploratory drawing (4 October 2020)">}}
+{{< fig src="images/2020-10-04_overview.jpeg" caption="Build System exploratory drawing 2 (4 October 2020)">}}
+{{< fig src="images/2020-10-04_patterns.jpeg" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/2020-10-05_further_explorations.jpeg" caption="Build system further explorations (5 October 2020)">}}
+{{< /figcontainer >}}
+
+## Ideation session on both the platform and build system
 After having chosen the initial concept we had to focus on what aspects the platform would have: how we could motivate people to use the app and make it engaging for over a longer time period.
-We performed an ideation session (figures hieronder) in which we looked at similar games and wrote down what could make our game engaging, such as avatars, leveling up by gaining XP, achievements and titles. These could make the user more interested in the app for over a longer period of time. 
+We performed an ideation session (see [whiteboards below](#whiteboard1)) on 6 October 2020 in which we looked at similar games and wrote down what could make our game engaging, such as avatars, leveling up by gaining XP, achievements and titles. These could make the user more interested in the app for over a longer period of time. 
 
 {{< figcontainer class="small" >}}
 {{< fig src="images/board1.jpg" caption="Gamification" name="whiteboard1" >}}
@@ -25,9 +37,11 @@ We performed an ideation session (figures hieronder) in which we looked at simil
 
 Based on this ideation session, the next most important design decisions were made.
 One could progress in levels by gaining XP, which can be received by receiving likes and winning championships, receiving achievements or placing a build. By leveling up, players would collect more assets that can be used in the AR build system to be creatively make changes to your environment.
-As we ought collectables to be an interesting feature for people to be encouraged to use the app, we decided to further dive into the possibilities of different types of avatars. The pickaxe was chosen at first, as we believed this best resembled the metaphor of building.
+As we found collectables to be an interesting feature for people to be encouraged to use the app, we decided to further dive into the possibilities of different types of avatars. The pickaxe was chosen at first, as we believed this best resembled the metaphor of building.
 If too many ideas are submitted in a close spot it can become quite unorganized. A function to cluster all ideas is more appropriate.
 A clearer overview of submissions was done by placing all submissions within a championship or clustering in a grid pattern. One could also use the search bar or the sort button in order to organize the submissions differently.
+
+{{< fig src="images/2020-10-06_manipulation_and_avatars.jpeg" caption="Manipulation and Avatars">}}
 
 {{< figcontainer class="small">}}
 {{< fig src="images/mockup1.jpg" caption="The main platform screen" name="main_screen" >}}
@@ -49,7 +63,7 @@ An ideation session about the name of our concept was conducted. Eventually the 
 {{< /figcontainer >}}
 
 ## Expert interview with Gwen Klerks
-To gain more knowledge in the field of citizen participation, a discussion was held with Gwen Klerks: https://www.linkedin.com/in/gwenklerks/?originalSubdomain=nl
+To gain more knowledge in the field of citizen participation, a discussion was held with [Gwen Klerks](https://www.linkedin.com/in/gwenklerks)
 
 During the meeting there were some main learning points. We need to focus on what will happen after an idea had been chosen. We could look into possibilities for community building, so citizens themselves can build or realize a chosen idea. This could also apply to places that the citizens want to renovate or the moment an idea needs to be changed.\
 Furthermore, we could dive deeper into what will happen if an idea has been chosen. Showing the status of the actual realization would give users more trust in the value of spending time on creating designs with this app.\
@@ -60,15 +74,6 @@ Subsequently, we contacted local municipalities to discuss the possibilities of 
 ## Design and Ideation AR Build System
 A lot of design and ideation in the form of drawings has been done:
 {{< figcontainer >}}
-{{< fig src="images/2020-09-25_notes_VIO.jpeg" caption="Notes VIO">}}
-{{< fig src="images/2020-09-27_build_system.jpeg" caption="Build System">}}
-{{< fig src="images/2020-09-29_requirements.jpeg" caption="Requirements">}}
-{{< fig src="images/2020-10-03_build_system.jpeg" caption="Build System">}}
-{{< fig src="images/2020-10-04_build_system.jpeg" caption="Build System">}}
-{{< fig src="images/2020-10-04_overview.jpeg" caption="Overview">}}
-{{< fig src="images/2020-10-04_patterns.jpeg" caption="Patterns">}}
-{{< fig src="images/2020-10-05_further_explorations.jpeg" caption="Further explorations">}}
-{{< fig src="images/2020-10-06_manipulation_and_avatars.jpeg" caption="Manipulation and Avatars">}}
 {{< fig src="images/2020-10-07_buildsystem.jpeg" caption="Build System">}}
 {{< fig src="images/2020-10-07_cad.jpeg" caption="CAD">}}
 {{< fig src="images/2020-10-07_paper_models.jpeg" caption="Paper models">}}

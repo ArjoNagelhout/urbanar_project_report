@@ -296,6 +296,8 @@ blockquote p {
 
 
 
+
+
 @media (max-width: 950px) {
 
     #content img, #content video {
@@ -411,6 +413,16 @@ blockquote p {
     #content .fig-container.large figure,
     #content .fig-container.large figure {
         max-width:100%;
+    }
+
+    #content figure.full-width {
+        max-width:100%;
+        max-height:none;
+    }
+
+    #content figure.full-width img {
+        max-width:100%;
+        max-height:none;
     }
 }
 
