@@ -26,3 +26,5 @@ Our design process revolved around the following design question:
 {{< fig src="images/lelijkeindhoven2.png" caption="A grass field that could be improved a lot">}}
 {{< fig src="images/lelijkeindhoven3.png" caption="One of our group mates clearly not being happy about the trash">}}
 {{< /figcontainer >}}
+
+{{< button href="/process" caption="Read further at Process" >}}

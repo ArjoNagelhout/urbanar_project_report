@@ -58,6 +58,7 @@ The novelty in our idea of collecting citizen input was to utilise world-scale A
 {{< fig src="images/2020-09-23_drawing_gps.jpg" caption="Drawing of how people's ideas would be placed and retrieved in the world (23 September 2020)" >}}
 {{< fig src="images/2020-09-23_drawing_interaction.jpg" caption="Drawing of how people could add things to the world and gamification (23 September 2020)" >}}
 {{< fig src="images/2020-09-24_drawing_brainstorming.jpg" caption="Brainstorming session (24 September 2020)" >}}
+{{< fig src="images/CityPlanner-01.png" caption="Cityplanner concept" >}}
 {{< /figcontainer >}}
 
 ## Concept definition
@@ -90,6 +91,8 @@ We also started looking into whether there were research papers published in the
 {{< fig src="images/presentation_slide_7.jpg" caption="Presentation slide 7 - Process" >}}
 {{< fig src="images/presentation_slide_8.jpg" caption="Presentation slide 8 - Moving forward" >}}
 {{< /figcontainer >}}
+
+{{< button href="/iteration_3" caption="Read further at Iteration 3" >}}
 
 ## References
 1. {{< link designing_sdgs_paper >}}Cooper, S. The challenge of designing scientific discovery games. *Proceedings of the Fifth International Conference on the Foundations of Digital Games. June 2010. Pages 40-47.* http://doi.org/10.1145/1822348.1822354 

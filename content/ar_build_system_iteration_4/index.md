@@ -12,9 +12,9 @@ menu:
 At the center of our concept lies the AR Build System. It has taken great effort to transform the concept we had at the midterm demoday towards the fully working prototype we had at the end of the project. 
 
 ## High quality mockups
-The moment the midterm demoday was finished, we started creating proper concept videos. This was initially the plan for the midterm video, but we underestimated how much time it would take to do properly. 
+The moment the midterm demoday was finished, we started creating proper concept videos. This was initially the plan for the midterm video, but we underestimated how much time it would take to do properly. From 23 to 28 October 2020 we worked on this. 
 
-This was from 23 October to 28 October 2020
+Creating these high quality mockups were not only ideal for communicating our concept with others. It also helped with getting a clear vision of where we wanted to be at the end. Sketches simply didn't allow us enough to see whether it would look, feel and work right. 
 
 {{< figcontainer >}}
 {{< video src="images/2020-10-25_blender_1.mp4" caption="First UI animation test in Blender with a faux finger (25/10/2020)" gif="true" >}}
@@ -29,15 +29,27 @@ This was from 23 October to 28 October 2020
 {{< video src="images/2020-10-27_blender_3.mp4" caption="Library UI interaction mockup in Blender" gif="true" >}}
 {{< video src="images/2020-10-27_render_2.mp4" caption="Final Render Library UI interaction mockup" gif="true" >}}
 {{< /figcontainer>}}
-* Screenshot toevoegen van de UI mockups in Adobe XD. 
-* Mention creation of models etc. everything from masking to tracking and planning etc. rationale behind creating these high fidelity mockups. 
-## Baby steps
-28 October 2020 was the very first version of the AR Build System in action. Made using Unity + ARFoundation and tested on the iPad Pro. 
+
+The general workflow for creating the mockups was to start with a video recorded with an iPhone. This footage could then be motion tracked in Blender so that we could overlay the 3d scene onto the real world. 
+Then the UI interaction was determined on paper. 
+The required 2D user interface assets were created in Photoshop and Adobe XD and imported into Blender, where these could be animated and combined onto a 2D screen in front of the camera. 
+After this, 3D models were created in Blender and ProCreate was used for drawing the textures. 
+
+These 3D models were then added to the 3D scene and animated according to the camera movement and UI interactions. A 3D mask was added to make sure that the objects could be placed behind the real world objects (such as the table). The 2D screen, 3D scene and mask were then composited and rendered using the raytracing engine Cycles in Blender. 
+
+Afterwards, we combined the original footage and render in Final Cut Pro and exported it to an iPhone. This was then recorded with a greenscreen background. This was then combined in Final Cut Pro again with the original footage so that it looked like the person was holding the iPhone in the original environment. 
+
+A complicated process, but highly rewarding because the end result is identical to what the actual programmed prototype would look like. 
+
+## First steps
+28 October 2020 was the very first version of the AR Build System in action. This was made using Unity + ARFoundation and tested on the iPad Pro. 
 
 {{< figcontainer >}}
 {{< video src="images/2020-10-28_build_system_1.mp4" caption="The very first version of the AR build system (28/10/2020)" gif="true" >}}
 {{< video src="images/2020-10-28_build_system_2.mp4" caption="Further progress on the AR build system (28/10/2020)" gif="true" >}}
 {{< /figcontainer>}}
+
+There weren't any notable design changes yet because the goal was to implement what was visible in the high fidelity mockups. 
 
 ## Overcoming long build times
 11 November 2020
@@ -48,24 +60,26 @@ The recently introduced Unity MARS overcomes this problem and allows you to dire
 
 {{< fig src="images/2020-11-11_ARBuildSystemTestingEnvironment.png" caption="Primitive AR experience testing environment directly in the Unity Editor (11/11/2020)" >}}
 
+Creating this setup immediately increased productivity by ten times. Now actual progress could be made. 
+
 ## Progress 12 November 2020
-Selection + moving objects now implemented + Tooltip. Multiple objects work, selecting and deselecting. 
-Repositioning thus works. 
+In this version of the build system, multiple object selection was now implemented. The tooltip indicates the current mode and selection. Moving multiple objects also works, as can be seen in the following demonstration video:
 
-{{< containedyoutubevideo id="JfMccPT8gpo" name="" caption="Video" >}}
-
-The week between this (13 November 2020 - 20 November 2020) I spent on creating the backend for Laravel etc.
+{{< containedyoutubevideo id="JfMccPT8gpo" name="" caption="Video 12 November 2020" >}}
 
 ## Progress 30 November 2020
-Duplication of objects now implemented
-{{< containedyoutubevideo id="LnJvVbO68QI" name="" caption="Video 2" >}}
+In this version of the build system, duplication was implemented. This was removed directly after because it was very confusing, but still an interesting interaction. 
+{{< containedyoutubevideo id="LnJvVbO68QI" name="" caption="Video 30 November 2020" >}}
 
+We also made a start on the design of the panel for what happens when you select an object. Initially it was on the left side of the screen, as can be seen in the following screenshot. We also started implementing the interface as it was defined in the high fidelity mockups. 
 {{< fig src="images/2020-11-30_first_ui_unity.jpg" caption="" >}}
 
 ## Progress 3 December 2020
-Horizontal and vertical rotation of objects, revamped UI that actually resembles the UI Mockups. 
+Horizontal and vertical rotation of objects is now implemented, we revamped the UI so that it resembles the UI mockups. 
 {{< containedyoutubevideo id="hzojpm_40H4" name="" caption="Video 3" >}}
 {{< containedyoutubevideo id="clQtqjE5F7Q" name="" caption="Video 4" >}}
+
+Because not all interactions were defined in the mockups, we continued designing the interface. We also implemented 
 {{< figcontainer >}}
 {{< fig src="images/2020-12-04_mockup_xd_1.jpg" caption="" >}}
 {{< fig src="images/2020-12-04_mockup_xd_2.jpg" caption="" >}}

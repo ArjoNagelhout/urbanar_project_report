@@ -491,3 +491,27 @@ blockquote p {
 
 
 }
+
+#content a.awesome_button {
+    display:block;
+    background-color:#00ADED;
+    color:white;
+    padding:2rem 0;
+    max-width:40rem;
+    text-align:center;
+    font-size:2rem;
+    border-radius:3rem;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10rem;
+    margin-bottom:10rem;
+    box-shadow: 10px 10px 54px -7px rgba(0,0,0,0.05);
+    transition:all .2s;
+    text-decoration:none;
+}
+
+#content a.awesome_button:hover {
+    transform:translateY(-0.2rem);
+    background-color:#43c5f5;
+    color:white;
+}
