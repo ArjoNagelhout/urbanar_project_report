@@ -20,6 +20,8 @@ The platform is the main base which people can use to explore the builds of othe
 {{< fig src="images/version10_3.png" caption="A championship submission (V10)" name="redunity" >}}
 {{< /figcontainer >}}
 
+{{< button href="/platform_iteration_4" caption="Read further at Platform" >}}
+
 ## Research
 Whereas a lot of research was done on how citizens participation in urban design and planning worked, little research had been done on whether citizens would actually be interested in increasing their participation. This was validated via a questionnaire and analyzed in python.
 
@@ -27,6 +29,8 @@ Whereas a lot of research was done on how citizens participation in urban design
 {{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="laptopscreen" >}}
 {{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="redunity" >}}
 {{< /figcontainer >}}
+
+{{< button href="/research_iteration_4" caption="Read further at Research" >}}
 
 ## AR Build System
 Most part of the project has been dedicated towards developing this system. For that reason, many, many prototypes have been made. A lot of development has been documented and every step along the way helped us to make a fully functional prototype of an AR build system. How cool is that!
@@ -37,6 +41,8 @@ Most part of the project has been dedicated towards developing this system. For 
 {{< fig src="images/overdeschouder.jpg" caption="Using the finalized app outside" >}}
 {{< /figcontainer >}}
 
+{{< button href="/ar_build_system_iteration_4" caption="Read further at AR Build System" >}}
+
 ## Evaluation
 The AR build system was tested with users to test both its usability and its social relevance. People would use the app and apply it in an artificial town. The following semi-structured interview would revolve around their experience with this app and whether people would want to use it if it would come to the market.
 
@@ -46,6 +52,8 @@ The AR build system was tested with users to test both its usability and its soc
 {{< fig src="images/plots.jpg" caption="Mockup prototype of the AR build system" name="redunity" >}}
 {{< /figcontainer >}}
 
+{{< button href="/evaluation" caption="Read further at Evaluation" >}}
+
 ## Demoday 18 December 2020
 To set things straight, our goal was to have the coolest demo day page of all. We made an amazing video, even containing some VFX shots. Our poster and graphics matched and beautifully explained our concept. we got a lot of great responses and were even featured on Dutch Design Daily.
 
@@ -54,3 +62,5 @@ To set things straight, our goal was to have the coolest demo day page of all. W
 {{< video src="images/shot_3.mp4" caption="A screenshot of the scene while using the AR build system" gif="true">}}
 {{< fig src="images/dutchdesigndaily.png" caption="A screenshot of the scene while using the AR build system" gif="true">}}
 {{< /figcontainer >}}
+
+{{< button href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
