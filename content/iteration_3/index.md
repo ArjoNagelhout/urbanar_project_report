@@ -24,10 +24,10 @@ We performed an ideation session (figures hieronder) in which we looked at simil
 {{< /figcontainer >}}
 
 Based on this ideation session, the next most important design decisions were made.
-One could progress in levels by gaining XP (figure x), which can be received by receiving likes and winning championships, receiving achievements or placing a build. By leveling up, players would collect more assets that can be used in the AR build system to be creatively make changes to your environment.
-As we ought collectables to be an interesting feature for people to be encouraged to use the app, we decided to further dive into the possibilities of different types of avatars. The pickaxe was chosen at first, as we believed this best resembled the metaphor of building (figure x).
+One could progress in levels by gaining XP, which can be received by receiving likes and winning championships, receiving achievements or placing a build. By leveling up, players would collect more assets that can be used in the AR build system to be creatively make changes to your environment.
+As we ought collectables to be an interesting feature for people to be encouraged to use the app, we decided to further dive into the possibilities of different types of avatars. The pickaxe was chosen at first, as we believed this best resembled the metaphor of building.
 If too many ideas are submitted in a close spot it can become quite unorganized. A function to cluster all ideas is more appropriate.
-A clearer overview of submissions was done by placing all submissions within a championship or clustering in a grid pattern (figure x). One could also use the search bar or the sort button in order to organize the submissions differently (figure x).
+A clearer overview of submissions was done by placing all submissions within a championship or clustering in a grid pattern. One could also use the search bar or the sort button in order to organize the submissions differently.
 
 {{< figcontainer class="small">}}
 {{< fig src="images/mockup1.jpg" caption="The main platform screen" name="main_screen" >}}
