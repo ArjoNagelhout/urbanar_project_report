@@ -16,8 +16,21 @@ The moment the midterm demoday was finished, we started creating proper concept 
 
 This was from 23 October to 28 October 2020
 
+{{< figcontainer >}}
+{{< video src="images/2020-10-25_blender_1.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-25_blender_2.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-27_render_1.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-27_render_final.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-27_blender_3.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-27_render_2.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-28_build_system_1.mp4" caption="" gif="true" >}}
+{{< video src="images/2020-10-28_build_system_2.mp4" caption="" gif="true" >}}
+{{< /figcontainer>}}
+
 ## Baby steps
 28 October 2020 was the very first version of the AR Build System in action. Made using Unity + ARFoundation and tested on the iPad Pro. 
+
+## 
 
 ## Overcoming long build times
 11 November 2020
