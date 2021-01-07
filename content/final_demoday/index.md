@@ -43,7 +43,7 @@ We went to shoot multiple times. We wanted to capture how people actually used t
 ## Music composition and research
 We struggled a lot while finding appropriate music. The music needed to sound professional, as well as playful. However, most music in this area is quite cheesy and over-used. It needed to be relatively fast-paced and have a strong beat. This would allow us to cut on the music and make an engaging video.
 
-Different experiments were tried with different types of music. We have even tried to make our own music, but eventually stuck on a vibey hip-hop song, which really strengthened the main intro scene that is insanely cool.
+Different experiments were tried with different types of music. We have even tried to make our own music, but eventually stuck on a vibey hip-hop song, which really strengthened the main introduction scene. The song: Let Me Tell You a Story - MaverickMyers (https://www.youtube.com/watch?v=bkxpEteGG3M&ab_channel=MaverickMyersRadio)
 
 ## Visual effects shots
 To further drive the scope of our ideas home in the promotional video, we wanted to go all out with visual effects. Three VFX shots were created over the span of five days. The programs we have used are [Blender](https://www.blender.org) for tracking and 3d modelling, [Compressor](https://www.apple.com/final-cut-pro/compressor/) for video conversion and [Final Cut Pro](https://www.apple.com/final-cut-pro/) and Apple Motion for combining the footage into the end result. 

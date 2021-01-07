@@ -18,5 +18,11 @@ UrbanAR allows citizens to directly visualize their ideas in the real world. All
 
 We are positive that UrbanAR will change the way urban planning is done. The results of our user test namely show people are willing to use this app to show their opinion or if the municipalities were to ask them for input. But most importantly, our user tests clearly have one constant: it's so much fun!
 
-Our design process mainly revolved around the following design question:
+Our design process revolved around the following design question:
 >“How can we increase the quality and quantity of data collected on citizens’ opinions about urban planning and public space design efforts by municipalities using gamification and emerging technologies as location-based augmented reality?” 
+
+{{< figcontainer class="small left" >}}
+{{< fig src="images/lelijkeindhoven.png" caption="A street that does not look nice">}}
+{{< fig src="images/lelijkeindhoven2.png" caption="A grass field that could be improved a lot">}}
+{{< fig src="images/lelijkeindhoven3.png" caption="One of our group mates clearly not being happy about the trash">}}
+{{< /figcontainer >}}

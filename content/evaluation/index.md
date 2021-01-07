@@ -28,13 +28,13 @@ Luckily, the test returned negative and the user-test could be performed in real
 All actions performed by the user were logged and send to a server controlled by us. Subsequently, we could analyze this data and easily compare it to other log files, as all assets were placed in a similar setting. 
 
 {{< figcontainer class="small" >}}
-{{< fig src="images/IMG_6007.JPG" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
-{{< fig src="images/IMG_6010.JPG" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/IMG_6013.PNG" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/IMG_6015.JPG" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/utkatrien.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/utkoen.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/utrandi.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/IMG_6007.JPG" caption="Building the scale model of the town" name="whiteboard1" >}}
+{{< fig src="images/IMG_6010.JPG" caption="Placing objects in the scale model of the town" name="whiteboard1" >}}
+{{< fig src="images/IMG_6013.PNG" caption="A screenshot of a build in this scale model town on an iPhone 7 (The user tests were performed on an iPad Pro)" name="whiteboard1" >}}
+{{< fig src="images/IMG_6015.JPG" caption="The final scale model with a paper in front kindly asking people to not touch it" name="whiteboard1" >}}
+{{< fig src="images/utkatrien.png" caption="The fifth user test" name="whiteboard1" >}}
+{{< fig src="images/utkoen.png" caption="The second user test" name="whiteboard1" >}}
+{{< fig src="images/utrandi.png" caption="The third user test" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
 ## Qualitative analysis of the results
@@ -87,7 +87,7 @@ The bottom scatter plot indicates where all users manipulated their assets in th
 {{< fig src="images/locationtableplots.jpg" caption="People having participated in co-design sessions" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
-The street lantern was the most popular asset to be placed in the scene, whereas the bench was the item most often added to the inventory. It’s highly possible the bench is often chosen first and therefore is thrown out of the inventory once other items were selected, which means it had to be added to the inventory once again. This again indicates why people wanted this functionality improved to increase the app's efficiency.
+The street lantern was the most popular asset to be placed in the scene, whereas the bench was the item most often added to the inventory. It’s highly possible the bench is often chosen first because it is often immediately associated with the goal of 'designing a park' and therefore thrown out of the inventory once other items were added to the inventory. This means it had to be added to the inventory once again. This would explain why people wanted to be able to select which items go in and out of their inventory themselves, which was found out in the quantitative analysis.
 
 
 {{< figcontainer class="large" >}}
