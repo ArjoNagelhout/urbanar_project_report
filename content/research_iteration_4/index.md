@@ -35,3 +35,5 @@ From the [3x3 grid plot](#manyplots) we can conclude that in general people are 
 >“I was invited by email to give input on redesigning the nearby park. I gave lots of new ideas ... nothing was done with any of my or other's input since they decided to throw in tiles only. No, I wasn't heard, even angry, and will never participate again.”
 
 From here we can indeed conclude that creating an engaging tool that serves as a communication platform between the municipality and citizens certainly offers the potential to give citizens the power to have a saying in what happens in their own neighborhood. We believe the possibility for citizens to clearly visualize their ideas, as well as vote for these builds, will help the municipality to better understand the needs and wishes of their citizens.
+
+{{< button href="/ar_build_system_iteration_4" caption="Read further at AR Build System" >}}
