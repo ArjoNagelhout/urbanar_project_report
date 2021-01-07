@@ -406,3 +406,9 @@ blockquote p {
     display: block;
     caption-side: unset;
 }
+
+@media print {
+    #content {
+        margin:0;
+    }
+}
