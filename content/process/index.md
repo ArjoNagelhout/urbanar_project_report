@@ -26,7 +26,7 @@ We focused on orienting ourselves in the field of data collection. We decided to
 {{< fig src="images/biodiversity.jpg" caption="A Miro baord about how to implement game-like features" name="redunity" >}}
 {{< /figcontainer >}}
 
-{{< button href="/iteration_1" caption="Read further at Iteration 1" >}}
+{{< button href="/iteration_1" caption="Read further at Iteration 1" class="small-margins" >}}
 
 ## Iteration 2 - From Scientific Discovery Games to Citizen Participation in Urban Planning
 *Orientation\
@@ -42,7 +42,7 @@ Extensive research was conducted to map out the scientific context surrounding G
 {{< video src="images/presentation_building.mp4" caption="World scale AR Building visualisation" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
-{{< button href="/iteration_2" caption="Read further at Iteration 2" >}}
+{{< button href="/iteration_2" caption="Read further at Iteration 2" class="small-margins" >}}
 
 ## Iteration 3 - Concept Development
 *Ideation\
@@ -57,7 +57,7 @@ After the initial concept was chosen, a lot of time went into the ideation and a
 {{< video src="images/shot3_v2.mp4" caption="Mockup prototype of the AR build system" name="redunity" gif="true">}}
 {{< /figcontainer >}}
 
-{{< button href="/iteration_3" caption="Read further at Iteration 3" >}}
+{{< button href="/iteration_3" caption="Read further at Iteration 3" class="small-margins" >}}
 
 ## 4. UrbanAR
 *Ideation\
@@ -74,5 +74,5 @@ All focus was on the realization of our idea. Reserach on our initial assumed pr
 {{< video src="images/shot_2.mp4" caption="VFX Final Shot 2 - Showing off what he has built" gif="true">}}
 {{< /figcontainer >}}
 
-{{< button href="/iteration_4" caption="Read further at Iteration 4" >}}
+{{< button href="/iteration_4" caption="Read further at Iteration 4" class="small-margins" >}}
 
