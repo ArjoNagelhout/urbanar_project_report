@@ -30,7 +30,7 @@ For this user test a backend has been written. This meant every action the user 
 {{< fig src="images/IMG_6010.JPG" caption="Placing objects in the scale model of the town" name="whiteboard1" >}}
 {{< fig src="images/IMG_6013.PNG" caption="A screenshot of a build in this scale model town on an iPhone 7 (The user tests were performed on an iPad Pro)" name="whiteboard1" >}}
 {{< fig src="images/IMG_6015.JPG" caption="The final scale model with a paper in front kindly asking people to not touch it" name="whiteboard1" >}}
-{{< fig src="images/utkatrien.png" caption="The fifth user test" name="whiteboard1" >}}
+{{< fig src="images/utkatrien.png" caption="The first user test" name="whiteboard1" >}}
 {{< fig src="images/utkoen.png" caption="The second user test" name="whiteboard1" >}}
 {{< fig src="images/utrandi.png" caption="The third user test" name="whiteboard1" >}}
 {{< /figcontainer >}}

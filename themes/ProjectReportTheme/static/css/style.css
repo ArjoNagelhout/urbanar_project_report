@@ -424,6 +424,18 @@ blockquote p {
         max-width:100%;
         max-height:none;
     }
+
+    #content figure.medium-width {
+        max-width:100%;
+        width:80rem;
+        max-height:none;
+    }
+
+    #content figure.medium-width img {
+        max-width:100%;
+        max-height:none;
+        
+    }
 }
 
 .no-table {

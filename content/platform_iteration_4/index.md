@@ -22,7 +22,7 @@ Whereas a mockup prototype of our platform was created in Adobe XD for the midte
 {{< fig src="images/unitybuttons.JPG" caption="The addition of the build button and profile page" name="buttons" >}}
 {{< /figcontainer >}}
 
-## Switching form Unity to Adobe XD
+## Switching from Unity to Adobe XD
 
 Our focus namely shifted from realizing to actually validating our system, based on insights obtained in a meeting with Regina Bernhaupt. We discussed the main parts of both our platform and AR build system that we thought were important to realize and communicate to the public at demo day.
 For the platform, this was mainly to show its core functionality and aesthetics. Therefore focusing on a more simple realization method in AdobeXD would be a more appropriate choice to realize these goals, as visualizing the user in their own neighborhood was not a core feature and made it harder to realize.
@@ -75,6 +75,6 @@ Eventually during iteration eight till ten many astonishing improvements were ma
 {{< fig src="images/version10_5.png" caption="An AR build submission (V10)" >}}
 {{< /figcontainer >}}
 
-{{< fig src="images/platformgrey.jpg" caption="An overview of many many experiments (V1 - V10)" >}}
+{{< fig src="images/platformgrey.jpg" caption="An overview of many many experiments (V1 - V10)" class="medium-width">}}
 
 {{< button href="/ar_build_system_iteration_4" caption="Read further at AR Build System" >}}
