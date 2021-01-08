@@ -23,34 +23,21 @@ We eventually got [59 responses](#plotage) from a wide range of ages. Their answ
 {{< fig src="images/age.png" caption="The ages of all 59 participants" name="plotage" >}}
 
 
-{{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per frequency of going outside" name="manyplots" class="medium-width">}}
-
-{{< fig src="images/p2_ages.svg" caption="Amount of satisfaction with environment, interest in urban design and planning and perceping of being offered enough tools per age group" name="manyplots" class="medium-width">}}
-
-
-{{< fig src="images/heatmapv1.png" caption="Percepting of satisfaction, interest and enough opportunities per frequency of going outside" name="plotage" class="medium-width">}}
-{{< fig src="images/heatmapv2.png" caption="Percepting of satisfaction, interest and enough opportunities per age group" name="plotage" class="medium-width">}}
-
-{{< figcontainer class="large">}}
-{{< fig src="images/heatmapv1.png" caption="Percepting of satisfaction, interest and enough opportunities per frequency of going outside" class="full_width" name="plotage">}}
-{{< fig src="images/heatmapv2.png" caption="Percepting of satisfaction, interest and enough opportunities per age group" name="plotage" >}}
-{{</ figcontainer>}}
-
-{{< figcontainer class="large">}}
-{{< fig src="images/heatmapv5.png" caption="Percepting of satisfaction, interest and enough opportunities per frequency of going outside" class="full_width" name="plotage">}}
-{{< fig src="images/heatmapv3.png" caption="Percepting of satisfaction, interest and enough opportunities per age group" name="plotage" >}}
-{{</ figcontainer>}}
-
-The middle row of the [3x3 grid plot](#manyplots) shows the majority of users are interested in participating more in the process of urban planning and design. No matter the frequency of going outside, it is generally perceived that the municipality does not offer the appropriate tools for citizens to actually do so. In many cases, people [don’t even know of methods to contact the municipality](#plotknow) about this matter. The ones who did find the opportunity to [participate in a co-design](#plotcodesign) session were often left unsatisfied as they felt they weren’t listened to appropriately: 
+The middle [bar graph](#bar) shows the majority of users are interested in participating more in the process of urban planning and design. Both heatmap show it is generally perceived that the municipality does not include citizens enough in the process and does not offer enough and appropriate tools. In many cases, people [don’t even know of methods to contact the municipality](#plotknow) about this matter. The ones who did find the opportunity to [participate in a co-design](#plotcodesign) session were often left unsatisfied as they felt they weren’t listened to appropriately: 
 
 >“I was invited by email to give input on redesigning the nearby park. I gave lots of new ideas ... nothing was done with any of my or other's input since they decided to throw in tiles only. No, I wasn't heard, even angry, and will never participate again.”
 
 {{< figcontainer class="medium" >}}
+{{< fig src="images/influence.png" caption="A graph showing how many people are interested in participating more in urban design and planning" class="full_width" name="bar">}}
+{{< fig src="images/heatmapv5.png" caption="Percepting of satisfaction, interest and enough opportunities per frequency of going outside" class="full_width" name="heatmap1">}}
+{{< fig src="images/heatmapv2.png" caption="Percepting of satisfaction, interest and enough opportunities per age group" name="heatmapv2" >}}
 {{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="plotknow" >}}
 {{< fig src="images/participationincodesignsession.png" caption="People having participated in co-design sessions" name="plotcodesign" >}}
 {{< /figcontainer >}}
 
-From the [3x3 grid plot](#manyplots) we can conclude that in general people are relatively satisfied with their environment, no matter the frequency they go outside. However, the [multiple bar graphs](#satisfactionperaspect) also show there is a big fluctuation in satisfaction among different aspects of people's environment: we need to mainly focus on implementing assets such as benches to sit down, bins against littering, playground-related objects for recreational purposes and some primitive shapes for people to create art or decoration.
+From the [left heatmap](#heatmapv1) and [right heatmap](#heatmapv2) we can conclude that in general people are relatively satisfied with their environment, no matter the frequency they go outside. A fun result was the satisfaction was the lowest, the interest to participate in the process the highest and the assessment of being included enough the least for people who go outside only a few times a week. This could be because they are not fully satisfied with their environment to go outside more and therefore want to change that, but are not offered the appropriate tools. An unexpected insights was given by the right heatmap. The least satisfaction and highest interest to participate in the process was amongst people in the age group of 23-28 years. They also thought the municipality does not include them enough. This could be because at this age one is more conscious about their environment because they get older and feel like they want to do something about it.
+
+However, the [multiple bar graphs](#satisfactionperaspect) also show there is a big fluctuation in satisfaction among different aspects of people's environment: we need to mainly focus on implementing assets such as benches to sit down, bins against littering, playground-related objects for recreational purposes and some primitive shapes for people to create art or decoration. 
 
 {{< fig src="images/allitems4.svg" caption="Amount of satisfaction per aspect of people's environment" class="full-width" name="satisfactionperaspect" >}}
 

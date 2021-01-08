@@ -22,16 +22,16 @@ Whereas a mockup prototype of our platform was created in Adobe XD for the midte
 {{< fig src="images/unitybuttons.JPG" caption="The addition of the build button and profile page" name="buttons" >}}
 {{< /figcontainer >}}
 
-## Switching from Unity to Adobe XD
 
 Our focus namely shifted from realizing to actually validating our system, based on insights obtained in a meeting with Regina Bernhaupt. We discussed the main parts of both our platform and AR build system that we thought were important to realize and communicate to the public at demo day.
 For the platform, this was mainly to show its core functionality and aesthetics. Therefore focusing on a more simple realization method in AdobeXD would be a more appropriate choice to realize these goals, as visualizing the user in their own neighborhood was not a core feature and made it harder to realize.
 
+## Progress 1 December 2020
 The [very first version](#overview) was built upon the prototype made for the midterm demo day. A clearer distinction needed to be made between the different types of submissions and an overall calmer aesthetic and clearer hierarchy of on-screen items needed to be implemented. The customizable options were left out as these were not part of the platform’s core functionalities. A preview screen of builds were added for accessibility’s sake. 
 
 {{< fig src="images/platformv04.jpg" caption="All screens of the first version of the AdobeXD platform prototype (V1)" name="overview" >}}
 
-
+## Progress 2 December 2020
 The aesthetics were greatly improved in the third version. Every build page was fully colored and the saturation of colors was increased to make the app feel more alive. The voting button in the championship’s build previews were indicated with a heart as interface metaphor and the preview itself would get green once a build has been voted for.
 
 {{< figcontainer >}}
@@ -44,6 +44,7 @@ name="championshipo" >}}
 name="championshipo" >}}
 {{< /figcontainer >}}
 
+## Progress 3 December 2020
 The fourth version received the first implementation of a cluster and got rid of the option to submit a comment as it would deviate too much from the main focus of our project: the AR building system. The pages of individual pages were transformed back to mainly white, mainly because the top part was now an image, instead of an indication of the type of submission.
 
 {{< figcontainer >}}
@@ -54,6 +55,7 @@ The fourth version received the first implementation of a cluster and got rid of
 name="championshipo" >}}
 {{< /figcontainer >}}
 
+## Progress 8 till 10 December 2020
 Personal profiles, as well as an achievement system was added in the fifth iteration. The seventh iteration improved the boring aesthetic of the previous achievement visualization. This iteration also added medals to the at the time three best ideas in the championship.
 
 {{< figcontainer >}}
@@ -63,8 +65,7 @@ Personal profiles, as well as an achievement system was added in the fifth itera
 {{< fig src="images/version7_2.png" caption="An overview of championship submissions with medals (V7)" >}}
 {{< /figcontainer >}}
 
-## The final version of the platform
-
+## Progress 16 December 2020 - The final version of the platform
 Eventually during iteration eight till ten many astonishing improvements were made to make the app convey the actual feeling of being an app. The homescreen now had a real image of the user’s surroundings, as well as a profile page button. The build submissions contained actual building footage made with our own app. The championship had its own button for submissions for this specific tournament. For better hierarchy, the buttons on submission pages were decreased in size. To make the buttons pop, as well as the title of the build, the white background was replaced with an even more highly saturated colors.
 
 {{< figcontainer >}}
