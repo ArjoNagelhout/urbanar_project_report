@@ -15,7 +15,7 @@ Iteration 4 spans over the timeframe from the midterm demo day all the way to th
 Whereas a lot of research was done on how citizens participation in urban design and planning worked, little research had been done on whether citizens would actually be interested in increasing their participation. This was validated via a questionnaire and analyzed in python.
 
 {{< figcontainer class="small">}}
-{{< fig src="images/age.png" caption="The ages of all 59 participants" name="plotage" >}}
+{{< fig src="images/influence.png" caption="A graph showing how many people are interested in participating more in urban design and planning" class="full_width" name="bar">}}
 {{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="laptopscreen" >}}
 {{< fig src="images/heatmapv5.png" caption="Percepting of satisfaction, interest and enough opportunities per frequency of going outside" name="redunity" >}}
 {{< /figcontainer >}}
