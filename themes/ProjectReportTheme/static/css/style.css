@@ -54,7 +54,7 @@ body {
     display:block;
     font-size:1.8rem;
     font-weight:500;
-    padding: 1.6rem 2.6rem;
+    padding: 1.4rem 2.6rem;
     transition: padding .2s, alpha .2s;
 }
 
