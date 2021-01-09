@@ -72,7 +72,7 @@ The final results can be seen below:
 {{< /figcontainer >}}
 
 ## Editing
-We created a lot of experiments with the music we had. Experiment 1 was edited with the music made by ourselves. The music used for experiment 3 sounded perfect because of it's rhythm, good beats and happy vibe and was later chosen to be implemented in our final video. Many different types of editing techniques were applied, such as J-Cuts, beat-based-editing. We also tried to let the natural audio play and create contrast between the up-time music and the real sound. After many experiments, we decided to apply beat-based-editing combined with the VFX shots at the beginning of the video so people get engaged immediately. Afterwards the platform and build system would be explained clearly.
+We created a lot of experiments with the music we had. Experiment 1 was edited with the music made by ourselves. The music used for experiment 3 sounded perfect because of it's rhythm, good beats and happy vibe and was later chosen to be implemented in our final video. Many different types of editing techniques were applied, such as J-Cuts, beat-based-editing. We also tried to let the natural audio play and create contrast between the up-time music and the real sound (Experiment 3). After many experiments, we decided to apply beat-based-editing combined with the VFX shots at the beginning of the video so people get engaged immediately. Afterwards the platform and build system would be explained clearly.
 
 {{< figcontainer class="small left" >}}
 {{< video src="images/experiment_1.mp4" caption="Experiment 1">}}

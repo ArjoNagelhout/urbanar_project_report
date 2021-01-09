@@ -203,7 +203,7 @@ figure {
 
     display:table;
 
-    max-width:80rem;
+    max-width:100rem;
     margin-left:auto;
     margin-right:auto;
 }
@@ -270,7 +270,7 @@ ul {
     font-size:1.6rem;
     line-height:1.7;
 
-    max-width:80rem;
+    max-width:100rem;
     margin-left:auto;
     margin-right:auto;
 }
@@ -278,7 +278,7 @@ ul {
 ol {
     font-size:1.6rem;
 
-    max-width:80rem;
+    max-width:100rem;
     margin-left:auto;
     margin-right:auto;
     
@@ -448,7 +448,7 @@ blockquote p {
 
     #content figure.medium-width {
         max-width:100%;
-        width:80rem;
+        width:100rem;
         max-height:none;
     }
 

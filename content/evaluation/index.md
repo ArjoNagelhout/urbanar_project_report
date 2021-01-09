@@ -48,11 +48,8 @@ All of these troubles were related to the efficiency of the system. Some additio
 After the session in which the user worked with the app, a semi-structured interview was conducted. This would allow us to get more insights into people’s experience with the app and ask further on their answers. Another critical incident-analysis would be performed for the same reason. See the following quotes:
 
 >”I thought it was super cool and was especially surprised that it worked so smoothly”
-
 >”It helps a lot with thinking ... you don't have to use your imagination, because it's actually there.”
-
 >”I didn't have to think about the placement, I found it super intuitive.”
-
 >”...an accessible tool for the public to give input with”.”
 
 The responses were clearly very positive. People thought the system was very intuitive and fun to use. They did not have to think a lot about what buttons meant what. As envisioned, people could directly see their build in the environment, which really helped to visualize their ideas. A very funny moment happened when one of the users even took a look to the right of the iPad to see how her build looks like in real life, but of course, the build wasn’t there. This clearly shows how AR messes with your mind and makes it feel so realistic. Thereby, people saw it as an accessible tool which is appropriate to be applied in urban design and planning. 
@@ -60,9 +57,7 @@ The responses were clearly very positive. People thought the system was very int
 Of course, there also were some little things that users thought could be improved, which will be quoted below:
 
 >”The app is intuitive, maybe you should be able to determine which items are taken out of your inventory.”
-
 >”...so if the selection box would have been around the whole tree, maybe I would have seen the selection better.”
-
 >”I would prefer a fixed realistic size for some objects, and that you can always adjust it afterwards.”
 
 Also here, the most reactions revolve around the app’s efficiency. People have to reselect objects from their inventory if too many items have been added to the inventory. Next to that, a true to world initial scale of the assets would mean the user needs to increase the size of an asset less. The selection box around the tree means the visualization of a selection could be made more visible. These are all relatively easy features to implement, and could be implemented in the app to improve its usability and accessibility.
@@ -99,4 +94,6 @@ The street lantern was the most popular asset to be placed in the scene, whereas
 {{< /figcontainer >}}
 
 {{< button href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
+
+{{< pdf href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
 
