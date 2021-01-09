@@ -21,7 +21,7 @@ We are positive that UrbanAR will change the way urban planning is done. The res
 Our design process revolved around the following design question:
 >“How can we increase the quality and quantity of data collected on citizens’ opinions about urban planning and public space design efforts by municipalities using gamification and emerging technologies as location-based augmented reality?” 
 
-{{< figcontainer class="small left" >}}
+{{< figcontainer class="small" >}}
 {{< fig src="images/lelijkeindhoven.png" caption="A street that does not look nice">}}
 {{< fig src="images/lelijkeindhoven2.png" caption="A grass field that could be improved a lot">}}
 {{< fig src="images/lelijkeindhoven3.png" caption="One of our group mates clearly not being happy about the trash">}}
