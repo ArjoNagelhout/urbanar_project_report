@@ -101,9 +101,9 @@ A lot of design and ideation in the form of drawings has been done:
 {{< fig src="images/2020-10-20_selecting_objects.jpeg" caption="Selecting objects">}}
 {{< /figcontainer >}}
 
-## Research citizen participation
+## Research
 
-## Expert interview with Gwen Klerks
+### Expert interview with Gwen Klerks about citizen participation
 To gain more knowledge in the field of citizen participation, a discussion was held with [Gwen Klerks](https://www.linkedin.com/in/gwenklerks)
 
 During the meeting there were some main learning points. We need to focus on what will happen after an idea had been chosen. We could look into possibilities for community building, so citizens themselves can build or realize a chosen idea. This could also apply to places that the citizens want to renovate or the moment an idea needs to be changed.\
@@ -112,7 +112,30 @@ Furthermore, rewarding the builder of a realized idea could be done via a namepl
 Game-like wise. We need to focus on rewards for players in-game such as votes or achievements, as well making sure the app stays fun even for over a longer period of time.
 Subsequently, we contacted local municipalities to discuss the possibilities of actually realizing submitted builds if they are really popular or won a championship or the nameplate rewards. However, as we got no response, there was little we could do to find out more about these implementations.
 
-## Research functioning urban design and planning
+### Literary research on the process of urban planning
+Further research was conducted surrounding urban planning and the inclusion of citizens during this process. What [urban planning](https://en.wikipedia.org/wiki/Urban_planning) entails:
+>"Urban planning is a technical and political process that is focused on the development and design of land use and the built environment, including air, water, and the infrastructure passing into and out of urban areas, such as transportation, communications, and distribution networks."
+
+We found that [urban planners must consider a wide array of issues, such as sustainability, existing and potential solution, tansport etc.](https://en.wikipedia.org/wiki/Urban_planning). But actual opinions of citizens are not a requirement for urban planners, while citizens are the one's who need to live in their neighbourhood every day.
+
+The [process of urban planning has multiple phases as can be seen in the image below](http://www.urbanlearning.eu/toolbox/planning-process/#:~:text=Such%20a%20process%20should%20include,in%20planning%20urban%20development%20projects.&text=Formal%20planning%20%2F%20zoning%20phase,Operational%20phase). We believe we can make the most difference during [preperatory/exploratory phase](http://www.urbanlearning.eu/fileadmin/user_upload/Toolbox/planning_process.pdf). This is where stakeholders are being involved in order for the government to make sure a common vision is being shared. In this project, we consider citizens as the most important stakeholder, together with their needs and wishes. The following phases are mainly up to the cities, governments and urban developers themselves. However, we believe the rich visual data created in our app can more accurately communicate the desires of citizens to urban planners, with as final goal to make sure these are implemented the way they were envisioned.
+
+{{< fig src="images/urbanprocess.png" class="full-width" caption="The general phases or an urban design process">}}
+
+Many sources indicate the importance of citizens being included in the process, as these citizens have different visions and goals for the city, many other stakeholders won't have thought of. Sadly, the actual participation of citizens in this process is often low (O. Smørdal, K. Ebbing Wensaas, S. Lopez-Aparicio, I Nilstad Pettersen, K. Hoelscher, 2016). This low participation has many causes, but are mainly due to the next three considerations stated in this paper to which many current applications cannot comply.
+
+> "How can the silos of planning and governance be managed?"
+
+We believe our app can make it possible to include multiple stakeholders, as urban planning will be decentralised and accessible to everyone.
+
+> "How can the complexity of planning be embraced?"
+
+We think the ability to create your own builds via an inutitive AR build system and share them on our platform allows the user to more easily share and communicate their visions and take away more of the process' complexity.
+
+> "How can the quality of dialogues and collaborative learning be improved?"
+
+Mobile phones serve as a bridge between the earlier adapted traditional concepts of community and citizen media. 
+Here they focus on the strong communicative aspect social media platforms process in order to reach out to citizens, which however do lack the appropriate tools. This shows the potential our app offers as a communitative platform. The AR build system provides the appropriate tools and the platform is the new urban social media platform to reach out to many new stakeholders.
 
 ## Benchmarking
 
@@ -210,3 +233,5 @@ However, we were not able to create a lot of video material for the midterm demo
 ## References
 {{< link designing_sdgs_paper >}}
 1. Stewart, B.(2011). Personality and Play Style: A Unified Model. https://www.gamasutra.com/view/feature/6474
+2. O. Smørdal, K. Ebbing Wensaas, S. Lopez-Aparicio, I Nilstad Pettersen, K. Hoelscher, (2016). Key issues for enhancing citizen participation in co-constructing city futures. http://ceur-ws.org/Vol-1776/paper11.pdf
+
