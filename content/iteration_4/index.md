@@ -17,7 +17,7 @@ Whereas a lot of research was done on how citizens participation in urban design
 {{< figcontainer class="small">}}
 {{< fig src="images/age.png" caption="The ages of all 59 participants" name="plotage" >}}
 {{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="laptopscreen" >}}
-{{< fig src="images/p2.svg" caption="Amount of satisfaction with environment, interest in [...]" name="redunity" >}}
+{{< fig src="images/heatmapv5.png" caption="Percepting of satisfaction, interest and enough opportunities per frequency of going outside" name="redunity" >}}
 {{< /figcontainer >}}
 
 {{< button href="/research_iteration_4" caption="Read further at Research" >}}
