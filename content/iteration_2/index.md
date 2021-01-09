@@ -62,6 +62,9 @@ The novelty in our idea of collecting citizen input was to utilise world-scale A
 {{< /figcontainer >}}
 
 ## Concept definition
+We created a design direction document, which specified what direction we wanted to go in moving forward:
+{{< pdf src="images/thumbnail_design_direction_document.jpg" href="images/2020-09-23_Project_Design_direction.pdf" caption="Design direction document (23 October 2020)">}}
+
 Because of the large difference between the previous presentation for the pressure cooker and this new concept, we put a lot of work in the presentation. We defined our new research question, as well as linking it to current research. 
 
 Our research question was now:

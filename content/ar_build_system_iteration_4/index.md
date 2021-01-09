@@ -41,6 +41,10 @@ Afterwards, we combined the original footage and render in Final Cut Pro and exp
 
 A complicated process, but highly rewarding because the end result is identical to what the actual programmed prototype would look like. 
 
+### Workflow documentation
+Because this workflow was so interesting to figure out, we created a document to track the progress and write down techniques and learning points:
+{{< pdf href="/test" src="">}}
+
 ## First steps
 28 October 2020 was the very first version of the AR Build System in action. This was made using Unity + ARFoundation and tested on the iPad Pro. 
 

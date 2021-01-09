@@ -1,3 +1,23 @@
-<a class="awesome_button {{ .Get "class" }}" href='{{ .Get "href"}}'>
-    {{ .Get "caption" }} →
-</a>
+{{ $image := $.Page.Resources.GetMatch (.Get "src")}}
+{{ $pdf := $.Page.Resources.GetMatch (.Get "href")}}
+<a name='{{ .Get "name" }}'></a>
+<figure class="pdf-figure">
+    <div class="image-container">
+        {{ with $image }}
+            <img src="{{ $image.RelPermalink }}"/>
+        {{ else }}
+            <img src='{{ .Get "src" }}'>
+        {{ end }}
+        <div class="pdf-overlay">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path d="M32,4A28,28,0,1,1,4,32,28,28,0,0,1,32,4m0-4A32,32,0,1,0,64,32,32,32,0,0,0,32,0Z" style="fill:#fff"/><polygon points="47.68 32 32.8 17.12 32.8 28.5 17.88 28.5 17.88 35.5 32.8 35.5 32.8 46.88 47.68 32" style="fill:#fff"/></svg>
+        </div>
+        <a {{ with $pdf }}href='{{ .RelPermalink }}'{{ end }}>
+        
+        </a>
+    </div>
+    
+    
+    <figcaption>
+        <p>{{ .Get "caption" }}</p>
+    </figcaption>
+</figure>
