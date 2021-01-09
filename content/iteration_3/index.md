@@ -12,18 +12,18 @@ menu:
 Iteration 3 took place from 25 september 2020 until 23 october 2020.
 
 ## Inspiration from other build systems
-The first step into further developing this build system was by analyzing the building mechanics of other popular sandbox games and building tools. We would look at how certain things are being build and how accessible these features are. We have taken a look at four different building mechanisms: Minecraft, Cities Skylines, Rollercoaster Tycoon 2 and TinkerCAD.
+The first step into further developing this build system was by analyzing the building mechanics of other popular sandbox games and building tools. We would look at how certain things are being build and how accessible these features are. We have taken a look at four different building mechanisms: Minecraft, Cities Skylines, Rollercoaster Tycoon 2 and TinkerCAD. 
 
-All systems had different mechanics. Citities Skylines demands you to place roads. Around these roads then appears a grid. You can decide what type of buildings you want to be placed. The game decided how these houses will look like. You can also terraform the landscape by applying one of the four provided options. RollerCoaster Tycoon has many mechanics. You can create a rollercoaster or path by using the interface on the left. You click on track parts for the rollercoaster and directions for the path. Subsequently, you can decide whether to place this part. In Minecraft *Creative Mode* you can fly around the world and you have unlimited access to all recources. By using the two mouse buttons you can either place or delete a block, depending on which block in the world you are facing towards. TinkerCAD allows you to use many primitive shapes, which can be scaled and skewed. Rotation is done via Gizmo's.
+All systems had different mechanics. Citities Skylines demands you to place roads. Around these roads then appears a grid. You can decide what type of buildings you want to be placed. The game decided how these houses will look like. You can also terraform the landscape by applying one of the four provided options. RollerCoaster Tycoon has many mechanics. You can create a rollercoaster or path by using the interface on the left. You click on track parts for the rollercoaster and directions for the path. Subsequently, you can decide whether to place this part. You will have to select and afterwards perform an action in order to manipulate placed paths/parts. In Minecraft *Creative Mode* you can fly around the world and you have unlimited access to all recources. By using the two mouse buttons you can either place or delete a block, depending on which block in the world you are facing towards. TinkerCAD allows you to use many primitive shapes, which can be scaled and skewed. Rotation is done via Gizmo's. The mechanics of RollerCoaster Tycoon  TinkerCAD regarding respectively the selection method and Gizmo's have been explored later on.
 
 {{< figcontainer class="small" >}}
-{{< fig src="images/citiesskylines.png" caption="Build System exploratory drawing (3 October 2020)">}}
-{{< fig src="images/citiesskylines3.png" caption="Build System exploratory drawing 2 (4 October 2020)">}}
-{{< fig src="images/rollercoaster.png" caption="Pattern library exploration (4 October 2020)">}}
-{{< fig src="images/rollercoaster2.png" caption="Pattern library exploration (4 October 2020)">}}
-{{< fig src="images/rollercoaster3.png" caption="Pattern library exploration (4 October 2020)">}}
-{{< fig src="images/minecraft.png" caption="Build System exploratory drawing (27 September 2020)">}}
-{{< fig src="images/tinkercad.png" caption="Build system further explorations (5 October 2020)">}}
+{{< fig src="images/citiesskylines.png" caption="Cities Skylines land use planning">}}
+{{< fig src="images/citiesskylines3.png" caption="Cities Skylines terraforming">}}
+{{< fig src="images/rollercoaster.png" caption="Roller Coaster Tycoon part selection">}}
+{{< fig src="images/rollercoaster2.png" caption="Roller Coaster Tycoon path placement">}}
+{{< fig src="images/rollercoaster3.png" caption="Roller Coaster Tycoon terraforming">}}
+{{< fig src="images/minecraft.png" caption="Creative Mode inventory">}}
+{{< fig src="images/tinkercad2.png" caption="TinkerCAD gizmo">}}
 {{< /figcontainer >}}
 
 ## Set requirements
@@ -149,7 +149,7 @@ Here they focus on the strong communicative aspect social media platforms proces
 {{< fig src="images/Screenshot 2021-01-07 at 16.31.35.png">}}
 {{< /figcontainer >}}
 
-## The final midterm concept
+## Midterm concept
 The build system is the main way of expressing one’s ideas about a specific part of the environment. The goal is to make this system both easy to use and expressive. It should allow artists, designers, and creative people to carry out their ideas, all the while remaining non-intimidating for beginning users. 
 
 For the build system, defining how the augmented reality part would work is of utmost importance, because of the novelty and wide range of possible implementations. 
