@@ -11,9 +11,28 @@ menu:
 
 Iteration 3 took place from 25 september 2020 until 23 october 2020.
 
-{{< fig src="images/2020-09-29_requirements.jpeg" class="full-width" caption="Requirements" >}}
+## Inspiration from other build systems
+The first step into further developing this build system was by analyzing the building mechanics of other popular sandbox games and building tools. We would look at how certain things are being build and how accessible these features are. We have taken a look at four different building mechanisms: Minecraft, Cities Skylines, Rollercoaster Tycoon 2 and TinkerCAD.
+
+All systems had different mechanics. Citities Skylines demands you to place roads. Around these roads then appears a grid. You can decide what type of buildings you want to be placed. The game decided how these houses will look like. You can also terraform the landscape by applying one of the four provided options. RollerCoaster Tycoon has many mechanics. You can create a rollercoaster or path by using the interface on the left. You click on track parts for the rollercoaster and directions for the path. Subsequently, you can decide whether to place this part. In Minecraft *Creative Mode* you can fly around the world and you have unlimited access to all recources. By using the two mouse buttons you can either place or delete a block, depending on which block in the world you are facing towards. TinkerCAD allows you to use many primitive shapes, which can be scaled and skewed. Rotation is done via Gizmo's.
+
+{{< figcontainer class="small" >}}
+{{< fig src="images/citiesskylines.png" caption="Build System exploratory drawing (3 October 2020)">}}
+{{< fig src="images/citiesskylines3.png" caption="Build System exploratory drawing 2 (4 October 2020)">}}
+{{< fig src="images/rollercoaster.png" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/rollercoaster2.png" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/rollercoaster3.png" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/minecraft.png" caption="Build System exploratory drawing (27 September 2020)">}}
+{{< fig src="images/tinkercad.png" caption="Build system further explorations (5 October 2020)">}}
+{{< /figcontainer >}}
+
+## Set requirements
+Before any further ideation, ceratin requirements were set to both the platform and the AR build system.
+
+{{< fig src="images/2020-09-29_requirements.jpeg"  caption="Requirements for our concept" >}}
 
 ## Build system explorations
+### Sketching and ideating
 {{< figcontainer class="small" >}}
 {{< fig src="images/2020-09-27_build_system.jpeg" caption="Build System exploratory drawing (27 September 2020)">}}
 {{< fig src="images/2020-10-03_build_system.jpeg" caption="Build System exploratory drawing (3 October 2020)">}}
@@ -21,6 +40,12 @@ Iteration 3 took place from 25 september 2020 until 23 october 2020.
 {{< fig src="images/2020-10-04_overview.jpeg" caption="Build System exploratory drawing 2 (4 October 2020)">}}
 {{< fig src="images/2020-10-04_patterns.jpeg" caption="Pattern library exploration (4 October 2020)">}}
 {{< fig src="images/2020-10-05_further_explorations.jpeg" caption="Build system further explorations (5 October 2020)">}}
+{{< fig src="images/buildsystem1.png" caption="Build System exploratory drawing (27 September 2020)">}}
+{{< fig src="images/buildsystem2.jpg" caption="Build System exploratory drawing (3 October 2020)">}}
+{{< fig src="images/buildsystem3.png" caption="Build System exploratory drawing (4 October 2020)">}}
+{{< fig src="images/buildsystem4.jpg" caption="Build System exploratory drawing 2 (4 October 2020)">}}
+{{< fig src="images/buildsystem5.png" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/buildsystem6.png" caption="Build system further explorations (5 October 2020)">}}
 {{< /figcontainer >}}
 
 ## Ideation session on both the platform and build system
@@ -62,15 +87,6 @@ An ideation session about the name of our concept was conducted. Eventually the 
 {{< fig src="images/logov1.jpg" caption="The TinkerTown logo" name="tinkertown" >}}
 {{< /figcontainer >}}
 
-## Expert interview with Gwen Klerks
-To gain more knowledge in the field of citizen participation, a discussion was held with [Gwen Klerks](https://www.linkedin.com/in/gwenklerks)
-
-During the meeting there were some main learning points. We need to focus on what will happen after an idea had been chosen. We could look into possibilities for community building, so citizens themselves can build or realize a chosen idea. This could also apply to places that the citizens want to renovate or the moment an idea needs to be changed.\
-Furthermore, we could dive deeper into what will happen if an idea has been chosen. Showing the status of the actual realization would give users more trust in the value of spending time on creating designs with this app.\
-Furthermore, rewarding the builder of a realized idea could be done via a nameplate for example.
-Game-like wise. We need to focus on rewards for players in-game such as votes or achievements, as well making sure the app stays fun even for over a longer period of time.
-Subsequently, we contacted local municipalities to discuss the possibilities of actually realizing submitted builds if they are really popular or won a championship or the nameplate rewards. However, as we got no response, there was little we could do to find out more about these implementations.
-
 ## Design and Ideation AR Build System
 A lot of design and ideation in the form of drawings has been done:
 {{< figcontainer >}}
@@ -85,6 +101,22 @@ A lot of design and ideation in the form of drawings has been done:
 {{< fig src="images/2020-10-20_selecting_objects.jpeg" caption="Selecting objects">}}
 {{< /figcontainer >}}
 
+## Research citizen participation
+
+## Expert interview with Gwen Klerks
+To gain more knowledge in the field of citizen participation, a discussion was held with [Gwen Klerks](https://www.linkedin.com/in/gwenklerks)
+
+During the meeting there were some main learning points. We need to focus on what will happen after an idea had been chosen. We could look into possibilities for community building, so citizens themselves can build or realize a chosen idea. This could also apply to places that the citizens want to renovate or the moment an idea needs to be changed.\
+Furthermore, we could dive deeper into what will happen if an idea has been chosen. Showing the status of the actual realization would give users more trust in the value of spending time on creating designs with this app.\
+Furthermore, rewarding the builder of a realized idea could be done via a nameplate for example.
+Game-like wise. We need to focus on rewards for players in-game such as votes or achievements, as well making sure the app stays fun even for over a longer period of time.
+Subsequently, we contacted local municipalities to discuss the possibilities of actually realizing submitted builds if they are really popular or won a championship or the nameplate rewards. However, as we got no response, there was little we could do to find out more about these implementations.
+
+## Research functioning urban design and planning
+
+## Benchmarking
+
+
 ## Concepting + beginnings of realisation AR Build System
 {{< figcontainer >}}
 {{< fig src="images/Screenshot 2021-01-07 at 16.31.03.png">}}
@@ -95,7 +127,12 @@ A lot of design and ideation in the form of drawings has been done:
 {{< /figcontainer >}}
 
 ## The final midterm concept
+The build system is the main way of expressing one’s ideas about a specific part of the environment. The goal is to make this system both easy to use and expressive. It should allow artists, designers, and creative people to carry out their ideas, all the while remaining non-intimidating for beginning users. 
+
+For the build system, defining how the augmented reality part would work is of utmost importance, because of the novelty and wide range of possible implementations. 
+
 The way that people explore other people’s ideas - or rather, builds - will be through the use of a platform. This platform is centered around the idea of a map showing all contributions. 
+
 The second part of the platform is the method of communication between municipalities and urban designers and planners - and most importantly citizens.
 
 As part of sharing ideas and submitting them to challenges, people should be able to voice their opinions. This way, a meaningful discussion can submerge with the aid of visuals and people get a clearer image of what they want. Voting also contributes to this goal. Users are can submit their ideas and express their creativity in three different ways:
