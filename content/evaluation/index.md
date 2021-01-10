@@ -85,13 +85,13 @@ The initial logs consisted of two rows: the timestamp and a logstring. The logst
 
 Most of the taps on the screen happened on the right side, as visible in both scatter plots below. To rotate an object people would have place there finger on the screen and swipe horizontally or vertically. Interestingly, these actions happened mostly at the middle right of the screen. Therefore, it could be smart to implement future buttons at the right of the screen to increase their efficiency. This could also depend on whether the users were right-handed. Implementing an option to flip the interface could be option to increase accessiblity for left-handed users.
 
-The bottom scatter plot show where all users manipulated their assets in the scale-model of the city. As the origin of graphs vary based on where the iPad was calibrated (0,0), these values cannot be stacked. However, they an be compared relative to eachother. Fun to see are the locations of the row of lamp posts at the top, showing why an alignment function was preferred.
+The bottom scatter plot show where all users manipulated their assets in the scale-model of the city. As the origin of graphs vary based on where the iPad was calibrated (0,0), these values cannot be stacked. However, they an be compared relative to eachother. Fun to see are the locations of the row of lamp posts in every single plot, showing why an alignment function was preferred.
 
 {{< figcontainer class="large" >}}
 {{< fig src="images/indication2.png" caption="An indication of the x-, y- and z-axis on both the iPad and table" name="whiteboard1" >}}
 {{< fig src="images/plots.jpg" caption="Where people tapped the screen of the iPad to click or rotate" name="whiteboard1" >}}
 {{< fig src="images/katrienbuild.png" caption="The final build of the first user" name="whiteboard1" >}}
-{{< fig src="images/locationtableplots.jpg" caption="The locations of all placed objects on the table from the first three users" name="whiteboard1" >}}
+{{< fig src="images/locationtableplots.jpg" caption="The locations of all placed objects on the table from the first three users (note that the third user started at the far right corner of the table, which led to a different (rotated) calibration moment)" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
 The street lantern was the most popular asset to be placed in the scene, whereas the bench was the item most often added to the inventory. It’s highly possible the bench is often chosen first because it is often immediately associated with the goal of 'designing a park' and therefore thrown out of the inventory once other items were added to the inventory. This means it had to be added to the inventory once again. This would explain why people wanted to be able to select which items go in and out of their inventory themselves, which was found out in the quantitative analysis. This assures us this still is a functionality we need to improve on regarding the usability of the system.
