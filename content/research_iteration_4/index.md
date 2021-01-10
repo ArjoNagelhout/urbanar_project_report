@@ -25,7 +25,10 @@ The [bar graph](#bar) shows the majority of users are interested in participatin
 >“I was invited by email to give input on redesigning the nearby park. I gave lots of new ideas ... nothing was done with any of my or other's input since they decided to throw in tiles only. No, I wasn't heard, even angry, and will never participate again.”
 
 {{< figcontainer class="medium" >}}
+{{< fig src="images/age2.png" caption="The age division of all participants" class="full_width" name="heatmap1">}}
+{{< fig src="images/gooutside.png" caption="How often people go outside for recreational purposes" class="full_width" name="heatmap1">}}
 {{< fig src="images/influence.png" caption="A graph showing how many people are interested in participating more in urban design and planning" class="full_width" name="bar">}}
+{{< fig src="images/included.png" caption="People's perception of whether they are included enough in the process" class="full_width" name="bar">}}
 {{< fig src="images/knowingways.png" caption="People knowing ways of contacting the municipality" name="plotknow" >}}
 {{< fig src="images/participationincodesignsession.png" caption="People having participated in co-design sessions" name="plotcodesign" >}}
 {{< /figcontainer >}}

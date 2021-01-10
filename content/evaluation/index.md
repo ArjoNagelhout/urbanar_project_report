@@ -26,8 +26,8 @@ To make sure users can appropriately apply the functionalities offered by this a
 {{< figcontainer class="small" >}}
 {{< fig src="images/IMG_6007.JPG" caption="Building the scale model of the town" name="whiteboard1" >}}
 {{< fig src="images/IMG_6010.JPG" caption="Placing objects in the scale model of the town" name="whiteboard1" >}}
-{{< fig src="images/IMG_6013.PNG" caption="A screenshot of a build in this scale model town on an iPhone 7 (The user tests were performed on an iPad Pro)" name="whiteboard1" >}}
 {{< fig src="images/IMG_6015.JPG" caption="The final scale model with a paper in front kindly asking people to not touch it" name="whiteboard1" >}}
+{{< fig src="images/hand.png" caption="The third user pointing towards the house" >}}
 {{< fig src="images/utkatrien.png" caption="The first user test" name="whiteboard1" >}}
 {{< fig src="images/utkoen.png" caption="The second user test" name="whiteboard1" >}}
 {{< fig src="images/utrandi.png" caption="The third user test" name="whiteboard1" >}}
@@ -69,7 +69,7 @@ Of course, there also were some little things that users thought could be improv
 
 Also here, the most reactions revolve around the app’s efficiency. People have to reselect objects from their inventory if too many items have been added to the inventory. Next to that, a true to world initial scale of the assets would mean the user needs to increase the size of an asset less. The selection box around the tree means the visualization of a selection could be made more visible. These are all relatively easy features to implement, and could be implemented in the app to improve its usability and accessibility.
 
-Whereas we initially anticipated the user tests themselves to take around 5 minutes, all of them lasted between 10 and 15 minutes. We gave users more time to finish their build. This all had one reason: a constant that was evident from all user tests:
+Whereas we initially anticipated the user tests themselves to take around 5 minutes as described in the protocol, all of them lasted between 10 and 15 minutes. Users were given more time to build what they want. This was because of a constant that was evident from every single user test:
 > IT'S SO MUCH FUN!
 
 ## Quantitative analysis of the results
@@ -88,15 +88,17 @@ Most of the taps on the screen happened on the right side, as visible in both sc
 The bottom scatter plot show where all users manipulated their assets in the scale-model of the city. As the origin of graphs vary based on where the iPad was calibrated (0,0), these values cannot be stacked. However, they an be compared relative to eachother. Fun to see are the locations of the row of lamp posts at the top, showing why an alignment function was preferred.
 
 {{< figcontainer class="large" >}}
-{{< fig src="images/plots.jpg" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
-{{< fig src="images/locationtableplots.jpg" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/indication2.png" caption="An indication of the x-, y- and z-axis on both the iPad and table" name="whiteboard1" >}}
+{{< fig src="images/plots.jpg" caption="Where people tapped the screen of the iPad to click or rotate" name="whiteboard1" >}}
+{{< fig src="images/katrienbuild.png" caption="The final build of the first user" name="whiteboard1" >}}
+{{< fig src="images/locationtableplots.jpg" caption="The locations of all placed objects on the table from the first three users" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
 The street lantern was the most popular asset to be placed in the scene, whereas the bench was the item most often added to the inventory. It’s highly possible the bench is often chosen first because it is often immediately associated with the goal of 'designing a park' and therefore thrown out of the inventory once other items were added to the inventory. This means it had to be added to the inventory once again. This would explain why people wanted to be able to select which items go in and out of their inventory themselves, which was found out in the quantitative analysis. This assures us this still is a functionality we need to improve on regarding the usability of the system.
 
 {{< figcontainer class="large" >}}
-{{< fig src="images/timesassetadded.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/timesassetplaced.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/timesassetadded2.png" caption="The amount of times an asset has been added to the inventory" name="whiteboard1" >}}
+{{< fig src="images/timesassetplaced2.png" caption="The amount of times an asset has been placed in the scene" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
 {{< button href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
