@@ -9,7 +9,7 @@ menu:
         weight: 2
 ---
 
-Iteration 2 spans a timeframe of two weeks, between 12 september 2020 to 25 september 2020. 
+Iteration 2 spans a timeframe of two weeks, between 12 September 2020 to 25 September 2020. 
 
 ## Adding structure to our process
 We started setting up the project in a professional manner, creating a well structured shared [Google Drive folder](#folder_structure), as well as a [Github repository](#github_repository) with [Kanban-style task management](#kanban) and a [global planning](#planning). We also set up [meeting agendas](#agenda) and started writing [minutes](#minutes). This was useful because it would allow us to meet effectively and make consistent progress, especially with the reliance on online collaboration. 

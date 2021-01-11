@@ -94,7 +94,7 @@ For the demoday page we had 5 widescreen images we could utilise to better expla
 ## Final deliverables
 {{< figcontainer >}}
 {{< fig src="images/screenshot_demoday.jpg" caption="Demoday page" >}}
-{{< fig src="/images/poster_small_final_v4-01.jpg" caption="Poster" >}}
+{{< fig src="images/poster_small_final_v4-01.jpg" caption="Poster" >}}
 {{< /figcontainer >}}
 
 ### Description
@@ -111,11 +111,11 @@ UrbanAR - Design your Future
 
 ### Graphics
 {{< figcontainer >}}
-{{< fig src="/images/UrbanAR_01_Design_Your_Environment.png" caption="Graphic 1: Design your Environment" >}}
-{{< fig src="/images/UrbanAR_02_Choose_From_Library.png" caption="Graphic 2: Choose from your Library" >}}
-{{< fig src="/images/UrbanAR_03_Get_Inspired_By_Others.png" caption="Graphic 3: Get inspired by others" >}}
-{{< fig src="/images/UrbanAR_04_Participate_In_Contests.png" caption="Graphic 4: Participate in Contests" >}}
-{{< fig src="/images/UrbanAR_05_Design_Your_Future.png" caption="Graphic 5: Design your Future" >}}
+{{< fig src="images/UrbanAR_01_Design_Your_Environment.png" caption="Graphic 1: Design your Environment" >}}
+{{< fig src="images/UrbanAR_02_Choose_From_Library.png" caption="Graphic 2: Choose from your Library" >}}
+{{< fig src="images/UrbanAR_03_Get_Inspired_By_Others.png" caption="Graphic 3: Get inspired by others" >}}
+{{< fig src="images/UrbanAR_04_Participate_In_Contests.png" caption="Graphic 4: Participate in Contests" >}}
+{{< fig src="images/UrbanAR_05_Design_Your_Future.png" caption="Graphic 5: Design your Future" >}}
 {{< /figcontainer >}}
 
 {{< button href="/finaldesignurbanar" caption="Read further at Final Design - UrbanAR" >}}

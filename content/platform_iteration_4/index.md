@@ -35,12 +35,12 @@ The [very first version](#overview) was built upon the prototype made for the mi
 The aesthetics were greatly improved in the third version. Every build page was fully colored and the saturation of colors was increased to make the app feel more alive. The voting button in the championship’s build previews were indicated with a heart as interface metaphor and the preview itself would get green once a build has been voted for.
 
 {{< figcontainer >}}
-{{< fig src="images/version2_1.png" caption="A preview of a submission (V3)" name="main_screen" >}}
-{{< fig src="images/version2_2.png" caption="The championship page (V3)"
+{{< fig src="images/version2_1.jpg" caption="A preview of a submission (V3)" name="main_screen" >}}
+{{< fig src="images/version2_2.jpg" caption="The championship page (V3)"
 name="arsubmission" >}}
-{{< fig src="images/version2_3.png" caption="A championship submission (V3)"
+{{< fig src="images/version2_3.jpg" caption="A championship submission (V3)"
 name="championshipo" >}}
-{{< fig src="images/version2_4.png" caption="The submission of an AR build (V3)"
+{{< fig src="images/version2_4.jpg" caption="The submission of an AR build (V3)"
 name="championshipo" >}}
 {{< /figcontainer >}}
 
@@ -48,10 +48,10 @@ name="championshipo" >}}
 The fourth version received the first implementation of a cluster and got rid of the option to submit a comment as it would deviate too much from the main focus of our project: the AR building system. The pages of individual pages were transformed back to mainly white, mainly because the top part was now an image, instead of an indication of the type of submission.
 
 {{< figcontainer >}}
-{{< fig src="images/version4_1.png" caption="A preview of a cluster (V4)" name="main_screen" >}}
-{{< fig src="images/version4_2.png" caption="The grid page of a cluster (V4)" >}}
-{{< fig src="images/version4_3.png" caption="The submission page of an AR build (V4)" >}}
-{{< fig src="images/version4_4.png" caption="A championship submission (V4)"
+{{< fig src="images/version4_1.jpg" caption="A preview of a cluster (V4)" name="main_screen" >}}
+{{< fig src="images/version4_2.jpg" caption="The grid page of a cluster (V4)" >}}
+{{< fig src="images/version4_3.jpg" caption="The submission page of an AR build (V4)" >}}
+{{< fig src="images/version4_4.jpg" caption="A championship submission (V4)"
 name="championshipo" >}}
 {{< /figcontainer >}}
 
@@ -59,21 +59,21 @@ name="championshipo" >}}
 Personal profiles, as well as an achievement system was added in the fifth iteration. The seventh iteration improved the boring aesthetic of the previous achievement visualization. This iteration also added medals to the at the time three best ideas in the championship.
 
 {{< figcontainer >}}
-{{< fig src="images/version5_1.png" caption="Your profile picture (V5)" >}}
-{{< fig src="images/version5_2.png" caption="The achievement page of another profile (V5)" >}}
-{{< fig src="images/version7_1.png" caption="The improved achievement page (V7)" >}}
-{{< fig src="images/version7_2.png" caption="An overview of championship submissions with medals (V7)" >}}
+{{< fig src="images/version5_1.jpg" caption="Your profile picture (V5)" >}}
+{{< fig src="images/version5_2.jpg" caption="The achievement page of another profile (V5)" >}}
+{{< fig src="images/version7_1.jpg" caption="The improved achievement page (V7)" >}}
+{{< fig src="images/version7_2.jpg" caption="An overview of championship submissions with medals (V7)" >}}
 {{< /figcontainer >}}
 
 ## Progress 16 December 2020 - The final version of the platform
 Eventually during iteration eight till ten many astonishing improvements were made to make the app convey the actual feeling of being an app. The homescreen now had a real image of the user’s surroundings, as well as a profile page button. The build submissions contained actual building footage made with our own app. The championship had its own button for submissions for this specific tournament. For better hierarchy, the buttons on submission pages were decreased in size. To make the buttons pop, as well as the title of the build, the white background was replaced with an even more highly saturated colors.
 
 {{< figcontainer >}}
-{{< fig src="images/version10_1.png" caption="The main screen (V10)" >}}
-{{< fig src="images/version10_2.png" caption="The championship page (V10)" >}}
-{{< fig src="images/version10_3.png" caption="A championship submission (V10)" >}}
-{{< fig src="images/version10_4.png" caption="A cluster AR build submission (V10)" >}}
-{{< fig src="images/version10_5.png" caption="An AR build submission (V10)" >}}
+{{< fig src="images/version10_1.jpg" caption="The main screen (V10)" >}}
+{{< fig src="images/version10_2.jpg" caption="The championship page (V10)" >}}
+{{< fig src="images/version10_3.jpg" caption="A championship submission (V10)" >}}
+{{< fig src="images/version10_4.jpg" caption="A cluster AR build submission (V10)" >}}
+{{< fig src="images/version10_5.jpg" caption="An AR build submission (V10)" >}}
 {{< /figcontainer >}}
 
 {{< fig src="images/platformgrey.jpg" caption="An overview of many many experiments (V1 - V10)" class="medium-width">}}

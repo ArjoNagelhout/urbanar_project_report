@@ -16,8 +16,8 @@ We decided to document our process in the form of a website instead of a report.
 
 In the end, we are convinced we have had an amazing project, with outstanding results. The prototypes looked phenomenal and were fully functional. The way our project was represented at demo day clearly communicated the amount of work and dedication that went into all these weeks. Many people let us know they thought it was a wonderful idea and the idea was really cool. The responses were very enthusiastic and affirming for us. We are also very proud our own project was published on a design website called Dutch Design Daily (http://dutchdesigndaily.com/complete-overview/urbanar-design-future/?s=urbanar&post_type=post&lang=en) and are thankful for being able to carry out this project.
 
-{{< fig src="images/dutchdesigndaily.png" caption="Our project has been published at Dutch Design Daily!" >}}
+{{< fig src="images/dutchdesigndaily.jpg" caption="Our project has been published at Dutch Design Daily!" >}}
 
-{{< button href="/behindthefruitschaal" caption="Read further at Behind 'De Fruitschaal" >}}
+{{< button href="/behindthefruitschaal" caption="Read further at Behind 'De Fruitschaal'" >}}
 
 

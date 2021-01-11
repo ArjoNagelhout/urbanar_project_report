@@ -1,6 +1,7 @@
 html {
     font-family: 'Montserrat', sans-serif;
     font-size: 62.5%;
+    word-wrap: break-word;
     
 }
 
@@ -273,7 +274,7 @@ ul {
     font-size:1.6rem;
     line-height:1.7;
 
-    max-width:100rem;
+    max-width:90rem;
     margin-left:auto;
     margin-right:auto;
 }
@@ -450,8 +451,8 @@ blockquote p {
     }
 
     #content figure.medium-width {
-        max-width:100%;
-        width:100rem;
+        max-width:100rem;
+        
         max-height:none;
     }
 

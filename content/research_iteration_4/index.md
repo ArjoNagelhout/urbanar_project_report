@@ -44,7 +44,7 @@ From the [left heatmap](#heatmapv1) and [right heatmap](#heatmapv2) we can concl
 
 However, the [multiple bar graphs](#satisfactionperaspect) also show there is a big fluctuation in satisfaction among different aspects of people's environment: we need to mainly focus on implementing assets such as benches to sit down, bins against littering, playground-related objects for recreational purposes and some primitive shapes for people to create art or decoration. 
 
-{{< fig src="images/allitems4.svg" caption="Amount of satisfaction per aspect of people's environment" class="full-width" name="satisfactionperaspect" >}}
+{{< fig src="images/allitems4.jpg" caption="Amount of satisfaction per aspect of people's environment" class="full-width" name="satisfactionperaspect" >}}
 
 
 The results indicates the an engaging communication tool between citizens and municipalities certainly offers the potential to give citizens the power to have a saying in what happens in their own neighborhood. We believe the possibility for citizens to clearly visualize their ideas, as well as vote for these builds, will help the municipality to better understand the needs and wishes of their citizens.

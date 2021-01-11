@@ -1,9 +1,10 @@
-{{ $image := $.Page.Resources.GetMatch (.Get "src")}}
+{{ $imageResource := $.Page.Resources.GetMatch (.Get "src")}}
 {{ $pdf := $.Page.Resources.GetMatch (.Get "href")}}
 <a name='{{ .Get "name" }}'></a>
 <figure class="pdf-figure">
     <div class="image-container">
-        {{ with $image }}
+        {{ with $imageResource }}
+            {{ $image := .Resize "x700 Lanczos jpg" }}
             <img src="{{ $image.RelPermalink }}"/>
         {{ else }}
             <img src='{{ .Get "src" }}'>

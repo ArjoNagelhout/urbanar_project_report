@@ -9,22 +9,14 @@ menu:
         weight: 3
 ---
 
-Iteration 3 took place from 25 september 2020 until 23 october 2020.
+Iteration 3 took place from 25 September 2020 until 23 October 2020.
 
 ## Inspiration from other build systems
 The first step into further developing this build system was by analyzing the building mechanics of other popular sandbox games and building tools. We would look at how certain things are being build and how accessible these features are. We have taken a look at four different building mechanisms: Minecraft, Cities Skylines, Rollercoaster Tycoon 2 and TinkerCAD. 
 
 All systems had different mechanics. Citities Skylines demands you to place roads. Around these roads then appears a grid. You can decide what type of buildings you want to be placed. The game decided how these houses will look like. You can also terraform the landscape by applying one of the four provided options. RollerCoaster Tycoon has many mechanics. You can create a rollercoaster or path by using the interface on the left. You click on track parts for the rollercoaster and directions for the path. Subsequently, you can decide whether to place this part. You will have to select and afterwards perform an action in order to manipulate placed paths/parts. In Minecraft *Creative Mode* you can fly around the world and you have unlimited access to all recources. By using the two mouse buttons you can either place or delete a block, depending on which block in the world you are facing towards. TinkerCAD allows you to use many primitive shapes, which can be scaled and skewed. Rotation is done via Gizmo's. The mechanics of RollerCoaster Tycoon  TinkerCAD regarding respectively the selection method and Gizmo's have been explored later on.
 
-{{< figcontainer class="small" >}}
-{{< fig src="images/citiesskylines.png" caption="Cities Skylines land use planning">}}
-{{< fig src="images/citiesskylines3.png" caption="Cities Skylines terraforming">}}
-{{< fig src="images/rollercoaster.png" caption="Roller Coaster Tycoon part selection">}}
-{{< fig src="images/rollercoaster2.png" caption="Roller Coaster Tycoon path placement">}}
-{{< fig src="images/rollercoaster3.png" caption="Roller Coaster Tycoon terraforming">}}
-{{< fig src="images/minecraft.png" caption="Creative Mode inventory">}}
-{{< fig src="images/tinkercad2.png" caption="TinkerCAD gizmo">}}
-{{< /figcontainer >}}
+{{< pdf src="images/ideas_building_mechanism_thumbnail.png" href="images/Ideas for building mechanism.pdf" caption="Ideas for building mechanism (research into different games)">}}
 
 ## First Unity ARFoundation + XR Interaction Toolkit test
 {{< video gif="true" src="images/first_unity_test.mp4" caption="First test using Unity + ARFoundation + XR Interaction Toolkit" >}}
@@ -136,8 +128,6 @@ We found that [urban planners must consider a wide array of issues, such as sust
 
 The [process of urban planning has multiple phases as can be seen in the image below](http://www.urbanlearning.eu/toolbox/planning-process/#:~:text=Such%20a%20process%20should%20include,in%20planning%20urban%20development%20projects.&text=Formal%20planning%20%2F%20zoning%20phase,Operational%20phase). We believe we can make the most difference during [preperatory/exploratory phase](http://www.urbanlearning.eu/fileadmin/user_upload/Toolbox/planning_process.pdf). This is where stakeholders are being involved in order for the government to make sure a common vision is being shared. In this project, we consider citizens as the most important stakeholder, together with their needs and wishes. The following phases are mainly up to the cities, governments and urban developers themselves. However, we believe the rich visual data created in our app can more accurately communicate the desires of citizens to urban planners, with as final goal to make sure these are implemented the way they were envisioned.
 
-{{< fig src="images/urbanprocess.png" class="small" caption="The general phases or an urban design process">}}
-
 Many sources indicate the importance of citizens being included in the process, as these citizens have different visions and goals for the city, many other stakeholders won't have thought of. Sadly, the actual participation of citizens in this process is often low (O. Smørdal, K. Ebbing Wensaas, S. Lopez-Aparicio, I Nilstad Pettersen, K. Hoelscher, 2016). This low participation has many causes, but are mainly due to the next three considerations stated in this paper to which many current applications cannot comply.
 
 *"How can the silos of planning and governance be managed?"*\
@@ -182,11 +172,6 @@ After this, we continued defining the workings of the AR Build System via the fo
 
 ## Midterm concept
 An ideation session about the name of our concept was conducted. Eventually the name TinkerTown was chosen and a logo was made, only to be discarded a day later. We thought it sounded too childish and did not convey the message of serving as a way of participating in urban design and planning. Up until a few days before the final day the product would stay nameless.
-
-{{< figcontainer class="medium" >}}
-{{< fig src="images/namegenerationmidterm.png" caption="Ideation about the name of our product" name="ideation" >}}
-{{< fig src="images/logov1.jpg" caption="The TinkerTown logo" name="tinkertown" >}}
-{{< /figcontainer >}}
 
 The build system is the main way of expressing one’s ideas about a specific part of the environment. The goal is to make this system both easy to use and expressive. It should allow artists, designers, and creative people to carry out their ideas, all the while remaining non-intimidating for beginning users. 
 

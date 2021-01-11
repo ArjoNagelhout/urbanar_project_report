@@ -1,10 +1,12 @@
-{{ $image := $.Page.Resources.GetMatch (.Get "src")}}
+{{ $imageResource := $.Page.Resources.GetMatch (.Get "src")}}
+
 <a name='{{ .Get "name" }}'></a>
 <figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
-    {{ with $image }}
-    <img src="{{ $image.RelPermalink }}"/>
+    {{ with $imageResource }}
+    {{ $image := .Resize "x700 Lanczos jpg" }}
+    <img loading="lazy" src="{{ $image.RelPermalink }}"/>
     {{ else }}
-    <img src='{{ .Get "src" }}'>
+    <img loading="lazy" src='{{ .Get "src" }}'>
     {{ end }}
     <figcaption>
         <p>{{ .Get "caption" }}</p>

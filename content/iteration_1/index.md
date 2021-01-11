@@ -9,6 +9,9 @@ menu:
         weight: 1
 ---
 
+Iteration 1 spans a timeframe of two weeks, between 31 Augustus 2020 to 11 September 2020. 
+
+
 ## Orientation ourselves in the field of data collection
 The project started off with a pressure cooker. The first brainstorm was about what games for data gathering would entail in our project. This was done via Miro (https://miro.com/app/board/o9J_kmVl2LE=/) It was decided that the game would be a citizen science game, “Citizen science is where volunteers, in collaboration with scientists, get involved in science. This can be collecting and analyzing data, interpreting results, classifying and transcribing information, conducting experiments or by playing citizen science games.” (https://citizensciencegames.com/about/) Benchmarking was done to see what other games were already out there. Big interest was found in a game called QuestaGame, this game would make use of volunteers to discover, map and ultimately help protect life on our planet. (https://questagame.com/) 
 
