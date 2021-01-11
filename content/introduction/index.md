@@ -24,7 +24,7 @@ Our design process revolved around the following design question:
 {{< figcontainer class="small" >}}
 {{< fig src="images/lelijkeindhoven.png" caption="A street that does not look nice">}}
 {{< fig src="images/lelijkeindhoven2.png" caption="A grass field that could be improved a lot">}}
-{{< fig src="images/lelijkeindhoven3.png" caption="One of our group mates clearly not being happy about the trash">}}
+{{< fig src="images/lelijkeindhoven3.png" caption="One of our team members clearly not being happy about the trash">}}
 {{< /figcontainer >}}
 
 {{< button href="/process" caption="Read further at Process" >}}

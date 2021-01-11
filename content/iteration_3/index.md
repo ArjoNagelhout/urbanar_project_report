@@ -26,26 +26,55 @@ All systems had different mechanics. Citities Skylines demands you to place road
 {{< fig src="images/tinkercad2.png" caption="TinkerCAD gizmo">}}
 {{< /figcontainer >}}
 
-## Set requirements
-Before any further ideation, ceratin requirements were set to both the platform and the AR build system.
+## First Unity ARFoundation + XR Interaction Toolkit test
+{{< video gif="true" src="images/first_unity_test.mp4" caption="First test using Unity + ARFoundation + XR Interaction Toolkit" >}}
 
-{{< fig src="images/2020-09-29_requirements.jpeg"  caption="Requirements for our concept" >}}
+Don't be fooled by the extent to which this already has a bunch of interactions implemented. These are provided by the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html). We quickly noticed however, that this didn't work nicely and we would have to implement the interactions by ourselves. 
 
 ## Build system explorations
-### Sketching and ideating
-{{< figcontainer class="small" >}}
+Having taken inspiration from different building systems on desktop computers, it was time to translate this into an augmented reality-native experience. 
+
+The biggest challenge with this was combining expressiveness — the extent to which users could create out of the box ideas and not be constrained by a set of assets — with intuitiveness and learnability. Take Blender for example. This is a great tool that allows someone to create anything they want. However, it has a big learning curve and is not intuitive at first. 
+
+Augmented Reality already solves a problem with 3d design software: viewport navigation. The user doesn't have to scroll or use key combinations, they can just move around in the real world to see the design from different angles. This is something every user is proficient with, because it is equivalent to taking a video of something in the real world with a smartphone or tablet. 
+
+The next problem we needed to solve was the action of placing objects and moving them around. For this we took inspiration from [Reality Composer](https://developer.apple.com/augmented-reality/tools/) by Apple and [AR Makr](https://www.armakr.app) by Studio Line Break. In Reality Composer, Apple chose to stick to gizmo's for manipulation of the objects. These are three dimensional touch surfaces that are visible around the selected object that allow translation, rotation and scaling. One issue we found with this approach however, was that these touch areas were too small and therefore easily mixed up, especially on a smartphone. While testing Reality Composer with users we saw them scale the object when they intended to move it and vice versa. They also had to reach all the way to the middle of the screen to manipulate the object, which wasn't ideal when holding a bigger device such as the iPad Pro 12.9 inch. Adding objects is done by clicking on the add button and selecting an object from the library. It then appears in the scene. 
+
+{{< figcontainer >}}
+{{< video gif="true" src="images/interaction_reality_composer.mp4" caption="Apple Reality Composer interactions: adding, translating, rotating and scaling objects">}}
+{{< video gif="true" src="images/interaction_armakr.mp4" caption="AR Makr: adding and scaling objects">}}
+{{< /figcontainer >}}
+
+Another issue with Reality Composer is that it is slow to use. Everything is multiple clicks away and quickly composing a scene of multiple assets takes minutes. There is a good reason for this, which is improved learnability for people who have used 3d tools before, but for the average person this doesn't necessarily help. 
+
+AR Makr can be seen in the above video. To add an object, you can select an object from the library on the left side of the screen. It then adds it to the circle projected onto the real world surface. Already placed objects can only be deleted however and adding multiple of the same object still requires you to click on the library icon every time. 
+
+Next to these two systems, we also explored other apps such as Adobe Aero and Torch AR but these didn't introduce novel or improved interaction methods compared to Reality Composer and AR Makr. After this, we started concepting:
+
+{{< figcontainer >}}
 {{< fig src="images/2020-09-27_build_system.jpeg" caption="Build System exploratory drawing (27 September 2020)">}}
 {{< fig src="images/2020-10-03_build_system.jpeg" caption="Build System exploratory drawing (3 October 2020)">}}
 {{< fig src="images/2020-10-04_build_system.jpeg" caption="Build System exploratory drawing (4 October 2020)">}}
-{{< fig src="images/2020-10-04_overview.jpeg" caption="Build System exploratory drawing 2 (4 October 2020)">}}
-{{< fig src="images/2020-10-04_patterns.jpeg" caption="Pattern library exploration (4 October 2020)">}}
-{{< fig src="images/2020-10-05_further_explorations.jpeg" caption="Build system further explorations (5 October 2020)">}}
+{{< /figcontainer >}}
+
+## Drawing in the real world 
+To get a feel for what it would be like to design things directly in the real world we went out with an iPad and started taking pictures. We created drawings and 3d models with the improvements we would like to see in that area:
+
+{{< figcontainer >}}
 {{< fig src="images/buildsystem1.png" caption="Build System exploratory drawing (27 September 2020)">}}
 {{< fig src="images/buildsystem2.jpg" caption="Build System exploratory drawing (3 October 2020)">}}
-{{< fig src="images/buildsystem3.png" caption="Build System exploratory drawing (4 October 2020)">}}
-{{< fig src="images/buildsystem4.jpg" caption="Build System exploratory drawing 2 (4 October 2020)">}}
-{{< fig src="images/buildsystem5.png" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/real_world_drawing.jpg" caption="Real world drawing (4 October 2020)">}}
 {{< fig src="images/buildsystem6.png" caption="Build system further explorations (5 October 2020)">}}
+{{< /figcontainer >}}
+
+## Patterns and objects
+After this fun expedition into the real world, we saw that we would need both object placement, as well as the possibility to change the surface area. Patterns would have a material themselves, as well as have objects on them. That would allow for a shrubbery pattern that automatically places shrubs when it gets painted onto a real world surface. Or, grass with flowers, water with ducks on it. The list goes on. The concept can be seen in the following sketches:
+
+{{< figcontainer >}} 
+{{< fig src="images/2020-10-04_overview.jpeg" caption="Build System exploratory drawing 2 (4 October 2020)">}}
+{{< fig src="images/2020-10-04_patterns.jpeg" caption="Pattern library exploration (4 October 2020)">}}
+{{< fig src="images/2020-10-05_further_explorations_part_1.jpeg" caption="Build system further explorations (5 October 2020)">}}
+{{< fig src="images/2020-10-05_further_explorations_part_2.jpeg" caption="Build system further explorations (5 October 2020)">}}
 {{< /figcontainer >}}
 
 ## Ideation session on both the platform and build system
@@ -82,29 +111,23 @@ The current voting system was sensitive for people willing to troll their neighb
 
 An ideation session about the name of our concept was conducted. Eventually the name TinkerTown was chosen and a logo was made, only to be discarded a day later. We thought it sounded too childish and did not convey the message of serving as a way of participating in urban design and planning. Up until a few days before the final day the product would stay nameless.
 
-{{< figcontainer class="large" >}}
+{{< figcontainer class="small" >}}
 {{< fig src="images/namegenerationmidterm.png" caption="Ideation about the name of our product" name="ideation" >}}
 {{< fig src="images/logov1.jpg" caption="The TinkerTown logo" name="tinkertown" >}}
 {{< /figcontainer >}}
 
-## Design and Ideation AR Build System
-A lot of design and ideation in the form of drawings has been done:
+## Further Design and Ideation AR Build System
+We continued exploring different directions we could go in with the build system, while staying true to our previously noted goals. We explored the direction of having everything made of foldable digital paper. This would be similar to how one could make 3d models in the real world using paper, thus improving intuitiveness. This would however, introduce a lot of complexity for the average person and was not the main focus of the app at this point. 
+
 {{< figcontainer >}}
-{{< fig src="images/2020-10-07_buildsystem.jpeg" caption="Build System">}}
-{{< fig src="images/2020-10-07_cad.jpeg" caption="CAD">}}
-{{< fig src="images/2020-10-07_paper_models.jpeg" caption="Paper models">}}
-{{< fig src="images/2020-10-07_paper_tools.jpeg" caption="Paper tools">}}
-{{< fig src="images/2020-10-18_build_hierarchy.jpeg" caption="Build hierarchy">}}
-{{< fig src="images/2020-10-19_build_system.jpeg" caption="Build system">}}
-{{< fig src="images/2020-10-19_editing_of_objects.jpeg" caption="Editing of objects">}}
-{{< fig src="images/2020-10-19_picking_up_objects.jpeg" caption="Picking up objects">}}
-{{< fig src="images/2020-10-20_selecting_objects.jpeg" caption="Selecting objects">}}
+{{< fig src="images/2020-10-07_buildsystem.jpeg" caption="Build system and general concept definition (7 October 2020)">}}
+{{< fig src="images/2020-10-07_cad.jpeg" caption="Build system explorations (7 October 2020)">}}
+{{< fig src="images/2020-10-07_paper_models.jpeg" caption="Paper models drawing explorations (7 October 2020)">}}
+{{< fig src="images/2020-10-07_paper_tools.jpeg" caption="Paper tools drawing explorations (7 October 2020)">}}
 {{< /figcontainer >}}
 
-## Research
-
-### Expert interview with Gwen Klerks about citizen participation
-To gain more knowledge in the field of citizen participation, a discussion was held with [Gwen Klerks](https://www.linkedin.com/in/gwenklerks)
+## Expert interview with Gwen Klerks about citizen participation
+To gain more knowledge in the field of citizen participation, we talked to [Gwen Klerks](https://www.linkedin.com/in/gwenklerks) about our project at 14 October 2020. 
 
 During the meeting there were some main learning points. We need to focus on what will happen after an idea had been chosen. We could look into possibilities for community building, so citizens themselves can build or realize a chosen idea. This could also apply to places that the citizens want to renovate or the moment an idea needs to be changed.\
 Furthermore, we could dive deeper into what will happen if an idea has been chosen. Showing the status of the actual realization would give users more trust in the value of spending time on creating designs with this app.\
@@ -112,7 +135,7 @@ Furthermore, rewarding the builder of a realized idea could be done via a namepl
 Game-like wise. We need to focus on rewards for players in-game such as votes or achievements, as well making sure the app stays fun even for over a longer period of time.
 Subsequently, we contacted local municipalities to discuss the possibilities of actually realizing submitted builds if they are really popular or won a championship or the nameplate rewards. However, as we got no response, there was little we could do to find out more about these implementations.
 
-### Literary research on the process of urban planning
+## Literary research on the process of urban planning
 Further research was conducted surrounding urban planning and the inclusion of citizens during this process. What [urban planning](https://en.wikipedia.org/wiki/Urban_planning) entails:
 >"Urban planning is a technical and political process that is focused on the development and design of land use and the built environment, including air, water, and the infrastructure passing into and out of urban areas, such as transportation, communications, and distribution networks."
 
@@ -120,7 +143,7 @@ We found that [urban planners must consider a wide array of issues, such as sust
 
 The [process of urban planning has multiple phases as can be seen in the image below](http://www.urbanlearning.eu/toolbox/planning-process/#:~:text=Such%20a%20process%20should%20include,in%20planning%20urban%20development%20projects.&text=Formal%20planning%20%2F%20zoning%20phase,Operational%20phase). We believe we can make the most difference during [preperatory/exploratory phase](http://www.urbanlearning.eu/fileadmin/user_upload/Toolbox/planning_process.pdf). This is where stakeholders are being involved in order for the government to make sure a common vision is being shared. In this project, we consider citizens as the most important stakeholder, together with their needs and wishes. The following phases are mainly up to the cities, governments and urban developers themselves. However, we believe the rich visual data created in our app can more accurately communicate the desires of citizens to urban planners, with as final goal to make sure these are implemented the way they were envisioned.
 
-{{< fig src="images/urbanprocess.png" class="full-width" caption="The general phases or an urban design process">}}
+{{< fig src="images/urbanprocess.png" class="small" caption="The general phases or an urban design process">}}
 
 Many sources indicate the importance of citizens being included in the process, as these citizens have different visions and goals for the city, many other stakeholders won't have thought of. Sadly, the actual participation of citizens in this process is often low (O. Smørdal, K. Ebbing Wensaas, S. Lopez-Aparicio, I Nilstad Pettersen, K. Hoelscher, 2016). This low participation has many causes, but are mainly due to the next three considerations stated in this paper to which many current applications cannot comply.
 
@@ -137,8 +160,21 @@ We think the ability to create your own builds via an inutitive AR build system 
 Mobile phones serve as a bridge between the earlier adapted traditional concepts of community and citizen media. 
 Here they focus on the strong communicative aspect social media platforms process in order to reach out to citizens, which however do lack the appropriate tools. This shows the potential our app offers as a communitative platform. The AR build system provides the appropriate tools and the platform is the new urban social media platform to reach out to many new stakeholders.
 
-## Benchmarking
+## Continued concepting AR Build System
+{{< figcontainer >}}
+{{< video src="images/animation_finger_drawing.mp4" caption="Animated interaction concept for creating planes (7 October 2020)" gif="true" >}}
+{{< fig src="images/affinity_designer_concept.jpg" caption="AR Build system concept (9 October 2020)">}}
+{{< /figcontainer >}}
 
+
+## Further Design and Ideation AR Build System
+{{< figcontainer >}}
+{{< fig src="images/2020-10-18_build_hierarchy.jpeg" caption="Build hierarchy (18 October 2020)">}}
+{{< fig src="images/2020-10-19_build_system.jpeg" caption="Build system (19 October 2020)">}}
+{{< fig src="images/2020-10-19_editing_of_objects.jpeg" caption="Editing of objects (19 October 2020)">}}
+{{< fig src="images/2020-10-19_picking_up_objects.jpeg" caption="Picking up objects (19 October 2020)">}}
+{{< fig src="images/2020-10-20_selecting_objects.jpeg" caption="Selecting objects (20 October 2020)">}}
+{{< /figcontainer >}}
 
 ## Concepting + beginnings of realisation AR Build System
 {{< figcontainer >}}

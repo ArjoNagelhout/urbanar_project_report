@@ -207,6 +207,10 @@ figure {
     margin-right:auto;
 }
 
+#content figure.small img {
+    max-height:40rem;
+}
+
 .video_figure {
     display:block;
 }

@@ -81,6 +81,9 @@ To illustrate our idea we created multiple visualisations using Adobe XD and Ble
 {{< video src="images/presentation_app_interaction.mp4" caption="Application prototype in action" gif="true" >}}
 {{< /figcontainer >}}
 
+{{< fig src="images/adobexd_mockup.jpg" caption="Adobe XD mockup of application (25 September 2020)" >}}
+
+
 We also started looking into whether there were research papers published in the field of citizen participation in urban planning, and we came across the paper ["Citizen Design Science: A strategy for crowd-creative urban design cities."](#citizen_design_science). The researchers of this paper created an entire web application for getting people to give input on certain problems in urban design in a given city. This application also introduces a social aspect, where people can vote on the ideas and participate in meaningful discussions. The fact that this paper existed confirmed that we were going in the right direction. The application itself however was not fun or engaging to use and we saw the opportunity to improve this experience greatly by using an augmented reality interface. 
 
 ## Presentation
