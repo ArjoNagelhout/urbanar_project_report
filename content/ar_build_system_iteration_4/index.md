@@ -46,7 +46,7 @@ Because this workflow was so interesting to figure out, we created a document to
 {{< pdf href="/test" src="">}}
 
 ## First steps
-28 October 2020 was the very first version of the AR Build System in action. This was made using Unity + ARFoundation and tested on the iPad Pro. 
+28 October 2020 was the very first version of the AR Build System in action. This was made using Unity + ARFoundation and tested on the iPad Pro. This was not the only amazing thing this day, it also was Timo's birthday. He has turned 20! :)
 
 {{< figcontainer >}}
 {{< video src="images/2020-10-28_build_system_1.mp4" caption="The very first version of the AR build system (28/10/2020)" gif="true" >}}

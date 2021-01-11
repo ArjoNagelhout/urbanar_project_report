@@ -21,7 +21,7 @@ Because it seemed like one of our group members had the corona virus, the user-t
 {{< fig src="images/arapp3.png" caption="The last screens of the online user-test prototype" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
-To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build. This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. Because of the lockdown we could no long access our facilities and a maximum of five formal user tests have been performed.
+To make sure users can appropriately apply the functionalities offered by this app, an artificial town was build. This made sure people were able to adequately decide on the proportions and quantities of the chosen assets to be placed in the scene. Because of the lockdown we could no long access our facilities and a maximum of five formal user tests have been performed. Three on-campus and two in someone's backyard.
 
 {{< figcontainer class="small" >}}
 {{< fig src="images/IMG_6007.JPG" caption="Building the scale model of the town" name="whiteboard1" >}}
@@ -34,10 +34,10 @@ To make sure users can appropriately apply the functionalities offered by this a
 {{< /figcontainer >}}
 
 ## Ethics
-An ERB Form, an informed consent form and a user-testing protocol have been made.
+An ERB Form, an informed consent form and a user testing protocol have been made.
 
 {{< figcontainer >}}
-{{< pdf src="images/erb-0.jpg" href="images/erb.pdf" caption="ERB form">}}
+{{< pdf src="images/erb-0.jpg" href="images/erb2.pdf" caption="(unsigned) ERB form">}}
 {{< pdf src="images/informedconsent-0.jpg" href="images/informedconsent.pdf" caption="Informed consent form">}}
 {{< pdf src="images/protocol-0.jpg" href="images/protocol.pdf" caption="User testing protocol">}}
 {{< /figcontainer >}}
@@ -78,20 +78,22 @@ For this user test a backend has been written, meaning every action performed by
 The initial logs consisted of two rows: the timestamp and a logstring. The logstring contained data about what action was performed and at what location. However, because of this format it became near impossible to analyze the different types of data as everything was defined as a full string. For that reason the database needed to be adjsuted in excel beforehand and all data was split using commas. 
 
 {{< figcontainer class="large" >}}
-{{< fig src="images/csvvoor.png" caption="People knowing ways of contacting the municipality" name="whiteboard1" >}}
-{{< fig src="images/pythoncsvvoor.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
-{{< fig src="images/pythoncsvna.png" caption="People having participated in co-design sessions" name="whiteboard1" >}}
+{{< fig src="images/csvvoor.png" caption="The log file before it was altered a bit manualy" name="whiteboard1" >}}
+{{< fig src="images/pythoncsvvoor.png" caption="The python output of the not yet altered log file" name="whiteboard1" >}}
+{{< fig src="images/pythoncsvna.png" caption="The python output of the altered log file" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
 Most of the taps on the screen happened on the right side, as visible in both scatter plots below. To rotate an object people would have place there finger on the screen and swipe horizontally or vertically. Interestingly, these actions happened mostly at the middle right of the screen. Therefore, it could be smart to implement future buttons at the right of the screen to increase their efficiency. This could also depend on whether the users were right-handed. Implementing an option to flip the interface could be option to increase accessiblity for left-handed users.
 
-The bottom scatter plot show where all users manipulated their assets in the scale-model of the city. As the origin of graphs vary based on where the iPad was calibrated (0,0), these values cannot be stacked. However, they an be compared relative to eachother. Fun to see are the locations of the row of lamp posts in every single plot, showing why an alignment function was preferred.
+The bottom scatter plot show where all users manipulated their assets in the scale-model of the city. As the origin of graphs vary based on where the iPad was calibrated (0,0), these values cannot be stacked. This is mainly evident from the third user. This person calibrated the iPad at the far right corner of the table, which led to a different calibration spot rotation wise.
+
+However, they an be compared relative to eachother. Fun to see are the locations of the row of lamp posts in every single plot, showing why an alignment function was preferred.
 
 {{< figcontainer class="large" >}}
 {{< fig src="images/indication2.png" caption="An indication of the x-, y- and z-axis on both the iPad and table" name="whiteboard1" >}}
 {{< fig src="images/plots.jpg" caption="Where people tapped the screen of the iPad to click or rotate" name="whiteboard1" >}}
 {{< fig src="images/katrienbuild.png" caption="The final build of the first user" name="whiteboard1" >}}
-{{< fig src="images/locationtableplots.jpg" caption="The locations of all placed objects on the table from the first three users (note that the third user started at the far right corner of the table, which led to a different (rotated) calibration moment)" name="whiteboard1" >}}
+{{< fig src="images/locationtableplots.jpg" caption="The locations of all placed objects on the table from the first three users" name="whiteboard1" >}}
 {{< /figcontainer >}}
 
 The street lantern was the most popular asset to be placed in the scene, whereas the bench was the item most often added to the inventory. It’s highly possible the bench is often chosen first because it is often immediately associated with the goal of 'designing a park' and therefore thrown out of the inventory once other items were added to the inventory. This means it had to be added to the inventory once again. This would explain why people wanted to be able to select which items go in and out of their inventory themselves, which was found out in the quantitative analysis. This assures us this still is a functionality we need to improve on regarding the usability of the system.

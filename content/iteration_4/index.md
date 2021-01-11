@@ -39,7 +39,7 @@ Most part of the project has been dedicated towards developing this system. For 
 {{< figcontainer class="small">}}
 {{< video src="images/2020-10-27_render_final.mp4" caption="Final composited render (27/10/2020)" gif="true" >}}
 {{< video src="images/2020-10-28_build_system_1.mp4" caption="The very first version of the AR build system (28/10/2020)" gif="true" >}}
-{{< fig src="images/overdeschouder.jpg" caption="Using the finalized app outside" >}}
+{{< fig src="images/2020-12-12_improved_models.jpg" caption="" >}}
 {{< /figcontainer >}}
 
 {{< button href="/ar_build_system_iteration_4" caption="Read further at AR Build System" >}}
@@ -65,3 +65,5 @@ To set things straight, our goal was to have the coolest demo day page of all. W
 {{< /figcontainer >}}
 
 {{< button href="/final_demoday" caption="Read further at Demoday 18 December 2020" >}}
+
+{{< button href="/finaldesignurbanar" caption="Read further at Final Design - UrbanAR" >}}
