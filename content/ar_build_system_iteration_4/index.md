@@ -43,7 +43,7 @@ A complicated process, but highly rewarding because the end result is identical 
 
 ### Workflow documentation
 Because this workflow was so interesting to figure out, we created a document to track the progress and write down techniques and learning points:
-{{< pdf href="/test" src="">}}
+{{< pdf src="images/blender_ar_pdf_thumbnail.jpg" href="images/How to use Blender for Augmented Reality UI mockups.pdf" caption="How to use Blender for Augmented Reality UI mockups">}}
 
 ## First steps
 28 October 2020 was the very first version of the AR Build System in action. This was made using Unity + ARFoundation and tested on the iPad Pro. This was not the only amazing thing this day, it also was Timo's birthday. He has turned 20! :)
