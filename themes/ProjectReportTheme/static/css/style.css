@@ -487,6 +487,7 @@ blockquote p {
     position:relative;
     transition: transform .2s;
     max-width:30rem;
+    margin:auto;
 }
 
 .pdf-figure:hover .image-container {
@@ -604,7 +605,7 @@ blockquote p {
     background-color:#00ADED;
     color:white;
     padding:2rem 2rem;
-    max-width:40rem;
+    max-width:52rem;
     text-align:center;
     font-size:2rem;
     border-radius:3rem;

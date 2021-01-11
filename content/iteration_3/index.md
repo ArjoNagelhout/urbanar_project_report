@@ -109,13 +109,6 @@ However, not everyone will be interested in the more serious, communicative char
 
 The current voting system was sensitive for people willing to troll their neighborhood and municipality. We got rid of the dislike button, as ideas could be disliked by groups on purpose. A personal profile needed to be made in which a user can find his/her achievements, as well as options to customize their interface. Solely screenshots of the AR build submission could cause confusion and a button to view the build in a real-world context was added. Furthermore, a description section was added so ideas could be sustained with some background knowledge.
 
-An ideation session about the name of our concept was conducted. Eventually the name TinkerTown was chosen and a logo was made, only to be discarded a day later. We thought it sounded too childish and did not convey the message of serving as a way of participating in urban design and planning. Up until a few days before the final day the product would stay nameless.
-
-{{< figcontainer class="small" >}}
-{{< fig src="images/namegenerationmidterm.png" caption="Ideation about the name of our product" name="ideation" >}}
-{{< fig src="images/logov1.jpg" caption="The TinkerTown logo" name="tinkertown" >}}
-{{< /figcontainer >}}
-
 ## Further Design and Ideation AR Build System
 We continued exploring different directions we could go in with the build system, while staying true to our previously noted goals. We explored the direction of having everything made of foldable digital paper. This would be similar to how one could make 3d models in the real world using paper, thus improving intuitiveness. This would however, introduce a lot of complexity for the average person and was not the main focus of the app at this point. 
 
@@ -147,16 +140,13 @@ The [process of urban planning has multiple phases as can be seen in the image b
 
 Many sources indicate the importance of citizens being included in the process, as these citizens have different visions and goals for the city, many other stakeholders won't have thought of. Sadly, the actual participation of citizens in this process is often low (O. Smørdal, K. Ebbing Wensaas, S. Lopez-Aparicio, I Nilstad Pettersen, K. Hoelscher, 2016). This low participation has many causes, but are mainly due to the next three considerations stated in this paper to which many current applications cannot comply.
 
-> "How can the silos of planning and governance be managed?"
-
+*"How can the silos of planning and governance be managed?"*\
 We believe our app can make it possible to include multiple stakeholders, as urban planning will be decentralised and accessible to everyone.
 
-> "How can the complexity of planning be embraced?"
-
+*"How can the complexity of planning be embraced?"*\
 We think the ability to create your own builds via an inutitive AR build system and share them on our platform allows the user to more easily share and communicate their visions and take away more of the process' complexity.
 
-> "How can the quality of dialogues and collaborative learning be improved?"
-
+*"How can the quality of dialogues and collaborative learning be improved?"*\
 Mobile phones serve as a bridge between the earlier adapted traditional concepts of community and citizen media. 
 Here they focus on the strong communicative aspect social media platforms process in order to reach out to citizens, which however do lack the appropriate tools. This shows the potential our app offers as a communitative platform. The AR build system provides the appropriate tools and the platform is the new urban social media platform to reach out to many new stakeholders.
 
@@ -191,6 +181,13 @@ After this, we continued defining the workings of the AR Build System via the fo
 
 
 ## Midterm concept
+An ideation session about the name of our concept was conducted. Eventually the name TinkerTown was chosen and a logo was made, only to be discarded a day later. We thought it sounded too childish and did not convey the message of serving as a way of participating in urban design and planning. Up until a few days before the final day the product would stay nameless.
+
+{{< figcontainer class="medium" >}}
+{{< fig src="images/namegenerationmidterm.png" caption="Ideation about the name of our product" name="ideation" >}}
+{{< fig src="images/logov1.jpg" caption="The TinkerTown logo" name="tinkertown" >}}
+{{< /figcontainer >}}
+
 The build system is the main way of expressing one’s ideas about a specific part of the environment. The goal is to make this system both easy to use and expressive. It should allow artists, designers, and creative people to carry out their ideas, all the while remaining non-intimidating for beginning users. 
 
 For the build system, defining how the augmented reality part would work is of utmost importance, because of the novelty and wide range of possible implementations. 
@@ -227,10 +224,14 @@ Championships are pre-defined, time-bounded tournaments set up by the municipali
 
 For the midterm we used two mediums to communicate our concept: a project description, a video and some images if desired:
 
-*"We aim to empower citizens to change the urban environment for the better, to increase their quality of living and connection to their environment.*\
-*We will do this through the use of a platform on which people can create, share, and discuss ideas. These ideas take on the form of contextual - location-based - augmented reality scenes, built up from an endless variety of objects.*\
-*Because you might not have the time to create a bench from scratch, the idea of remixing is introduced: you can choose to recycle objects, such as benches or greenery from the library.*\
-*You can also create new objects: Every object in our app is made up of primitive shapes, such as a plane, cylinder or sphere These shapes can be positioned in space and painted using the paint tool.*\
+*"We aim to empower citizens to change the urban environment for the better, to increase their quality of living and connection to their environment.*
+
+*We will do this through the use of a platform on which people can create, share, and discuss ideas. These ideas take on the form of contextual - location-based - augmented reality scenes, built up from an endless variety of objects.*
+
+*Because you might not have the time to create a bench from scratch, the idea of remixing is introduced: you can choose to recycle objects, such as benches or greenery from the library.*
+
+*You can also create new objects: Every object in our app is made up of primitive shapes, such as a plane, cylinder or sphere These shapes can be positioned in space and painted using the paint tool.*
+
 *Ideas can be created as part of a challenge, created by a municipality or design firm, but you can also choose to create ideas at any location. To allow people to have meaningful discussions about the designs, the ability for upvoting and commenting is included. You can explore designs from all over the world by looking around on the world map."*
 
 The goal of our video was to be engaging and get make people interested in the potential this project has to offer: 
@@ -260,9 +261,6 @@ After this fun and engaging introduction, the problem statement and solution wou
 {{< fig src="images/arjotekening3.jpeg" caption="Potential of app visualisation 3" name="arjotekening3" >}}
 {{< fig src="images/arjotekening4.jpeg" caption="Potential of app visualisation 4" name="arjotekening4" >}}
 {{< /figcontainer >}}
-
-
-However, we were not able to create a lot of video material for the midterm demo day such as mockup prototypes or more VFX shots. The storyboard could not be realized all the way through. Therefore, the moments someone was speaking without any visual support, our video could felt rather lengthy and hard to follow for the viewer.
 
 
 
