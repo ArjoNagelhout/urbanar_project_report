@@ -18,6 +18,6 @@ In the end, we are convinced we have had an amazing project, with outstanding re
 
 {{< fig src="images/dutchdesigndaily.png" caption="Our project has been published at Dutch Design Daily!" >}}
 
-{{< button href="/whatsnext" caption="Read further at What's next?" >}}
+{{< button href="/behindthefruitschaal" caption="Read further at Behind 'De Fruitschaal" >}}
 
 

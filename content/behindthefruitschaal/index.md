@@ -20,10 +20,10 @@ I don't think an explanation is needed to be honest. Just look at the pictures a
 {{< fig src="images/delmar3.png" caption="Delmar" name="whiteboard1" >}}
 {{< video src="images/timobeen.mp4" caption="Timo" gif="true">}}
 {{< video src="images/timojaniek.mp4" caption="Timo and Janiek" gif="true">}}
-{{< video src="images/drone_shot_timo.mp4" caption="Timo and Arjo" gif="true">}}
+{{< video src="images/drone_shot.mp4" caption="Timo and Arjo" gif="true">}}
 {{< /figcontainer >}}
 
-## We had insane dedication (this is true)
+## We had insane dedication
 In order to make sure we had enough time to make shots for the final demo day video we even organized a sleep over. We had some great lights and music, that's for sure.
 {{< figcontainer class="large">}}
 {{< fig src="images/laatmaken2.png" caption="Yeah we had dedication already for the midterm (Yes it was 4AM in the mornin')" name="whiteboard1">}}
