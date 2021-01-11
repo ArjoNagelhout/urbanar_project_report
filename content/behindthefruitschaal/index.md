@@ -7,6 +7,8 @@ menu: "main"
 weight: 7
 ---
 
+Okay, so... You're probably wondering: WHAT IS DE FRUITSCHAAL? Well that's how we called our project group. Let me give you some background information. During the very first meeting Timo called Janiek a 'Druif' (grape in English) because of her attitude and Arjo was the only healthy person as he was eating an apple so he was called 'Appel'. That's where it all started and we decided 'De Fruitschaal' had to be our name. Now we all needed nicknames. Delmar was old so he was called 'Papa Delmar' and yeah originality vanished or something so now Timo was now called 'Tima'. That's it and have fun looking through these idiotic moments! :)
+
 ## This whole project has been a very interesting experience, with some very extraordinary people... 
 Let's get this straight, we were four crackheads and it was a lot of fun.
 I don't think an explanation is needed to be honest. Just look at the pictures and you will see.
@@ -35,8 +37,7 @@ More meetups were organized to make the final report. Or this website really. We
 {{< fig src="images/IMG_6407.JPG" caption="Pizzaaaa" name="whiteboard1" >}}
 {{< fig src="images/foto1.jpg" caption="Pat & Mat as passtime" name="whiteboard1" >}}
 {{< video src="images/film1.mp4" caption="Arjo being arjo" gif="true">}}
-{{< video src="images/film4.mp4" caption="And we made some music">}}
-{{< video src="images/film5.mp4" caption="And some more music">}}
+{{< video src="images/film4.mp4" caption="And we made some music at Metaforum at midnight">}}
 {{< /figcontainer>}}
 
 
