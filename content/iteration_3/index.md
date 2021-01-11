@@ -160,14 +160,26 @@ We think the ability to create your own builds via an inutitive AR build system 
 Mobile phones serve as a bridge between the earlier adapted traditional concepts of community and citizen media. 
 Here they focus on the strong communicative aspect social media platforms process in order to reach out to citizens, which however do lack the appropriate tools. This shows the potential our app offers as a communitative platform. The AR build system provides the appropriate tools and the platform is the new urban social media platform to reach out to many new stakeholders.
 
-## Continued concepting AR Build System
+## Mockups AR Build System
+To further work out the AR Build system it was important to transform it from sketches to actual application mockups. This allowed us to make more informed design decisions:
 {{< figcontainer >}}
 {{< video src="images/animation_finger_drawing.mp4" caption="Animated interaction concept for creating planes (7 October 2020)" gif="true" >}}
 {{< fig src="images/affinity_designer_concept.jpg" caption="AR Build system concept (9 October 2020)">}}
+{{< fig src="images/adobe_xd_mockup_uploading.jpg" caption="Adobe XD Mockup (9 October 2020)">}}
+{{< fig src="images/adobe_xd_mockup_patterns_objects.jpg" caption="Adobe XD Mockup (9 October 2020)">}}
+{{< video src="images/adobe_xd_mockup_video.mp4" caption="Video of the mockup" gif="true" >}}
 {{< /figcontainer >}}
 
+## Inventory prototype using Unity
+Because having the inventory with assets was so central to the current design of the build system, we created a quick interface prototype in Unity to see how the mockups would translate into an eventual finished prototype. 
 
-## Further Design and Ideation AR Build System
+{{< video src="images/unity_prototype.mp4" caption="Unity inventory prototype" gif="true" >}}
+
+## Further design on AR Build System
+After this, we continued defining the workings of the AR Build System via the following sketches and mockups:
+
+{{< fig src="images/adobe_xd_build_system_final.jpg" caption="Adobe XD build system mockup (18 October 2020)">}}
+
 {{< figcontainer >}}
 {{< fig src="images/2020-10-18_build_hierarchy.jpeg" caption="Build hierarchy (18 October 2020)">}}
 {{< fig src="images/2020-10-19_build_system.jpeg" caption="Build system (19 October 2020)">}}
@@ -176,14 +188,7 @@ Here they focus on the strong communicative aspect social media platforms proces
 {{< fig src="images/2020-10-20_selecting_objects.jpeg" caption="Selecting objects (20 October 2020)">}}
 {{< /figcontainer >}}
 
-## Concepting + beginnings of realisation AR Build System
-{{< figcontainer >}}
-{{< fig src="images/Screenshot 2021-01-07 at 16.31.03.png">}}
-{{< fig src="images/Screenshot 2021-01-07 at 16.31.17.png">}}
-{{< fig src="images/Screenshot 2021-01-07 at 16.31.24.png">}}
-{{< fig src="images/Screenshot 2021-01-07 at 16.31.30.png">}}
-{{< fig src="images/Screenshot 2021-01-07 at 16.31.35.png">}}
-{{< /figcontainer >}}
+
 
 ## Midterm concept
 The build system is the main way of expressing one’s ideas about a specific part of the environment. The goal is to make this system both easy to use and expressive. It should allow artists, designers, and creative people to carry out their ideas, all the while remaining non-intimidating for beginning users. 
