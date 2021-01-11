@@ -17,7 +17,7 @@ Whereas a mockup prototype of our platform was created in Adobe XD for the midte
 
 {{< figcontainer >}}
 {{< fig src="images/laptopscreen2.jpg" caption="Implementation of the Mapbox SDK in Unity" name="laptopscreen" >}}
-{{< video src="images/unitypt.MOV" caption="First operational prototype" gif="blueunity" >}}
+{{< video src="images/unity_test.mp4" caption="First operational prototype" gif="blueunity" >}}
 {{< fig src="images/IMG_5649.JPG" caption="Newer version in which you can see yourself in the actual world" name="redunity" >}}
 {{< fig src="images/unitybuttons.JPG" caption="The addition of the build button and profile page" name="buttons" >}}
 {{< /figcontainer >}}
